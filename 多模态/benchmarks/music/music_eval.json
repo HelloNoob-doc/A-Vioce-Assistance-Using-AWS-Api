@@ -1,0 +1,1302 @@
+[
+ {
+  "image": "0_34.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*\t*^\n*clefF4\t*clefG2\t*clefG2\n*k[b-e-a-]\t*k[b-e-a-]\t*k[b-e-a-]\n*M916\t*M916\t*M916\n=-\t=-\t=-\n48EE-LLL\t4.bb-[\t8.r\n48G\t.\t.\n48E-\t.\t.\n48G\t.\t.\n48E-\t.\t.\n48G\t.\t.\n48E-\t.\t.\n48G\t.\t.\n48E-JJJ\t.\t.\n48EE-LLL\t.\t16r\n48G\t.\t.\n48E-\t.\t.\n48G\t.\t16r\n48E-\t.\t.\n48G\t.\t.\n48E-\t.\t16ee-\n48G\t.\t.\n48E-JJJ\t.\t.\n48EE-LLL\t8.bb-]\t16eeLL\n48A-\t.\t.\n48E-\t.\t.\n48A-\t.\t16ff\n48E-\t.\t.\n48A-\t.\t.\n48E-\t.\t16b-JJ\n48A-\t.\t.\n48E-JJJ\t.\t.\n*clefG2\t*\t*\n*\t*v\t*v\n=\t=\n8.r\t48bb-LLL\n.\t48ccc\n.\t48bb-\n.\t48aa\n.\t48bb-\n.\t48ccc\n.\t48ddd\n.\t48eee-\n.\t48cccJJJ\n48bb-LLL\t48dddLLL\n48ccc\t48eee-\n48bb-\t48ddd\n48aa\t48ccc\n48bb-\t48ddd\n48ccc\t48eee-\n48ddd\t48fff\n48eee-\t48ggg\n48cccJJJ\t48eee-JJJ\n48dddLLL\t48fffLLL\n48eee-\t48ggg\n48ddd\t48fff\n48ccc#\t48eee\n48ddd\t48fff\n48eee-\t48ggg\n48fff\t48aaa-\n48ggg\t48bbb-\n48eeeJJJ\t48gggJJJ\n=\t=\n48fffLLL\t48aaa-LLL\n48ggg\t48bbb-\n48fff\t48aaa-\n48eee-\t48ggg\n48fff\t48aaa-\n48eee-\t48ggg\n48ddd\t48fff\n48eee-\t48ggg\n48dddJJJ\t48fffJJJ\n48cccLLL\t48eee-LLL\n48ddd\t48fff\n48ccc\t48eee-\n48bb-\t48ddd\n48ccc\t48eee-\n48bb-\t48ddd\n48ccc\t48eee-\n48ddd\t48fff\n48cccJJJ\t48eee-JJJ\n48dddLLL\t48fffLLL\n48eee-\t48ggg\n48ddd\t48fff\n48eee-\t48ggg\n48fff\t48aaa-\n48ggg\t48bbb-\n48aaa-\t48cccc\n48ggg\t48bbb-\n48fffJJJ\t48ddddJJJ\n=\t=\n48gggLLL\t48eeee-LLL\n48fff\t48dddd\n48eee-\t48cccc\n48ddd\t48bbb-\n48ccc\t48aaa-\n48bb-\t48ggg\n48aa-\t48fff\n48gg\t48eee-\n48ffJJJ\t48dddJJJ\n48ggLLL\t48eee-LLL\n48ff\t48ddd\n48ee-\t48ccc\n48dd\t48bb-\n48cc\t48aa-\n48b-\t48gg\n48a-\t48ff\n48g\t48ee-\n48fJJJ\t48ddJJJ\n*clefF4\t*\n48gLLL\t48ee-LLL\n48f\t48dd\n48e-\t48cc\n48d\t48b-\n48c\t48a-\n48B-\t48g\n48A-\t48f\n48G\t48e-\n48FJJJ\t48dJJJ\n=\t=\n8.r\t8e-L\n.\t16B-Jk\n8EE-L\t8.B-\n16BBB-Jk\t.\n8.BBB-[\t8aa-L\n.\t16ddJk\n=\t=\n8.BBB-_\t8aaa-L\n.\t16dddJk\n16BBB-LL]\t8ff 8aa- 8fffL\n16BBB- 16BB-\t.\n16EE- 16E-JJ\t16ee- 16gg 16eee-Jk\n16r\t8ee- 8gg 8eee-\n16BB- 16B-LL\t.\n16E- 16e-JJ\t16r\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The instinctive inspection motivates hut.\n!!!COM:Diana Wetzel\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-]\t*k[b-e-a-]\n*M1216\t*M1216\n=-\t=-\n16GG 16BB- 16CLL\t8.fL\n16GG 16BB- 16C\t.\n16GG 16BB- 16CJJ\t.\n16GG 16BB- 16CLL\t8.eJ[\n16GG 16BB- 16C\t.\n16GG 16BB- 16CJJ\t.\n16GG 16BB- 16CLL\t8eL]\n16GG 16BB- 16C\t.\n16GG 16BB- 16CJJ\t16dd-Jk[\n16GG 16BB- 16CLL\t8dd-L]\n16GG 16BB- 16C\t.\n16GG 16BB- 16C 16EJJ\t16ccJk\n=\t=\n16AA- 16C 16FLL\t8ccL\n16AA- 16C 16F\t.\n16AA- 16C 16FJJ\t16ffJk[\n16AA 16C 16FLL\t8ffL]\n16AA 16C 16F\t.\n16AA 16C 16FJJ\t16ee-Jk[\n16BB- 16D- 16FLL\t8ee-L]\n16BB- 16D- 16F\t.\n16BB- 16D- 16FJJ\t16dd-Jk\n16D- 16F 16B-LL\t8ccL\n16D- 16F 16B-\t.\n16D- 16F 16B-JJ\t16b-Jk\n=\t=\n16C 16F 16A-LL\t8.a-[\n16C 16F 16A-\t.\n16C 16F 16A-JJ\t.\n16C 16F 16A-LL\t16a-LL]\n16C 16F 16A-\t16b-\n16C 16F 16A-JJ\t32ccL\n.\t64b-L\n.\t64a-JJJJ\n16C 16E 16GLL\t8.g[\n16C 16E 16G\t.\n16C 16E 16GJJ\t.\n16BB- 16C 16E 16GLL\t16gLL]\n16AA- 16C 16F\t16a-\n16GG 16C 16EJJ\t16b-JJ\n=\t=\n16FF 16C 16FLL\t4.a-\n16FF 16AA- 16C\t.\n16FF 16AA- 16CJJ\t.\n16FF 16AA- 16CLL\t.\n16FF 16AA- 16C\t.\n16FF 16AA- 16CJJ\t.\n16EE- 16AA- 16D-LL\t4.b-\n16EE- 16AA- 16D-\t.\n16EE- 16AA- 16D-JJ\t.\n16EE- 16GG 16D-LL\t.\n16EE- 16GG 16D-\t.\n16EE- 16GG 16D-JJ\t.\n=\t=\n16EE- 16AA- 16CLL\t4.cc\n16EE- 16AA- 16C\t.\n16EE- 16AA- 16CJJ\t.\n16AA- 16E- 16A-LL\t.\n16AA- 16E- 16A-\t.\n16AA- 16E- 16A-JJ\t.\n16BB- 16D- 16A-LL\t8.dd-L\n16BB- 16D- 16A-\t.\n16BB- 16D- 16A-JJ\t.\n16BB- 16D- 16GLL\t8.ffJ\n16BB- 16D- 16G\t.\n16BB- 16D- 16GJJ\t.\n=\t=\n16C 16E- 16A-LL\t8ee-L\n16C 16E- 16A-\t.\n16C 16E- 16A-JJ\t16aa-Jk\n16D- 16A- 16d-LL\t8ffL\n16D- 16A- 16d-\t.\n16D- 16A- 16d-JJ\t16fffJk[\n16E- 16A- 16cLL\t8fffL]\n16E- 16A- 16c\t.\n16E- 16A- 16cJJ\t16eee-Jk[\n16E- 16G 16B- 16d-LL\t16eee-LL]\n16E- 16G 16B- 16d-\t16ccc\n16E- 16G 16B- 16d-JJ\t32ddd-L\n.\t32ggJJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_21.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The whispering revival mistakes duplexer.\n!!!COM:Kim Isakson\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-]\t*k[b-e-a-]\n*M68\t*M68\n=-\t=-\n4.B- 4.b->\t8r\n.\t8eee-L\n.\t8dddJ\n4.A- 4.a->\t8r\n.\t8ddL\n.\t8ccc-J\n=\t=\n4.G- 4.g->\t8r\n.\t8ccc-L\n.\t8bb-J\n4.F 4.f\t8r\n.\t8aa-L\n.\t8aaa-J\n=\t=\n8r\t4.b- 4.ee- 4.gg-\n8dL\t.\n8e-J\t.\n8r\t4.ee- 4.gg- 4.bb-\n8dL\t.\n8e-J\t.\n=\t=\n8r\t4.gg- 4.bb- 4.eee-\n8dL\t.\n8e-J\t.\n8r\t4.ee- 4.ccc 4.eee-\n8AL\t.\n8g-J\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_17.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*\t*^\n*clefF4\t*clefG2\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\t*k[f#c#g#]\n*M916\t*M916\t*M916\n=-\t=-\t=-\n16r\t8g\t16eLL\n8CC 8C\t.\t16e\n.\t16r\t16eJJ\n16r\t8.r\t16eLL\n8DD 8D\t.\t16e\n.\t.\t16eJJ\n16r\t8.r\t16c 16eLL\n16EE 16ELL\t.\t16c 16e\n16AAA 16AAJJ\t.\t16c 16eJJ\n=\t=\t=\n8GGG# 8GG#\t16r\t16d 16eLL\n.\t8g#\t16d 16e\n16r\t.\t16d 16eJJ\n8.r\t16r\t16d 16eLL\n.\t8a\t16d 16e\n.\t.\t16d 16eJJ\n8.r\t16r\t16d 16eLL\n.\t16bLL\t16d 16e\n.\t16eJJ\t16dJJ\n=\t=\t=\n16r\t8e\t16cLL\n8AAA 8AA\t.\t16c\n.\t16r\t16cJJ\n16r\t8.r\t16cLL\n8BBB- 8BB-\t.\t16c\n.\t.\t16cJJ\n16r\t8.r\t16A 16cLL\n16CC 16CLL\t.\t16A 16c\n16FFF 16FFJJ\t.\t16A 16cJJ\n=\t=\t=\n8EEE 8EE\t16r\t16B- 16cLL\n.\t8e\t16B- 16c\n16r\t.\t16B- 16cJJ\n8.r\t16r\t16B- 16cLL\n.\t8f\t16B- 16c\n.\t.\t16B- 16cJJ\n8.r\t16r\t16B- 16cLL\n.\t16gLL\t16B- 16c\n.\t16cJJ\t16B-JJ\n=\t=\t=\n16r\t8cL\t16B-LL\n8FF 8F\t.\t16A\n.\t16cJk\t16AJJ\n16r\t16cLL\t16ALL\n8DD# 8D#\t16B 16f#\t16A\n.\t16BJJ\t16AJJ\n16r\t8BL\t16ALL\n8EE 8E\t.\t16G#\n.\t16BJk\t16G#JJ\n*clefG2\t*\t*\n=\t=\t=\n16r\t16B-LL\t16GLL\n8cc#\t16B- 16e\t16G\n.\t16AJJ\t16GJJ\n16r\t8AL\t16GLL\n8dd\t.\t16F#\n.\t16AJk\t16F#JJ\n16r\t16F 16A-LL\t8.r\n8b\t16F 16G 16d\t.\n.\t16F 16GJJ\t.\n*clefF4\t*\t*\n*\t*v\t*v\n*\t*clefF4\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_82.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The giddy goodbye balances acupuncture.\n**kern\t**kern\n*\t*^\n*clefF4\t*clefG2\t*clefG2\n*k[b-e-]\t*k[b-e-]\t*k[b-e-]\n*M916\t*M916\t*M916\n=-\t=-\t=-\n48GGLLL\t8.b-\t16dLL\n48D\t.\t.\n48G\t.\t.\n48FF#\t.\t16d\n48D\t.\t.\n48F#\t.\t.\n48GG\t.\t16dJJ\n48D\t.\t.\n48GJJJ\t.\t.\n48DDLLL\t8bb-L\t16ffLL\n48BB-\t.\t.\n48D\t.\t.\n48BBB-\t.\t16dd\n48BB-\t.\t.\n48F\t.\t.\n48EE-\t16ggJk\t16b-JJ\n48BB-\t.\t.\n48E-JJJ\t.\t.\n48EE-LLL\t8.gg\t16b-LL\n48BB-\t.\t.\n48E-\t.\t.\n48DD\t.\t16b- 16ff\n48GG\t.\t.\n48D\t.\t.\n48CC\t.\t16cc 16ee-JJ\n48GG\t.\t.\n48CJJJ\t.\t.\n=\t=\t=\n48BBBLLL\t8ggL\t16ddLL\n48GG\t.\t.\n48BB\t.\t.\n48GGG\t.\t16b\n48GG\t.\t.\n48D\t.\t.\n48CC\t16ee-Jk\t16gJJ\n48GG\t.\t.\n48CJJJ\t.\t.\n48CCLLL\t8.cc 8.ee-L\t16gLL\n48GG\t.\t.\n48C\t.\t.\n48BBB\t.\t16g\n48GG\t.\t.\n48BB\t.\t.\n48CC\t.\t16gJJ\n48GG\t.\t.\n48CJJJ\t.\t.\n48BBB-LLL\t8.cc 8.ee-J\t16g-LL\n48EE-\t.\t.\n48BB-\t.\t.\n48AAA\t.\t16g-\n48EE-\t.\t.\n48AA\t.\t.\n48BBB-\t.\t16g-JJ\n48EE-\t.\t.\n48BB-JJJ\t.\t.\n=\t=\t=\n48AAALLL\t4.cc 4.ee-\t16fLL\n48FF\t.\t.\n48AA\t.\t.\n48GGG#\t.\t16f\n48FF\t.\t.\n48GG#\t.\t.\n48AAA\t.\t16fJJ\n48FF\t.\t.\n48AAJJJ\t.\t.\n48AAALLL\t.\t16fLL\n48FF\t.\t.\n48AA\t.\t.\n48GGG#\t.\t16f\n48FF\t.\t.\n48GG#\t.\t.\n48AAA\t.\t16fJJ\n48FF\t.\t.\n48AAJJJ\t.\t.\n48FFFLLL\t8.ee-\t16f 16aLL\n48EE\t.\t.\n48FF\t.\t.\n48GGG\t.\t16f 16b-\n48FF\t.\t.\n48GG\t.\t.\n48AAA\t.\t16f 16ccJJ\n48FF\t.\t.\n48AAJJJ\t.\t.\n=\t=\t=\n48BBB-LLL\t8.ddL\t16fLL\n48FF\t.\t.\n48BB-\t.\t.\n48AAA\t.\t16f\n48FF\t.\t.\n48AA\t.\t.\n48BBB-\t.\t16fJJ\n48FF\t.\t.\n48BB-JJJ\t.\t.\n48BBB-LLL\t8.ffJ\t16f 16a-LL\n48AA\t.\t.\n48BB-\t.\t.\n48CC\t.\t16f 16a-\n48BB-\t.\t.\n48C\t.\t.\n48DD\t.\t16f 16a-JJ\n48BB-\t.\t.\n48DJJJ\t.\t.\n48EE-LLL\t16ffLL\t16gLL\n48BB-\t.\t.\n48E-\t.\t.\n48EE-\t16ee-\t16g\n48BB-\t.\t.\n48E-\t.\t.\n48EE\t16b- 16ccJJ\t16gJJ\n48BB-\t.\t.\n48EJJJ\t.\t.\n=\t=\t=\n48FFLLL\t8.b-L\t16d 16fLL\n48BB-\t.\t.\n48F\t.\t.\n48FF\t.\t16d 16f\n48AA\t.\t.\n48F\t.\t.\n48FF\t.\t16d 16fJJ\n48BB-\t.\t.\n48FJJJ\t.\t.\n48FFLLL\t8dd\t16e- 16fLL\n48AA\t.\t.\n48F\t.\t.\n48FF\t.\t16e- 16f\n48BB-\t.\t.\n48F\t.\t.\n48FF\t16ccJk\t16e- 16fJJ\n48AA\t.\t.\n48FJJJ\t.\t.\n8F 8fL\t8.r\t48aLLL\n.\t.\t48cc\n.\t.\t48aa\n.\t.\t48a\n.\t.\t48cc\n.\t.\t48ff\n16D 16dJk\t.\t48b-\n.\t.\t48ff\n.\t.\t48bb-JJJ\n*\t*v\t*v\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_78.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Robert Lopez\n**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M104\t*M104\n=-\t=-\n*k[b-e-a-]\t*k[b-e-a-]\n*M64\t*M64\n16r\t16d[ 16fLL[\n16BB- 16B-\t16d] 16fJJ]\n32.r\t32d 32fLLK\n.\t32r\n64BB- 64B-\t.\n16r\t16d 16fJJ\n16r\t16d[ 16fLL[\n16BB- 16B-\t16d] 16fJJ]\n32.r\t32d 32b-LLK\n.\t32r\n64GG 64G\t.\n16r\t16d 16b-JJ\n16r\t16g[ 16b-LL[\n16E- 16e-\t16g] 16b-JJ]\n32r\t32g 32b-LLK\n32E- 32e-\t32r\n16r\t16g 16b-JJ\n16r\t16g[ 16ee-LL[\n16C 16c\t16g] 16ee-JJ]\n32r\t32g 32ee-LLK\n32C 32c\t32r\n16r\t16g 16ee-JJ\n16r\t16cc[ 16ee-LL[\n16AA- 16A-\t16cc] 16ee-JJ]\n32r\t32cc 32ee-LLK\n32AA- 32A-\t32r\n16r\t16cc 16ee-JJ\n16r\t16cc[ 16aa-LL[\n16FF 16F\t16cc] 16aa-JJ]\n32r\t32cc 32ff 32aa-LLK\n32FF 32F\t32r\n16r\t16cc 16ff 16aa-JJ\n=\t=\n*M64\t*M64\n16r\t16cc 16ee[ 16gg[ 16cccLL[\n16CC 16EE 16GG 16C\t16cc 16ee] 16gg] 16cccJJ]\n32r\t32cc 32ee 32gg 32cccLLK\n32CC 32EE 32GG 32C\t32r\n16r\t16cc 16ee 16gg 16cccJJ\n16r\t16cc 16ee[ 16gg[ 16cccLL[\n16CC 16EE 16GG 16C\t16cc 16ee] 16gg] 16cccJJ]\n32r\t32cc 32ee 32gg 32cccLLK\n32CC 32EE 32GG 32C\t32r\n16r\t16cc 16ee 16gg 16cccJJ\n16r\t16cc[ 16ee[ 16gg[ 16cccLL[\n16CC 16EE 16GG 16C\t16cc] 16ee] 16gg] 16cccJJ]\n32r\t32cc 32cccLLK\n32CC 32C\t32r\n16r\t16cc 16cccJJ\n16r\t16cc[ 16cccLL[\n16CC 16C\t16cc] 16cccJJ]\n32r\t32cc 32cccLLK\n32CC 32C\t32r\n16r\t16cc 16cccJJ\n16r\t16cc[ 16cccLL[\n16CC 16C\t16cc] 16cccJJ]\n32r\t32cc 32cccLLK\n32CC 32C\t32r\n16r\t16cc 16cccJJ\n16r\t16cc[ 16cccLL[\n16AAA- 16AA-\t16cc] 16cccJJ]\n32r\t32cc 32cccLLK\n32AAA- 32AA-\t32r\n16r\t16cc 16cccJJ\n=\t=\n*k[b-e-a-d-g-]\t*k[b-e-a-d-g-]\n*M34\t*M34\n8AAA- 8AA-\t2.ccc[\n8r\t.\n8A- 8c\t.\n8r\t.\n4r\t.\n=\t=\n8AAA- 8AA-\t4ccc]\n8r\t.\n8c 8e-\t2eee-[\n8r\t.\n4r\t.\n=\t=\n8AAA- 8AA-\t4eee-]\n8r\t.\n8A- 8c 8e- 8a-\t2aaa-[\n8r\t.\n8AAA- 8AA-\t.\n8r\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_65.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Carrie Juelfs\n**kern\t**kern\n*clefG2\t*clefG2\n*k[f#c#g#d#a#e#b#]\t*k[f#c#g#d#a#e#b#]\n=-\t=-\n*M74\t*M74\n4g# 4b# 4dd# 4ff#\t36gg# 36ggg#LLL\n.\t36fff##\n.\t36fff#\n.\t36eee#\n.\t36ddd#\n.\t36ccc#\n.\t36bb#\n.\t36aa#\n.\t36gg#JJJ\n2r\t2ff#\n2r\t2ff##\n2r\t2gg#\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_42.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M128\t*M128\n=-\t=-\n8F-L\t4c- 4e--\n8F-\t.\n8F-J\t8B-- 8d-\n8F-L\t8r\n8F-\t8r\n8F-J\t8b-- 8dd-\n8F-L\t8r\n8F-\t8r\n8F-J\t8bb-- 8ddd-\n8BB-- 8D-L\t8r\n8F-\t8.r\n8F-J\t.\n.\t16B-- 16d-\n=\t=\n8r\t1.B-- 1.d- 1.g-\n8F-L\t.\n8F-J\t.\n8BB-- 8D-L\t.\n8F-\t.\n8F-J\t.\n8BB-- 8D-L\t.\n8F-\t.\n8F-J\t.\n8BB-- 8D-L\t.\n8F-\t.\n8F-J\t.\n=\t=\n8r\t4A- 4c- 4f-\n8F-L\t.\n8F-J\t8r\n8AA- 8C-L\t4r\n8F-\t.\n8F-J\t8r\n8r\t2.B-- 2.d-- 2.g--\n8F-L\t.\n8F-J\t.\n8BB-- 8D--L\t.\n8F-\t.\n8F-J\t.\n=\t=\n8r\t4A- 4c- 4f-\n8F-L\t.\n8F-J\t8r\n8AA- 8C-L\t4r\n8F-\t.\n8F-J\t8r\n8r\t2.b-- 2.dd-- 2.gg--\n8F-L\t.\n8F-J\t.\n8BB-- 8D--L\t.\n8F-\t.\n8F-J\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_25.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The onerous champion thrusts art.\n!!!COM:Richard Ackerson\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#]\t*k[f#c#]\n*M1216\t*M1216\n=-\t=-\n.\tcc#q\n16BB- 16E 16G 16B-LL\t4.ee\n16BB- 16E 16G 16B-\t.\n16AA 16E 16G 16AJJ\t.\n16AA 16E 16G 16ALL\t.\n16AA 16C# 16E 16G\t.\n16AA 16C# 16E 16GJJ\t.\n16AA 16D 16F#LL\t8.ddL\n16D 16F# 16A\t.\n16D 16F# 16AJJ\t.\n16D 16F# 16ALL\t8.ff#J\n16D 16F# 16A\t.\n16D 16F# 16AJJ\t.\n=\t=\n16C 16D# 16F# 16ALL\t8ff#L[\n16C 16D# 16F# 16A\t.\n16C 16D# 16F# 16AJJ\t16ff#Jk]\n16BB 16D# 16F# 16ALL\t8r\n16BB 16D# 16F# 16A\t.\n16E 16F# 16A 16cJJ\t16cc[\n16D# 16F# 16BLL\t8ccL]\n16D# 16F# 16A 16B\t.\n16D# 16F# 16A 16BJJ\t16bJk\n16D# 16F# 16A 16BLL\t8aaL\n16D# 16F# 16A 16B\t.\n16D# 16F# 16A 16BJJ\t16ff#Jk\n=\t=\n.\tff#q\n16E 16G 16BLL\t8aaL\n16E 16G 16B\t.\n16E 16G 16BJJ\t16ggJk[\n16E 16G 16BLL\t8.gg_\n16E 16A# 16c#\t.\n16E 16A# 16c#JJ\t.\n16E 16A# 16c#LL\t16ggLL]\n16E 16A# 16c#\t16gg[\n16E 16A# 16c#JJ\t16ggJJ]\n16D 16B 16dLL\t16r\n16D 16B 16d\t16ff#LL[\n16D 16B 16dJJ\t16ff#JJ]\n=\t=\n16C# 16A# 16c#LL\t16r\n16C# 16A# 16c#\t16eeLL[\n16C# 16A# 16c#JJ\t16eeJJ]\n16BB 16F# 16BLL\t16r\n16BB 16F# 16B\t16ddLL[\n16BB 16F# 16BJJ\t16ddJJ]\n16E 16G 16cLL\t16r\n16E 16G 16c\t16ccLL[\n16E 16G 16cJJ\t16ccJJ]\n16E# 16G# 16B 16dLL\t16r\n16E# 16G# 16B 16d\t16bLL[\n16E# 16G# 16B 16dJJ\t16bJJ]\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_90.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The moaning keeper enjoys majority.\n!!!COM:Kyle Weiss\n**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M38\t*M38\n=-\t=-\n16dLL\t8bL\n16e\t.\n16fn\t8dd\n16e\t.\n16d\t8ccJ\n16cJJ\t.\n=\t=\n16BLL\t8bL\n16A\t.\n16G#\t8.cc\n16F#\t.\n16E\t.\n16DJJ\t32bLL\n.\t32ccJJJ\n=\t=\n16ELL\t8bL\n16F#\t.\n16G#\t8ee\n16A\t.\n16B\t8ccJ\n16cJJ\t.\n=\t=\n16dLL\t8bL\n16e\t.\n16f\t8dd\n16e\t.\n16d\t8ccJ\n16cJJ\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_86.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Georgeanna Lico\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\n*M24\t*M24\n=-\t=-\n8r\t32g#LLL\n.\t32a\n.\t32b\n.\t32cc#JJ\n8EE 8EL\t8bJ\n8GG# 8G#\t8eeL\n8BB 8BJ\t8bJ\n=\t=\n8r\t32g#LLL\n.\t32a\n.\t32b\n.\t32cc#JJ\n8EE 8EL\t8bJ\n8GG# 8G#\t8eeL\n8BB 8BJ\t8bJ\n=\t=\n8E 8eL\t16g#LL\n.\t16b\n8AJ\t16a\n.\t16f#JJ\n8BL\t8g#L\n8BBJ\t8f#J\n=\t=\n4EE 4E\t8eL\n.\t16g#L\n.\t16aJJ\n8r\t16bLL\n.\t16e\n8BB 8B\t16f#\n.\t16d#JJ\n=\t=\n8GG# 8G#L\t8eL\n8EE 8EJ\t16g#L\n.\t16aJJ\n8r\t16bLL\n.\t16e\n8BB 8B\t16f#\n.\t16d#JJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_69.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Esperanza Louthan\n**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M1716\t*M1716\n=-\t=-\n*M54\t*M54\n4G# 4B# 4d#\t8b#\n.\t4gg#\n4F 4G# 4B 4d\t.\n.\t8b\n*k[b-e-]\t*k[b-e-]\n4F# 4A 4c 4e-\t4ee-\n4r\t8ddL\n.\t8ccJ\n4r\t8.b\n.\t16cc\n=\t=\n*M1216\t*M1216\n4.r\t8.cc\n.\t8.g\n16GLL\t16gLL\n16G\t16g\n16GJJ\t16gJJ\n16GLL\t16gLL\n16G\t16g\n16GJJ\t16gJJ\n=\t=\n16E- 16GLL\t16e- 16gLL\n16E- 16G\t16e- 16g\n16E- 16GJJ\t16e- 16gJJ\n16E- 16GLL\t16e- 16gLL\n16E- 16G\t16e- 16g\n16E- 16GJJ\t16e- 16gJJ\n16C 16E- 16GLL\t16c 16e- 16gLL\n16C 16E- 16G\t16c 16e- 16g\n16C 16E- 16GJJ\t16c 16e- 16gJJ\n16C 16E- 16GLL\t16c 16e- 16gLL\n16C 16E- 16G\t16c 16e- 16g\n16C 16E- 16GJJ\t16c 16e- 16gJJ\n=\t=\n16C 16E- 16GLL\t8.gg[\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t.\n16C 16E- 16GLL\t8ggL]\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t16ffJk[\n16C 16E- 16GLL\t8ffL]\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t16ee-Jk\n16C 16E- 16GLL\t16ddLL\n16C 16E- 16G\t16ee-\n16C 16E- 16GJJ\t16ccJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_50.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Cheri Child\n**kern\t**kern\n*clefG2\t*clefG2\n*k[b-e-a-d-]\t*k[b-e-a-d-]\n*M82\t*M82\n*met(c|)\t*met(c|)\n=-\t=-\n*met(C|)\t*met(C|)\n*M22\t*M22\n2B- 2f\t8ee-L\n.\t8dd-\n.\t8cc\n.\t8b-J\n4r\t4dd-\n4G 4e-\t4ee-\n=\t=\n*^\t*\n2A-X 2e-\t2.r\t8dd-L\n.\t.\t8cc\n.\t.\t8b-\n.\t.\t8a-J\n4r\t.\t4ee-\n4a-\t4c\t4aa-\n=\t=\t=\n2a-\t4d-\t8ggL\n.\t.\t8ff\n.\t4c\t8ff\n.\t.\t8ee-J\n4g\t4B-\t8ee-L\n.\t.\t8dd-\n4a-\t4A-\t8dd-\n.\t.\t8ccJ\n=\t=\t=\n4a-\t2e-\t4cc\n4g\t.\t4b-\n2r\t4r\t8ee-L\n.\t.\t8dd\n*clefF4\t*clefF4\t*\n.\t4AA 4A\t8ee-\n.\t.\t8ffJ\n*v\t*v\t*\n=\t=\n4BB- 4B-\t8ee-L\n.\t8dd-X\n4D- 4d-\t8cc\n.\t8b-J\n4r\t8dd-L\n.\t8cc\n4GG 4G\t8dd-\n.\t8ee-J\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_46.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The wretched liquidity thaws mortality.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M1716\t*M1716\n=-\t=-\n*M54\t*M54\n4G# 4B# 4d#\t8b#\n.\t4gg#\n4F 4G# 4B 4d\t.\n.\t8b\n*k[b-e-]\t*k[b-e-]\n4F# 4A 4c 4e-\t4ee-\n4r\t8ddL\n.\t8ccJ\n4r\t8.b\n.\t16cc\n=\t=\n*M1216\t*M1216\n4.r\t8.cc\n.\t8.g\n16GLL\t16gLL\n16G\t16g\n16GJJ\t16gJJ\n16GLL\t16gLL\n16G\t16g\n16GJJ\t16gJJ\n=\t=\n16E- 16GLL\t16e- 16gLL\n16E- 16G\t16e- 16g\n16E- 16GJJ\t16e- 16gJJ\n16E- 16GLL\t16e- 16gLL\n16E- 16G\t16e- 16g\n16E- 16GJJ\t16e- 16gJJ\n16C 16E- 16GLL\t16c 16e- 16gLL\n16C 16E- 16G\t16c 16e- 16g\n16C 16E- 16GJJ\t16c 16e- 16gJJ\n16C 16E- 16GLL\t16c 16e- 16gLL\n16C 16E- 16G\t16c 16e- 16g\n16C 16E- 16GJJ\t16c 16e- 16gJJ\n=\t=\n16C 16E- 16GLL\t8.gg[\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t.\n16C 16E- 16GLL\t8ggL]\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t16ffJk[\n16C 16E- 16GLL\t8ffL]\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t16ee-Jk\n16C 16E- 16GLL\t16ddLL\n16C 16E- 16G\t16ee-\n16C 16E- 16GJJ\t16ccJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_29.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Barbara Patterson\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-]\t*k[b-e-a-]\n*M38\t*M38\n=-\t=-\n16EE-LL\t8c 8ccL\n16C\t.\n16DD\t8a- 8aa-\n16C\t.\n16EE-\t8a- 8aa-J\n16CJJ\t.\n=\t=\n16FFLL\t8a- 8aa-L\n16C 16D\t.\n16EE-\t8g 8gg\n16C 16D\t.\n16FF\t8f 8ffJ\n16C 16DJJ\t.\n=\t=\n16GGLL\t8e- 8ee-L\n16C 16E-\t.\n16FF#\t8d 8dd\n16C 16E-\t.\n16GG\t8c 8ccJ\n16C 16E-JJ\t.\n=\t=\n16GGLL\t8B 8bL\n16D 16F\t.\n16GG\t8c 8cc\n16C 16E-\t.\n16GG\t8d 8ddJ\n16BB 16DJJ\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_94.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Linda Preston\n**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M22\t*M22\n=-\t=-\n4GG\t8gL\n.\t8a\n8FFL\t8b\n8EEJ\t8ccJ\n8DDL\t8ddL\n8CC\t8ee\n8AAA\t8ff\n8AAAJ\t8ff#J\n=\t=\n8GGGL\t1gg[\n8AAA\t.\n8BBB\t.\n8CCJ\t.\n8DDL\t.\n8EE\t.\n8FF\t.\n8FF#J\t.\n=\t=\n8GGL\t1gg_\n8AA\t.\n8BB\t.\n8CJ\t.\n8DL\t.\n8E\t.\n8F\t.\n8F#J\t.\n=\t=\n8GL\t1gg_\n8A\t.\n8B\t.\n8cJ\t.\n8dL\t.\n8e\t.\n8f\t.\n8f#J\t.\n*clefG2\t*\n=\t=\n8gL\t1gg_\n8a\t.\n8b\t.\n8ccJ\t.\n8ddL\t.\n8ee\t.\n8ff\t.\n8eeJ\t.\n=\t=\n4ff\t1gg_\n4r\t.\n8r\t.\n8eeL\t.\n8ff\t.\n8eeJ\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_10.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Rosario Walden\n**kern\t**kern\n*clefG2\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\n*M68\t*M68\n=-\t=-\n4d# 4f#\t4b 4bb\n8c# 8e\t8a 8aa\n4B 4d#\t4g# 4gg#\n8A 8c#\t8f# 8ff#\n*clefF4\t*\n=\t=\n4G# 4B\t4e 4ee\n8F# 8A\t8d# 8dd#\n4E 4G#\t4c# 4cc#\n8D# 8F#\t8B 8b\n=\t=\n4C# 4E\t4A 4a\n8BB 8D#\t8G# 8g#\n4AA 4C#\t4F# 4f#\n8GG# 8BB\t8E# 8e#\n=\t=\n4AA 4C#\t4F# 4f#\n8GG# 8BB\t8E# 8e#\n4AA 4C#\t4F# 4f#\n8AA# 8C#\t8E 8e\n=\t=\n16BBLL\t4d#\n16D# 16F#\t.\n16B\t.\n16D# 16F#\t.\n16B\t8r\n16D# 16F#JJ\t.\n16BLL\t4r\n16D# 16F#\t.\n16B\t.\n16D# 16F#\t.\n16B\t8r\n16D# 16F#JJ\t.\n=\t=\n16BBLL\t4.a[\n16D# 16F#\t.\n16B\t.\n16D# 16F#\t.\n16B\t.\n16D# 16F#JJ\t.\n16AALL\t8aL]\n16D# 16F#\t.\n16B\t8f#\n16D# 16F#\t.\n16B\t8d#J\n16D# 16F#JJ\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_71.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Leon Janek\n**kern\t**kern\n*clefG2\t*clefG2\n*k[]\t*k[]\n*M54\t*M54\n=-\t=-\n*M24\t*M24\n*^\t*\n16BLK\t4B\t8gg\n8.dJ\t.\t.\n.\t.\t16gLL\n.\t.\t16ddJJ\n=\t=\t=\n4d\t16dLK\t8r\n.\t8.AJ\t.\n.\t.\t16gLL\n.\t.\t16f#JJ\n4c\t16cLK\t8r\n.\t8.eJ\t.\n.\t.\t16aLL\n.\t.\t16eeJJ\n=\t=\t=\n4e\t16eLK\t8r\n.\t8.BJ\t.\n.\t.\t16aLL\n.\t.\t16g#JJ\n4d\t16dLK\t8r\n.\t8.fJ\t.\n.\t.\t16g# 16bLL\n.\t.\t16gg#JJ\n=\t=\t=\n16cLK\t4c\t8r\n8.eJ\t.\t.\n.\t.\t16a 16ccLL\n.\t.\t16aaJJ\n16dLK\t4B\t8r\n8.eJ\t.\t.\n.\t.\t16gg#LL\n.\t.\t16bbJJ\n=\t=\t=\n16cLK\t4A\t8r\n8.eJ\t.\t.\n.\t.\t16eeLL\n.\t.\t16cccJJ\n16BLK\t4B\t8r\n8.eJ\t.\t.\n.\t.\t16dd 16bbLL\n.\t.\t16eeJJ\n=\t=\t=\n*v\t*v\t*\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_54.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefF4\t*clefG2\n*k[b-]\t*k[b-]\n*M68\t*M68\n=-\t=-\n4FF 4F\t8A 8fL\n.\t8r\n8r\t8fJ\n*clefG2\t*\n4cc\t8cL\n.\t8r\n8r\t8cJ\n=\t=\n4r\t8A 8fL\n.\t8r\n8r\t8fJ\n4cc\t8cL\n.\t8r\n8r\t8cJ\n=\t=\n4r\t8A 8f\n.\t8r\n8r\t8f\n4cc\t8cL\n.\t8r\n8r\t8cJ\n=\t=\n4cc\t8e 8gL\n.\t8r\n8r\t8e 8gJ\n4r\t8cL\n.\t8r\n8r\t8cJ\n*clefF4\t*\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_37.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The detailed wiretap swells randomisation.\n!!!COM:Cierra Mora\n**kern\t**kern\n*clefG2\t*clefG2\n*k[b-e-a-d-g-c-]\t*k[b-e-a-d-g-c-]\n*M82\t*M82\n*met(c|)\t*met(c|)\n=-\t=-\n*met(C|)\t*met(C|)\n*M22\t*M22\n2A- 2e-\t8dd-L\n.\t8cc-\n.\t8b-\n.\t8a-J\n4r\t4cc-\n4F 4d-\t4dd-\n=\t=\n*^\t*\n2G-X 2d-\t2.r\t8cc-L\n.\t.\t8b-\n.\t.\t8a-\n.\t.\t8g-J\n4r\t.\t4dd-\n4g-\t4B-\t4gg-\n=\t=\t=\n2g-\t4c-\t8ffL\n.\t.\t8ee-\n.\t4B-\t8ee-\n.\t.\t8dd-J\n4f\t4A-\t8dd-L\n.\t.\t8cc-\n4g-\t4G-\t8cc-\n.\t.\t8b-J\n=\t=\t=\n4g-\t2d-\t4b-\n4f\t.\t4a-\n2r\t4r\t8dd-L\n.\t.\t8cc\n*clefF4\t*clefF4\t*\n.\t4GG 4G\t8dd-\n.\t.\t8ee-J\n*v\t*v\t*\n=\t=\n4AA- 4A-\t8dd-L\n.\t8cc-X\n4C- 4c-\t8b-\n.\t8a-J\n4r\t8cc-L\n.\t8b-\n4FF 4F\t8cc-\n.\t8dd-J\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_98.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The grumpy latency enhances mandarin.\n**kern\t**kern\n*staff2\t*staff1\n*clefF4\t*clefG2\n*k[b-e-a-]\t*k[b-e-a-]\n*M34\t*M34\n8CC 8C\t8E- 8G 8c 8e-\n8r\t8r\n=\t=\n*\t*^\n2CC 2C\t4.e-\t2E- 2G 2c\n.\t8d\t.\n8CC 8C\t8E- 8c\t4r\n8r\t8r\t.\n*\t*v\t*v\n=\t=\n8BBB- 8BB-\t8F 8d 8f\n8r\t8r\n4r\t4r\n4B-\t4d 4f\n=\t=\n4.A- 4.B-\t4.d 4.f\n8G 8B-\t8e-\n4F 4A-\t4d 4f\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_31.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#d#]\t*k[f#c#g#d#]\n*M64\t*M64\n=-\t=-\n8CC#L\t2.e 2.g# 2.ee\n8F##\t.\n8A#\t.\n8G#\t.\n8c#\t.\n8EJ\t.\n8FF#L\t2.f# 2.b 2.dd#\n8E#\t.\n8G#\t.\n8F#\t.\n8B\t.\n8D#J\t.\n=\t=\n8FF#L\t2.e 2.f# 2.cc#\n8E#\t.\n8G#\t.\n8F#\t.\n8A#\t.\n8C#J\t.\n8BBL\t2d# 2f# 2b\n8E#\t.\n8G#\t.\n8F#\t.\n8B\t4r\n8D#J\t.\n=\t=\n8F#L\t1.r\n8E\t.\n8A\t.\n8C#\t.\n8E\t.\n8D#J\t.\n8G#L\t.\n8BB\t.\n8G#\t.\n8AA\t.\n8G#\t.\n8F#J\t.\n=\t=\n.\tG#q\n8EEL\t2.B 2.e 2.g#\n8D#\t.\n8F#\t.\n8E\t.\n8G#\t.\n8BBJ\t.\n8EEL\t2.B 2.e 2.g#\n8D#\t.\n8F#\t.\n8E\t.\n8G#\t.\n8BBJ\t.\n=\t=\n*\t*^\n8EEL\t2.e 2.g#\t2.B\n8D#\t.\t.\n8F#\t.\t.\n8E\t.\t.\n8G#\t.\t.\n8BBJ\t.\t.\n8BBBL\t2a[\t2.d#\n8E#\t.\t.\n8G#\t.\t.\n8F#\t.\t.\n8A\t8.aL]\t.\n8BBJ\t.\t.\n.\t16f#Jk\t.\n*\t*v\t*v\n=\t=\n8EEL\t2.B 2.e 2.g#\n8D#\t.\n8F#\t.\n8E\t.\n8G#\t.\n8BBJ\t.\n8EEL\t4B[ 4e[ 4g#[\n8D#\t.\n8F#\t12B] 12e] 12g#L]\n.\t12B 12e 12g#\n8E\t.\n.\t12B 12e 12g#J\n8G#\t12B 12e 12g#L\n.\t12B 12e 12g#\n8BBJ\t.\n.\t12B 12e 12g#J\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_14.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The gorgeous sectional teases purple.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#d#]\t*k[f#c#g#d#]\n*M44\t*M44\n*met(c)\t*met(c)\n=-\t=-\n16c#LL\t2ee 2eee\n16a\t.\n16g#\t.\n16aJJ\t.\n16bLL\t.\n16a\t.\n16g#\t.\n16aJJ\t.\n4c#\t16ddd#LL\n.\t16eee\n.\t16ddd#\n.\t16ccc#JJ\n4r\t16bbLL\n.\t16ccc#\n.\t16bb\n.\t16aaJJ\n=\t=\n8BL\t8gg#L\n8e\t8eeJ\n8c#\t4aa\n8eJ\t.\n8BL\t8gg#L\n8e\t8eeJ\n8A\t4ccc#\n8eJ\t.\n=\t=\n8G#L\t8bbL\n8e\t8eeJ\n8c#\t4aa\n8eJ\t.\n8BL\t8gg#L\n8e\t8eeJ\n8A\t4ccc#\n8eJ\t.\n=\t=\n8G# 8B 8e#L\t2dd 2ddd\n8G# 8B 8e#\t.\n8G# 8B 8e#\t.\n8G# 8B 8e#J\t.\n8G# 8B 8e#L\t4dd 4ddd\n8G# 8B 8e#\t.\n8G# 8B 8e#\t4dd 4ddd\n8G# 8B 8e#J\t.\n=\t=\n4A 4c# 4f#\t8cc# 8ccc#L\n.\t8bbJ\n4r\t8aaL\n.\t8gg#J\n2r\t8ff#L\n.\t8eeJ\n.\t8dd#L<\n.\t8cc#J\n=\t=\n16BLL\t8bL<\n16g#\t.\n16e\t16cc#L\n16g#JJ\t16dd#JJ\n16BLL\t16eeLL\n16g#\t16ff#\n16e\t16gg#\n16g#JJ\t16aaJJ\n16BLL\t16aa#LL\n16g#\t16bb\n16e\t16ccc#\n16g#JJ\t16bbJJ\n16BLL\t16aaLL\n16g#\t16gg#\n16e\t16ff#\n16g#JJ\t16eeJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_75.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The luxuriant t-shirt becomes pork.\n!!!COM:Michael Kinchen\n**kern\t**kern\n*\t*^\n*clefF4\t*clefG2\t*clefG2\n*k[]\t*k[]\t*k[]\n*M24\t*M24\t*M24\n=-\t=-\t=-\n8r\t4a#\t16a#LK\n.\t.\t8.c# 8.eJ\n16GG#LL\t.\t.\n16F##JJ\t.\t.\n8r\t16d#LK\t4B#\n.\t8.g#J\t.\n16G#LL\t.\t.\n16GG#JJ\t.\t.\n*\t*v\t*v\n=\t=\n*^\t*\n16r\t8r\t4f##\n8.A# 8.c#\t.\t.\n.\t16GG#LL\t.\n.\t16EJJ\t.\n4G#\t8r\t16B#LK\n.\t.\t8.g#J\n.\t16D#LL\t.\n.\t16GG#JJ\t.\n=\t=\t=\n16c#LK\t8r\t4e\n8.G#J\t.\t.\n.\t16GG#LL\t.\n.\t16E#JJ\t.\n16c#LK\t8r\t4d#\n8.A#J\t.\t.\n.\t16F##LL\t.\n.\t16GG#JJ\t.\n*v\t*v\t*\n=\t=\n*\t*^\n8r\t4e#\t16e#LK\n.\t.\t8.B#J\n16GG#LL\t.\t.\n16G#JJ\t.\t.\n8r\t4d#\t16d#LK\n.\t.\t8.B#J\n16G#LL\t.\t.\n16GG#JJ\t.\t.\n*\t*v\t*v\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_62.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The silky infant blows blueberry.\n!!!COM:Melissa Henricks\n**kern\t**kern\n*clefF4\t*clefF4\n*k[]\t*k[]\n*M1216\t*M1216\n=-\t=-\n8.DD- 8.D-L\t8.d-L\n8.GG-\t8.G- 8.g-\n8CC- 8C-J\t8c-J\n16r\t16r\n16CC- 16C-\t16c-\n16r\t16r\n16r\t16r\n=\t=\n*\t*clefG2\n*k[b-e-a-d-g-c-f-]\t*k[b-e-a-d-g-c-f-]\n*M68\t*M68\n4.c-\t4r\n.\t8r\n=\t=\n4.f-\t2.r\n4.d-\t.\n=\t=\n4.g-\t2.r\n4.e-\t.\n=\t=\n4.a-\t2.r\n4g-\t.\n8f-\t.\n=\t=\n4.e-[\t4r\n.\t8r\n8e-L]\t4.g-\n8c-\t.\n8B-J\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_58.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefG2\t*clefG2\n*k[f#c#g#d#a#e#]\t*k[f#c#g#d#a#e#]\n*M24\t*M24\n=-\t=-\n16f#LL\t8a# 8aa#L\n16c#\t.\n16e#\t8g# 8gg#J\n16c#JJ\t.\n16e#LL\t8g# 8gg#L\n16c#\t.\n16f##\t8a# 8aa#J\n16c#JJ\t.\n=\t=\n16g#LL\t8b 8bbL\n16c#\t.\n16b\t8dd# 8ddd#\n16c#JJ\t.\n16a#LL\t8cc# 8ccc#J\n16c#\t.\n16g#\t8ee# 8bb 8eee#\n16c#JJ\t.\n*clefF4\t*\n=\t=\n*\t*^\n16f#LL\t4r\t4ff# 4aa# 4fff#\n16c#\t.\t.\n16A#\t.\t.\n16c#JJ\t.\t.\n16F#LL\t8r\t8r\n16c#\t.\t.\n16C#\t8a#\t8f#\n16c#JJ\t.\t.\n=\t=\t=\n16G#LL\t8bL\t4e#\n16c#\t.\t.\n16B\t8dd#\t.\n16c#JJ\t.\t.\n16A#LL\t8cc#J\t8f#\n16c#\t.\t.\n16G#\t8ee#\t8b\n16c#JJ\t.\t.\n=\t=\t=\n*\t*v\t*v\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The incandescent downturn challenges shoes.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#]\t*k[f#]\n*M22\t*M22\n=-\t=-\n*\t*^\n2.GG\t2r\t4g\n.\t.\t8ddL\n.\t.\t8bJ\n.\t8gL\t4r\n.\t8d\t.\n4DD\t8a\t4c\n.\t8f#J\t.\n=\t=\t=\n2.GG\t4g\t2B\n.\t8ddL\t.\n.\t8bJ\t.\n.\t8gL\t4r\n.\t8d\t.\n4DD\t8a\t4c\n.\t8f#J\t.\n=\t=\t=\n2.GG\t4g\t2B\n.\t8ddL\t.\n.\t8bJ\t.\n.\t8gL\t4r\n.\t8d\t.\n4DD\t8a\t4c\n.\t8f#J\t.\n*\t*v\t*v\n=\t=\n1GG\t1B 1g\n==:|!\t==:|!\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_35.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#]\t*k[f#c#]\n*M74\t*M74\n=-\t=-\n*M24\t*M24\n*^\t*\n4.AA-\t2DD[\t16FLL\n.\t.\t16dJJ\n.\t.\t16FLL\n.\t.\t16dJJ\n.\t.\t16FLL\n.\t.\t16dJJ\n8AA\t.\t16F#LL\n.\t.\t16dJJ\n=\t=\t=\n8BBL\t2DD]\t16GLL\n.\t.\t16c#JJ\n8GG\t.\t16BLL\n.\t.\t16gJJ\n8C#\t.\t16eLL\n.\t.\t16gJJ\n8AAJ\t.\t16c#LL\n.\t.\t16aJJ\n=\t=\t=\n4.A-\t2D[\t16fLL\n.\t.\t16ddJJ\n.\t.\t16fLL\n.\t.\t16ddJJ\n.\t.\t16fLL\n.\t.\t16ddJJ\n8A\t.\t16f#LL\n.\t.\t16ddJJ\n=\t=\t=\n8BL\t2D]\t16gLL\n.\t.\t16ddJJ\n8G\t.\t16bLL\n.\t.\t16ggJJ\n8c#\t.\t16eeLL\n.\t.\t16ggJJ\n8AJ\t.\t16ee 16ggLL\n.\t.\t16aaJJ\n*v\t*v\t*\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_22.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The aware website professes pup.\n!!!COM:Anna Williams\n**kern\t**kern\n*clefG2\t*clefG2\n*k[b-e-a-d-g-c-]\t*k[b-e-a-d-g-c-]\n*M82\t*M82\n*met(c|)\t*met(c|)\n=-\t=-\n*met(C|)\t*met(C|)\n*M22\t*M22\n2A- 2e-\t8dd-L\n.\t8cc-\n.\t8b-\n.\t8a-J\n4r\t4cc-\n4F 4d-\t4dd-\n=\t=\n*^\t*\n2G-X 2d-\t2.r\t8cc-L\n.\t.\t8b-\n.\t.\t8a-\n.\t.\t8g-J\n4r\t.\t4dd-\n4g-\t4B-\t4gg-\n=\t=\t=\n2g-\t4c-\t8ffL\n.\t.\t8ee-\n.\t4B-\t8ee-\n.\t.\t8dd-J\n4f\t4A-\t8dd-L\n.\t.\t8cc-\n4g-\t4G-\t8cc-\n.\t.\t8b-J\n=\t=\t=\n4g-\t2d-\t4b-\n4f\t.\t4a-\n2r\t4r\t8dd-L\n.\t.\t8cc\n*clefF4\t*clefF4\t*\n.\t4GG 4G\t8dd-\n.\t.\t8ee-J\n*v\t*v\t*\n=\t=\n4AA- 4A-\t8dd-L\n.\t8cc-X\n4C- 4c-\t8b-\n.\t8a-J\n4r\t8cc-L\n.\t8b-\n4FF 4F\t8cc-\n.\t8dd-J\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_18.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The chivalrous outrun damages scholarship.\n!!!COM:Edward Carroll\n**kern\t**kern\n*\t*^\n*clefF4\t*clefG2\t*clefG2\n*k[b-e-a-]\t*k[b-e-a-]\t*k[b-e-a-]\n*M916\t*M916\t*M916\n=-\t=-\t=-\n48E-LLL\t4.b-\t16g-LL\n48G-\t.\t.\n48B-\t.\t.\n48D-\t.\t16f\n48F\t.\t.\n48B-\t.\t.\n48E-\t.\t16g-JJ\n48G-\t.\t.\n48B-JJJ\t.\t.\n48FLLL\t.\t16a-LL\n48A-\t.\t.\n48B-\t.\t.\n48E-\t.\t16g-\n48G-\t.\t.\n48B-\t.\t.\n48F\t.\t16a-JJ\n48A-\t.\t.\n48B-JJJ\t.\t.\n48D-LLL\t8ffL\t16fLL\n48F\t.\t.\n48B-\t.\t.\n48C-\t.\t16e-\n48E-\t.\t.\n48B-\t.\t.\n48D-\t16b-Jk\t16f 16a-JJ\n48F\t.\t.\n48B-JJJ\t.\t.\n*\t*v\t*v\n=\t=\n*k[b-e-a-]\t*k[b-e-a-]\n*\t*^\n48DLLL\t4.b-\t16fLL\n48F\t.\t.\n48B-\t.\t.\n48E-\t.\t16g\n48G\t.\t.\n48B-\t.\t.\n48D\t.\t16fJJ\n48F\t.\t.\n48B-JJJ\t.\t.\n48E-LLL\t.\t16gLL\n48G\t.\t.\n48B-\t.\t.\n48F\t.\t16a-\n48A-\t.\t.\n48B-\t.\t.\n48E-\t.\t16gJJ\n48G\t.\t.\n48B-JJJ\t.\t.\n48FLLL\t8.b-\t16a-LL\n48A-\t.\t.\n48B-\t.\t.\n48E\t.\t16g\n48G\t.\t.\n48B-\t.\t.\n48F\t.\t16a-JJ\n48A-\t.\t.\n48B-JJJ\t.\t.\n=\t=\t=\n48GLLL\t8.b-L\t16e-LL\n48B-\t.\t.\n48G\t.\t.\n48B-\t.\t16d\n48G\t.\t.\n48B-\t.\t.\n48G\t.\t16e-JJ\n48B-\t.\t.\n48GJJJ\t.\t.\n48E-LLL\t8.gg\t16gLL\n48B-\t.\t.\n48E-\t.\t.\n48B-\t.\t16f\n48E-\t.\t.\n48B-\t.\t.\n48E-\t.\t16gJJ\n48B-\t.\t.\n48E-JJJ\t.\t.\n48GLLL\t8.ee-J\t16b-LL\n48B-\t.\t.\n48G\t.\t.\n48B-\t.\t16a-\n48F\t.\t.\n48B-\t.\t.\n48E-\t.\t16gJJ\n48B-\t.\t.\n48E-JJJ\t.\t.\n=\t=\t=\n48BB-LLL\t8.ee-L\t16gLL\n48A\t.\t.\n48B-\t.\t.\n48AA\t.\t16f#\n48A\t.\t.\n48B-\t.\t.\n48BB-\t.\t16gJJ\n48A\t.\t.\n48B-JJJ\t.\t.\n48BB-LLL\t8.dd\t16fLL\n48A\t.\t.\n48B-\t.\t.\n48AA\t.\t16f\n48A\t.\t.\n48B-\t.\t.\n48BB-\t.\t16fJJ\n48A\t.\t.\n48B-JJJ\t.\t.\n48BB-LLL\t8.ddJ\t16f 16b-LL\n48A\t.\t.\n48B-\t.\t.\n48AA\t.\t16f 16b-\n48A\t.\t.\n48B-\t.\t.\n48AA-\t.\t16f 16b-JJ\n48A\t.\t.\n48B-JJJ\t.\t.\n=\t=\t=\n48GGLLL\t8.ee-L\t16b-LL\n48E-\t.\t.\n48B-\t.\t.\n48FF#\t.\t16a\n48E-\t.\t.\n48B-\t.\t.\n48GG\t.\t16b-JJ\n48E-\t.\t.\n48B-JJJ\t.\t.\n48E-LLL\t8.gg\t16gLL\n48G\t.\t.\n48B-\t.\t.\n48D\t.\t16b-\n48F\t.\t.\n48B-\t.\t.\n48E-\t.\t16b-JJ\n48G\t.\t.\n48B-JJJ\t.\t.\n48D-LLL\t8.bb-J\t16ffLL\n48F\t.\t.\n48B-\t.\t.\n48C\t.\t16ee\n48G\t.\t.\n48B-\t.\t.\n48D-\t.\t16ffJJ\n48F\t.\t.\n48B-JJJ\t.\t.\n=\t=\t=\n48CLLL\t8.bb-L\t16eeLL\n48G\t.\t.\n48B-\t.\t.\n48c\t.\t16dd\n48B-\t.\t.\n48G\t.\t.\n48C\t.\t16eeJJ\n48G\t.\t.\n48B-JJJ\t.\t.\n48CLLL\t8.aa-J\t16ffLL\n48F\t.\t.\n48A-\t.\t.\n48c\t.\t16ee\n48A-\t.\t.\n48F\t.\t.\n48C\t.\t16ffJJ\n48F\t.\t.\n48A-JJJ\t.\t.\n48CLLL\t8ffL\t16a-LL\n48F\t.\t.\n48A-\t.\t.\n48C\t.\t16a-\n48F\t.\t.\n48A-\t.\t.\n48C-\t16ee-Jk\t16aJJ\n48F\t.\t.\n48AJJJ\t.\t.\n=\t=\t=\n*\t*v\t*v\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_83.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-d-]\t*k[b-e-a-d-]\n*M24\t*M24\n=-\t=-\n2AA- 2A-\t2cc 2aa-\n=\t=\n4r\t4a-\n4A- 4c\t4a-\n=\t=\n4B- 4d-\t8gL\n.\t8fJ\n4r\t4e-\n=\t=\n4r\t4a- 4cc\n4A- 4c\t4a- 4cc\n=\t=\n4B- 4d-\t8g 8b-L\n.\t8f 8a-J\n4r\t4e- 4g\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_79.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Barbara Bergman\n**kern\t**kern\n*clefG2\t*clefG2\n*k[f#c#g#d#a#e#b#]\t*k[f#c#g#d#a#e#b#]\n=-\t=-\n*M74\t*M74\n4g# 4b# 4dd# 4ff#\t36gg# 36ggg#LLL\n.\t36fff##\n.\t36fff#\n.\t36eee#\n.\t36ddd#\n.\t36ccc#\n.\t36bb#\n.\t36aa#\n.\t36gg#JJJ\n2r\t2ff#\n2r\t2ff##\n2r\t2gg#\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_66.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Carol Hicks\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#]\t*k[f#]\n*M68\t*M68\n=-\t=-\n.\tccq\n8GL\t4.b\n8A\t.\n8BJ\t.\n.\tbq\n8cL\t4.a[\n8d\t.\n8eJ\t.\n=\t=\n4.F#\t8aL]\n.\t8ee\n.\t8ddJ\n4.D\t8ccL\n.\t8b\n.\t8aJ\n=\t=\n4.G\t8bL\n.\t8gg\n.\t8ddJ[\n4.BB\t8ddL]\n.\t8cc\n.\t8bJ\n=\t=\n4.C\t8ccL\n.\t8ee\n.\t8ccJ[\n4.D\t8ccL]\n.\t8g 8b\n.\t8f# 8aJ\n=\t=\n4.GG\t8g 8bL\n.\t8gg\n.\t8ddJ[\n4.BB\t8ddL]\n.\t8cc\n.\t8bJ\n=\t=\n4.C\t8aL\n.\t8ee\n.\t8ccJ\n4.D\t8ccL\n.\t8g 8b\n.\t8f# 8aJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M1716\t*M1716\n=-\t=-\n*M54\t*M54\n4G# 4B# 4d#\t8b#\n.\t4gg#\n4F 4G# 4B 4d\t.\n.\t8b\n*k[b-e-]\t*k[b-e-]\n4F# 4A 4c 4e-\t4ee-\n4r\t8ddL\n.\t8ccJ\n4r\t8.b\n.\t16cc\n=\t=\n*M1216\t*M1216\n4.r\t8.cc\n.\t8.g\n16GLL\t16gLL\n16G\t16g\n16GJJ\t16gJJ\n16GLL\t16gLL\n16G\t16g\n16GJJ\t16gJJ\n=\t=\n16E- 16GLL\t16e- 16gLL\n16E- 16G\t16e- 16g\n16E- 16GJJ\t16e- 16gJJ\n16E- 16GLL\t16e- 16gLL\n16E- 16G\t16e- 16g\n16E- 16GJJ\t16e- 16gJJ\n16C 16E- 16GLL\t16c 16e- 16gLL\n16C 16E- 16G\t16c 16e- 16g\n16C 16E- 16GJJ\t16c 16e- 16gJJ\n16C 16E- 16GLL\t16c 16e- 16gLL\n16C 16E- 16G\t16c 16e- 16g\n16C 16E- 16GJJ\t16c 16e- 16gJJ\n=\t=\n16C 16E- 16GLL\t8.gg[\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t.\n16C 16E- 16GLL\t8ggL]\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t16ffJk[\n16C 16E- 16GLL\t8ffL]\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t16ee-Jk\n16C 16E- 16GLL\t16ddLL\n16C 16E- 16G\t16ee-\n16C 16E- 16GJJ\t16ccJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_60.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Peter Renteria\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#d#]\t*k[f#c#g#d#]\n*M22\t*M22\n*met(c|)\t*met(c|)\n=-\t=-\n4B\t16d#LL\n.\t16dd#\n.\t16e\n.\t16eeJJ\n4r\t16e#LL\n.\t16ee#\n.\t16f#\n.\t16ff#JJ\n2r\t16gLL\n.\t16gg\n.\t16g#\n.\t16gg#JJ\n.\t16aLL\n.\t16aa\n.\t16a#\n.\t16aa#JJ\n=\t=\n2r\t4b 4bb\n.\t4r\n16BLL\t4r\n16b\t.\n16B\t.\n16bJJ\t.\n16ALL\t4dd# 4ff#\n16a\t.\n16A\t.\n16aJJ\t.\n=\t=\n*\t*^\n16G#LL\t8r\t4b\n16g#\t.\t.\n16G#\t4bb\t.\n16g#JJ\t.\t.\n16F#LL\t.\t4dd#\n16f#\t.\t.\n16F#\t4aa\t.\n16f#JJ\t.\t.\n16ELL\t.\t4ee\n16e\t.\t.\n16E\t4gg#\t.\n16eJJ\t.\t.\n16D#LL\t.\t4b#\n16d#\t.\t.\n16D#\t8ff#\t.\n16d#JJ\t.\t.\n=\t=\t=\n16C#LL\t8ee\t4cc#\n16c#\t.\t.\n16C#\t4eee\t.\n16c#JJ\t.\t.\n16BBLL\t.\t4gg#\n16B\t.\t.\n16BB\t4ddd\t.\n16BJJ\t.\t.\n16AALL\t.\t4aa\n16A\t.\t.\n16AA\t4ccc#\t.\n16AJJ\t.\t.\n16GG#LL\t.\t4ee\n16G#\t.\t.\n16GG#\t8bb#\t.\n16G#JJ\t.\t.\n*\t*v\t*v\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_43.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The seemly flavor feeds disposition.\n!!!COM:Rosalee Johnson\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\n*M38\t*M38\n=-\t=-\n8AA\t8r\n8r\t8aaL\n8r\t8cc# 8eeJ\n=\t=\n4.r\t8cc# 8eeL\n.\t8dd 8ff#\n.\t8b 8ddJ\n=\t=\n4.r\t8b 8ddL\n.\t8cc# 8ee\n.\t8a 8cc#J\n=\t=\n4.r\t8a 8cc#L\n.\t8b 8dd\n.\t8e 8bJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_26.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The creepy dictator undergos planning.\n!!!COM:Ramon Lynd\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-d-]\t*k[b-e-a-d-]\n*M98\t*M98\n=-\t=-\n8FFL\t4.A- 4.f\n8C\t.\n8CJ\t.\n8FFL\t4f 4a-\n8C\t.\n8CJ\t8g 8b-\n8FFL\t4a- 4cc\n8C\t.\n8CJ\t8a- 8cc\n=\t=\n8FFL\t4a- 4cc\n8C\t.\n8CJ\t8f 8a-\n8FFL\t4A- 4f\n8C\t.\n8CJ\t8f 8a-\n8CCL\t4.e 4.g\n8C\t.\n8CJ\t.\n=\t=\n8FFL\t4.A- 4.f\n8C\t.\n8CJ\t.\n8FFL\t4f 4a-\n8C\t.\n8CJ\t8g 8b-\n8FFL\t4a- 4cc\n8C\t.\n8CJ\t8a- 8cc\n=\t=\n8EE-L\t4a- 4cc\n8E-\t.\n8E-J\t8c 8a-\n8EE-L\t8d- 8b-L\n8E-\t8f 8dd-\n8E-J\t8B- 8gJ\n8AA-L\t4.c 4.a-\n8E-\t.\n8E-J\t.\n=\t=\n8AA-L\t4a- 4cc\n8E-\t.\n8E-J\t8c 8a-\n8EE-L\t4g 4b-\n8E-\t.\n8E-J\t8a 8cc\n8BBB-L\t4b- 4dd-\n8BB-\t.\n8BB-J\t8b- 8dd-\n=\t=\n8BBB-L\t4b- 4dd-\n8BB-\t.\n8BB-J\t8g 8b-\n8CCL\t8e 8gL\n8C\t8g 8b-\n8CCJ\t8e 8gJ\n8FFL\t8f 8a-L\n8FF 8F\t8f 8a-\n8EE- 8E-J\t8g 8b-J\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_91.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The learned gateway wrecks quill.\n!!!COM:Maria Christensen\n**kern\t**kern\n*clefG2\t*clefG2\n*k[b-e-a-d-g-c-]\t*k[b-e-a-d-g-c-]\n*M82\t*M82\n*met(c|)\t*met(c|)\n=-\t=-\n*met(C|)\t*met(C|)\n*M22\t*M22\n2A- 2e-\t8dd-L\n.\t8cc-\n.\t8b-\n.\t8a-J\n4r\t4cc-\n4F 4d-\t4dd-\n=\t=\n*^\t*\n2G-X 2d-\t2.r\t8cc-L\n.\t.\t8b-\n.\t.\t8a-\n.\t.\t8g-J\n4r\t.\t4dd-\n4g-\t4B-\t4gg-\n=\t=\t=\n2g-\t4c-\t8ffL\n.\t.\t8ee-\n.\t4B-\t8ee-\n.\t.\t8dd-J\n4f\t4A-\t8dd-L\n.\t.\t8cc-\n4g-\t4G-\t8cc-\n.\t.\t8b-J\n=\t=\t=\n4g-\t2d-\t4b-\n4f\t.\t4a-\n2r\t4r\t8dd-L\n.\t.\t8cc\n*clefF4\t*clefF4\t*\n.\t4GG 4G\t8dd-\n.\t.\t8ee-J\n*v\t*v\t*\n=\t=\n4AA- 4A-\t8dd-L\n.\t8cc-X\n4C- 4c-\t8b-\n.\t8a-J\n4r\t8cc-L\n.\t8b-\n4FF 4F\t8cc-\n.\t8dd-J\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_87.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Kendra Mitchell\n**kern\t**kern\n*clefG2\t*clefG2\n*k[b-e-a-d-g-c-]\t*k[b-e-a-d-g-c-]\n*M128\t*M128\n=-\t=-\n4.e-\t16r\n.\t16cc-LL\n.\t16aa-\n.\t16ff\n.\t16cc-\n.\t16ffJJ\n4.d\t16r\n.\t16b-LL\n.\t16aa-\n.\t16ff\n.\t16b-\n.\t16ffJJ\n4.cc-\t16r\n.\t16ee-LL\n.\t16aa-\n.\t16ff\n.\t16ee-\n.\t16aa-JJ\n4.b-\t16r\n.\t16ddLL\n.\t16aa-\n.\t16ff\n.\t16dd\n.\t16aa-JJ\n=\t=\n16aLL\t8r\n16cc\t.\n16ee-\t8r\n16gg-JJ[\t.\n8gg-_\t16aaLL\n.\t16cccJJ\n*^\t*\n4.gg-]\t4.a 4.cc 4.ee-\t16eee-LL\n.\t.\t16ccc\n.\t.\t16aa\n.\t.\t16ggg-\n.\t.\t16fff\n.\t.\t16eee-JJ\n*v\t*v\t*\n16b-LL\t16dddLL\n16ddJJ\t16fff\n4dd[ 4ff[\t16eee-\n.\t16ddd\n.\t16ccc-\n.\t16bb-JJ\n4.dd] 4.ff]\t16aa-LL\n.\t16ccc-\n.\t16bb-\n.\t16aa\n.\t16gg-\n.\t16ffJJ\n=\t=\n4.e- 4.g-\t16r\n.\t16ee-LL\n.\t16gg-\n.\t16bb-\n.\t16eee-\n.\t16ee-JJ\n4.a- 4.cc-\t8.r\n.\t16eee-LL\n.\t16ee-\n.\t16eee-JJ\n4.g- 4.b-\t8.r\n.\t16eee-LL\n.\t16ee-\n.\t16eee-JJ\n4.f 4.a- 4.b-\t8.r\n.\t16dddLL\n.\t16dd\n.\t16dddJJ\n=\t=\n4.e- 4.g-\t16r\n.\t16ee-LL\n.\t16gg-\n.\t16bb-\n.\t16eee-\n.\t16ee-JJ\n*clefF4\t*\n4.A- 4.c-\t8.r\n.\t16ee-LL\n.\t16e-\n.\t16ee-JJ\n4.G- 4.B-\t8.r\n.\t16ee-LL\n.\t16e-\n.\t16ee-JJ\n4.F 4.A- 4.B-\t8.r\n.\t16ddLL\n.\t16d\n.\t16ddJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Raymond Mansfield\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-]\t*k[b-]\n*M34\t*M34\n=-\t=-\n2CC[ 2C[<\t8B-< 8c 8e 8g 8b-L\n.\t8g\n.\t8e\n.\t8c\n8CC] 8CL<]\t8B-\n16DL\t8GJ\n16EJJ\t.\n=\t=\n*^\t*\n4F\t16FFLL\t4c 4a\n.\t16r\t.\n.\t16GGJJ\t.\n.\t16r\t.\n4F\t16AALL\t4c 4a\n.\t16r\t.\n.\t16GGJJ\t.\n.\t16r\t.\n4F\t16AALL\t4c 4a\n.\t16r\t.\n.\t16FFJJ\t.\n.\t16r\t.\n=\t=\t=\n4E\t16BB-LL\t4c 4g\n.\t16r\t.\n.\t16CJJ\t.\n.\t16r\t.\n2F\t16AALL\t2c 2a\n.\t16r\t.\n.\t16GGJJ\t.\n.\t16r\t.\n.\t16AALL\t.\n.\t16r\t.\n.\t16FFJJ\t.\n.\t16r\t.\n=\t=\t=\n2G\t16EELL\t2c 2b-\n.\t16r\t.\n.\t16CJJ\t.\n.\t16r\t.\n.\t16DLL\t.\n.\t16r\t.\n.\t16EJJ\t.\n.\t16r\t.\n4F\t16FLL\t4c 4a\n.\t16r\t.\n.\t16BBJJ\t.\n.\t16r\t.\n=\t=\t=\n8E\t8C\t8c 8g\n8C[\t8CL\t8r\n2C]\t8BB\t8r\n.\t8BB-\t8eL\n.\t8AA\t8f\n.\t8GGJ\t8gJ\n=\t=\t=\n4F\t16FFLL\t4c 4a\n.\t16r\t.\n.\t16GGJJ\t.\n.\t16r\t.\n4F\t16AALL\t4c 4a\n.\t16r\t.\n.\t16GGJJ\t.\n.\t16r\t.\n8.FL\t16AALL\t8.c 8.aL\n.\t16r\t.\n.\t16FFJJ\t.\n16B-Jk\t16r\t16ddJk\n=\t=\t=\n*v\t*v\t*\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_51.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The aback gobbler wends press.\n**kern\t**kern\n*\t*^\n*clefF4\t*clefG2\t*clefG2\n*k[]\t*k[]\t*k[]\n*M64\t*M64\t*M64\n=-\t=-\t=-\n8E# 8G#L\t4b#\t8c#L\n8E# 8G#\t.\t8c#\n8E# 8G#\t4a#[\t8c#\n8E# 8G#\t.\t8c#\n8D# 8G#\t16a#LL]\t8d#\n.\t16b#\t.\n8D# 8G#J\t16dd#\t8d#J\n.\t16cc#JJ\t.\n8C# 8G#L\t4b#\t8e#L\n8C# 8G#\t.\t8e#\n8C# 8G#\t4a#[\t8e#\n8C# 8G#\t.\t8e#\n8D# 8G#\t16a#LL]\t8d#\n.\t16b#\t.\n8D# 8G#J\t16dd#\t8d#J\n.\t16cc#JJ\t.\n=\t=\t=\n8E# 8G#L\t4b#\t8c#L\n8E# 8G#\t.\t8c#\n8C# 8G#\t2.a#[\t8e#\n8C# 8G#\t.\t8e#\n8C# 8A#\t.\t8f##\n8C# 8G#J\t.\t8e#J\n8C# 8A#L\t.\t8f##L\n8C# 8G#\t.\t8e#\n8C# 8A#\t8a#L]\t8f##\n8C# 8G#\t8b#\t8e#\n8BB# 8G#\t8dd#\t8d#\n8D# 8G#J\t8b#J\t8d#J\n*\t*v\t*v\n=\t=\n*\t*^\n*\t*\t*^\n8E# 8G#L\t2.r\t4g#\t8B#L\n8E# 8G#\t.\t.\t8B#\n8E# 8B#\t.\t4g#\t8e#\n8E# 8B#\t.\t.\t8e#\n8AA# 8E# 8A#\t.\t4e# 4g#\t8c##\n8AA# 8E# 8A#J\t.\t.\t8c##J\n8D# 8A#L\t2a#\t4e# 4g#\t8c#L\n8D# 8A#\t.\t.\t8c#\n8D# 8A#\t.\t4d# 4f##\t8c#\n8D# 8A#\t.\t.\t8c#\n8D# 8A#\t4r\t4e# 4a#\t8c#\n8D# 8A#J\t.\t.\t8c#J\n*\t*\t*v\t*v\n*\t*v\t*v\n=\t=\n8D# 8A#L\t4c# 4e# 4a#\n8GG# 8D#\t.\n8GG# 8D#\t4B# 4d# 4b#\n8GG# 8D#\t.\n8GG# 8D#\t4c# 4e# 4a#\n8GG# 8F##J\t.\n8GG# 8G#L\t2.B# 2.d# 2.b#\n8FF##\t.\n8AA#\t.\n8GG#\t.\n8BB#\t.\n8DD#J\t.\n=\t=\n8GGG#L\t2.f# 2.b#\n8F##\t.\n8A#\t.\n8G#\t.\n8B#\t.\n8D#J\t.\n*\t*^\n8GG#L\t2b#[\t2.f#\n8F##\t.\t.\n8A#\t.\t.\n8G#\t.\t.\n8B#\t8.b#L]\t.\n8D#J\t.\t.\n.\t16cc#Jk\t.\n*\t*v\t*v\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_47.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Effie Larose\n**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M68\t*M68\n=-\t=-\n8DL\t2.r\n8E\t.\n8FnJ\t.\n8GL\t.\n8A\t.\n8BJ\t.\n=\t=\n4c\t8e 8g 8ccL\n.\t8d 8f 8b\n8r\t8e 8g 8ccJ\n4r\t8f 8a 8ddL\n.\t8g 8b 8ee\n8r\t8a 8cc 8ffJ\n=\t=\n4r\t8b 8dd 8ggL\n.\t8cc 8ee 8aa\n8r\t8dd 8ff 8bbJ\n4r\t8ee 8gg 8cccL\n.\t8ff 8aa 8ddd\n*clefG2\t*\n8gg\t8ccc 8eeeJ\n=\t=\n4aa\t4ccc 4fff\n8gg\t8ccc 8eee\n4aa\t4ccc 4fff\n8gg\t8ccc 8eee\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_95.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The makeshift sycamore illustrates eicosanoid.\n!!!COM:James Chin\n**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M74\t*M74\n=-\t=-\n*M24\t*M24\n*^\t*\n4.D\t2GG#[\t16BLL\n.\t.\t16g#JJ\n.\t.\t16BLL\n.\t.\t16g#JJ\n.\t.\t16BLL\n.\t.\t16g#JJ\n8D#\t.\t16B#LL\n.\t.\t16g#JJ\n=\t=\t=\n8E#L\t2GG#]\t16c#LL\n.\t.\t16f##JJ\n8C#\t.\t16e#LL\n.\t.\t16cc#JJ\n8F##\t.\t16a#LL\n.\t.\t16cc#JJ\n8D#J\t.\t16f##LL\n.\t.\t16dd#JJ\n=\t=\t=\n4.d\t2G#[\t16bLL\n.\t.\t16gg#JJ\n.\t.\t16bLL\n.\t.\t16gg#JJ\n.\t.\t16bLL\n.\t.\t16gg#JJ\n8d#\t.\t16b#LL\n.\t.\t16gg#JJ\n=\t=\t=\n8e#L\t2G#]\t16cc#LL\n.\t.\t16gg#JJ\n8c#\t.\t16ee#LL\n.\t.\t16ccc#JJ\n8f##\t.\t16aa#LL\n.\t.\t16ccc#JJ\n8d#J\t.\t16aa# 16ccc#LL\n.\t.\t16ddd#JJ\n*v\t*v\t*\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_11.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*\t*^\n*clefF4\t*clefG2\t*clefG2\n*k[]\t*k[]\t*k[]\n*M64\t*M64\t*M64\n=-\t=-\t=-\n8DD#L\t2.c# 2.a#\t1.f##\n8C##\t.\t.\n8E#\t.\t.\n8D#\t.\t.\n8F##\t.\t.\n8AA#J\t.\t.\n8DD#L\t2.d# 2.b#\t.\n8C##\t.\t.\n8E#\t.\t.\n8D#\t.\t.\n8F##\t.\t.\n8AA#J\t.\t.\n*\t*v\t*v\n=\t=\n8GG#L\t2B# 2g#\n8C##\t.\n8E#\t.\n8D#\t.\n8G#\t4r\n8GG#J\t.\n8CC#L\t2.e# 2.cc#\n8F##\t.\n8A#\t.\n8G#\t.\n8c#\t.\n8C#J\t.\n=\t=\n*\t*^\n8DD#L\t2.c# 2.a#\t2.f##\n8C##\t.\t.\n8E#\t.\t.\n8D#\t.\t.\n8F##\t.\t.\n8AA#J\t.\t.\n8DD#L\t2.b#\t2d#\n8C##\t.\t.\n8E#\t.\t.\n8D#\t.\t.\n8F##\t.\t4c#\n8AA#J\t.\t.\n*\t*v\t*v\n=\t=\n8AA#L\t2.B#[ 2.g#[\n8C##\t.\n8E#\t.\n8D#\t.\n8G#\t.\n8DD#J\t.\n8GG#L\t4B#] 4g#]\n8C##\t.\n8E#\t4r\n8D#\t.\n8G#\t4r\n8FF##J\t.\n=\t=\n*\t*^\n8EE#L\t2.gg#\t8r\n8E# 8B#\t.\t8g#L\n8E# 8B#\t.\t8g#\n8E# 8B#\t.\t8g#\n8E# 8e#\t.\t8g#\n8E# 8B#J\t.\t8g#J\n8E# 8B#L\t2b#\t8g#L\n8E# 8d#\t.\t8g#\n8E# 8c##\t.\t8g#\n8E# 8B#\t.\t8g#\n8AA# 8B#\t4cc##\t8g#\n8AA# 8A#J\t.\t8g#J\n=\t=\t=\n*\t*v\t*v\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_72.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-d-g-c-f-]\t*k[b-e-a-d-g-c-f-]\n*M98\t*M98\n=-\t=-\n16FF-LL\t4d-\n16GG-\t.\n16BB-\t.\n16D-\t.\n16BB-\t16f-LL\n16GG-JJ\t16e-JJ\n16FF-LL\t16d-LL\n16GG-\t16e-\n16BB-\t16f-\n16D-\t16g-\n16BB-\t16a-\n16GG-JJ\t16g-JJ\n16EE-LL\t8g-L\n16GG-\t.\n16C-\t8cc-\n16E-\t.\n16G-\t8e-J\n16E-JJ\t.\n*clefG2\t*\n=\t=\n16F-LL\t4dd-\n16G-\t.\n16B-\t.\n16d-\t.\n16B-\t16ff-LL\n16G-JJ\t16ee-JJ\n16F-LL\t16dd-LL\n16G-\t16ee-\n16B-\t16ff-\n16d-\t16gg-\n16B-\t16aa-\n16G-JJ\t16gg-JJ\n16E-LL\t8gg-L\n16G-\t.\n16c-\t8ccc-\n16e-\t.\n16c-\t8ee-J\n16G-JJ\t.\n=\t=\n16F-LL\t8dd-L\n16A-\t.\n16d-\t8ff-\n16f-\t.\n16d-\t8aa-J\n16A-JJ\t.\n16G-LL\t8b-L\n16B-\t.\n16d-\t8dd-\n16f-\t.\n16d-\t8gg-J\n16B-JJ\t.\n16A-LL\t4ff-\n16G\t.\n16A-\t.\n16B-\t.\n16c-\t8ee-\n16A-JJ\t.\n=\t=\n*clefF4\t*\n16FF-LL\t8d-L\n16AA-\t.\n16D-\t8f-\n16F-\t.\n16A-\t8a-J\n16F-JJ\t.\n16GG-LL\t8c-L\n16C-\t.\n16E-\t8e-\n16G-\t.\n16E-\t8g-J\n16C-JJ\t.\n16GG-LL\t8F-L\n16BB-\t.\n16D-\t8G-\n16F-\t.\n16D-\t8B-J\n16F-JJ\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_55.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Warren Hoium\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-d-]\t*k[b-e-a-d-]\n*M22\t*M22\n=-\t=-\n4CC\t8F 8A-L\n.\t8G 8B-\n4CC\t8A- 8c\n.\t8B- 8dJ\n4CC\t8c 8eL\n.\t8d- 8f\n4CC\t8c 8g\n.\t8B- 8eJ\n=\t=\n4CC\t8A- 8fL\n.\t8B- 8g\n4CC\t8c 8a-\n.\t8d 8fJ\n4CC\t8e 8gL\n.\t8f 8a-\n4CC\t8g 8b-\n.\t8e 8gJ\n=\t=\n2FF\t8f 8a-L\n.\t8g 8b-\n.\t8a- 8cc\n.\t8f 8ddJ\n2C\t8g 8eeL\n.\t8a- 8ff\n.\t8b- 8gg\n.\t8g 8eeJ\n=\t=\n*\t*^\n4F\t8ffL\t4a-\n.\t8ccJ\t.\n4BB- 4B-\t4dd-\t8b-L\n.\t.\t8gJ\n4C 4A-\t4cc\t8a-L\n.\t.\t8fJ\n4C 4G\t4b-\t8gL\n.\t.\t8eJ\n=\t=\t=\n*\t*v\t*v\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_38.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The rampant employer chews moon.\n**kern\t**kern\n*clefG2\t*clefG2\n*k[b-e-a-d-]\t*k[b-e-a-d-]\n*M82\t*M82\n*met(c|)\t*met(c|)\n=-\t=-\n*met(C|)\t*met(C|)\n*M22\t*M22\n2B- 2f\t8ee-L\n.\t8dd-\n.\t8cc\n.\t8b-J\n4r\t4dd-\n4G 4e-\t4ee-\n=\t=\n*^\t*\n2A-X 2e-\t2.r\t8dd-L\n.\t.\t8cc\n.\t.\t8b-\n.\t.\t8a-J\n4r\t.\t4ee-\n4a-\t4c\t4aa-\n=\t=\t=\n2a-\t4d-\t8ggL\n.\t.\t8ff\n.\t4c\t8ff\n.\t.\t8ee-J\n4g\t4B-\t8ee-L\n.\t.\t8dd-\n4a-\t4A-\t8dd-\n.\t.\t8ccJ\n=\t=\t=\n4a-\t2e-\t4cc\n4g\t.\t4b-\n2r\t4r\t8ee-L\n.\t.\t8dd\n*clefF4\t*clefF4\t*\n.\t4AA 4A\t8ee-\n.\t.\t8ffJ\n*v\t*v\t*\n=\t=\n4BB- 4B-\t8ee-L\n.\t8dd-X\n4D- 4d-\t8cc\n.\t8b-J\n4r\t8dd-L\n.\t8cc\n4GG 4G\t8dd-\n.\t8ee-J\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_99.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Jeffrey Greigo\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-]\t*k[b-e-]\n*M38\t*M38\n*met(c)\t*met(c)\n=-\t=-\n8BB-L\t8B-\n8D-\t8ffL\n8FJ\t8bb-J\n=\t=\n8FFL\t8c\n8C\t8ffL\n8FJ\t8aaJ\n=\t=\n8BB-L\t8B-\n8D-\t8ffL\n8FJ\t8bb-J\n=\t=\n8FFL\t8aaL\n8C\t8ff\n8FJ\t8ccJ\n=\t=\n8B-L\t8dd-L\n8A\t8cc\n8B-J\t8dd-J\n=\t=\n8FFL\t4cc\n8f\t.\n8dJ\t8ff\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_32.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The mindless kiosk overhears brass.\n!!!COM:Guy Temple\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-d-]\t*k[b-e-a-d-]\n*M128\t*M128\n=-\t=-\n4.C 4.A-\t16a-LL\n.\t16ee-\n.\t16cc\n.\t16a-\n.\t16cc\n.\t16ee-JJ\n=\t=\n16D-LL\t16ffLL\n16B-\t16dd-\n16C\t16ee-\n16A-\t16cc\n16BB-\t16dd-\n16GJJ\t16b-JJ\n=\t=\n16CLL\t16ccLL\n16A-\t16ee-\n16BB-\t16g\n16G\t16b-\n16AA-\t16a-\n16A-JJ\t16ccJJ\n=\t=\n8D-L\t16b-LL\n.\t16dd-\n8E-\t16cc\n.\t16b-\n8EE-J\t16a-\n.\t16gJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_15.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The overjoyed latency blots oar.\n**kern\t**kern\n*\t*^\n*clefF4\t*clefG2\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\t*k[f#c#g#]\n*M916\t*M916\t*M916\n=-\t=-\t=-\n48AAALLL\t4.ee[\t8.r\n48C#\t.\t.\n48AA\t.\t.\n48C#\t.\t.\n48AA\t.\t.\n48C#\t.\t.\n48AA\t.\t.\n48C#\t.\t.\n48AAJJJ\t.\t.\n48AAALLL\t.\t16r\n48C#\t.\t.\n48AA\t.\t.\n48C#\t.\t16r\n48AA\t.\t.\n48C#\t.\t.\n48AA\t.\t16a\n48C#\t.\t.\n48AAJJJ\t.\t.\n48AAALLL\t8.ee]\t16a#LL\n48D\t.\t.\n48AA\t.\t.\n48D\t.\t16b\n48AA\t.\t.\n48D\t.\t.\n48AA\t.\t16eJJ\n48D\t.\t.\n48AAJJJ\t.\t.\n*clefG2\t*\t*\n*\t*v\t*v\n=\t=\n8.r\t48eeLLL\n.\t48ff#\n.\t48ee\n.\t48dd#\n.\t48ee\n.\t48ff#\n.\t48gg#\n.\t48aa\n.\t48ff#JJJ\n48eeLLL\t48gg#LLL\n48ff#\t48aa\n48ee\t48gg#\n48dd#\t48ff#\n48ee\t48gg#\n48ff#\t48aa\n48gg#\t48bb\n48aa\t48ccc#\n48ff#JJJ\t48aaJJJ\n48gg#LLL\t48bbLLL\n48aa\t48ccc#\n48gg#\t48bb\n48ff##\t48aa#\n48gg#\t48bb\n48aa\t48ccc#\n48bb\t48ddd\n48ccc#\t48eee\n48aa#JJJ\t48ccc#JJJ\n=\t=\n48bbLLL\t48dddLLL\n48ccc#\t48eee\n48bb\t48ddd\n48aa\t48ccc#\n48bb\t48ddd\n48aa\t48ccc#\n48gg#\t48bb\n48aa\t48ccc#\n48gg#JJJ\t48bbJJJ\n48ff#LLL\t48aaLLL\n48gg#\t48bb\n48ff#\t48aa\n48ee\t48gg#\n48ff#\t48aa\n48ee\t48gg#\n48ff#\t48aa\n48gg#\t48bb\n48ff#JJJ\t48aaJJJ\n48gg#LLL\t48bbLLL\n48aa\t48ccc#\n48gg#\t48bb\n48aa\t48ccc#\n48bb\t48ddd\n48ccc#\t48eee\n48ddd\t48fff#\n48ccc#\t48eee\n48bbJJJ\t48ggg#JJJ\n=\t=\n48ccc#LLL\t48aaaLLL\n48bb\t48ggg#\n48aa\t48fff#\n48gg#\t48eee\n48ff#\t48ddd\n48ee\t48ccc#\n48dd\t48bb\n48cc#\t48aa\n48bJJJ\t48gg#JJJ\n48cc#LLL\t48aaLLL\n48b\t48gg#\n48a\t48ff#\n48g#\t48ee\n48f#\t48dd\n48e\t48cc#\n48d\t48b\n48c#\t48a\n48BJJJ\t48g#JJJ\n*clefF4\t*\n48c#LLL\t48aLLL\n48B\t48g#\n48A\t48f#\n48G#\t48e\n48F#\t48d\n48E\t48c#\n48D\t48B\n48C#\t48A\n48BBJJJ\t48G#JJJ\n=\t=\n8.r\t8AL\n.\t16EJk\n8AAAL\t8.E\n16EEEJk\t.\n8.EEE[\t8ddL\n.\t16g#Jk\n=\t=\n8.EEE_\t8dddL\n.\t16gg#Jk\n16EEELL]\t8b 8dd 8bbL\n16EEE 16EE\t.\n16AAA 16AAJJ\t16a 16cc# 16aaJk\n16r\t8a 8cc# 8aa\n16EE 16ELL\t.\n16AA 16AJJ\t16r\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_80.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The seemly bond trips buy.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#d#a#e#]\t*k[f#c#g#d#a#e#]\n*M38\t*M38\n*met(c)\t*met(c)\n=-\t=-\n4d# 4f#\t8cc#L\n.\t8b#J\n.\tcc#q\n8e 8g#\t16cc#LL\n.\t32b#L\n.\t32cc#JJJ\n=\t=\n4B# 4d# 4g#\t8cc#L\n.\t8dd#J\n8c# 8e 8g#\t32eeLLL\n.\t32ff#J\n.\t16gg#JJ\n=\t=\n4d# 4f# 4g#\t8gg#L\n.\t8ff#\n8e 8g#\t8eeJ\n=\t=\n*^\t*\n8r\t4f#\t8eeL\n8aL\t.\t8dd#\n8g#J\t8e\t8cc#J\n*v\t*v\t*\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_76.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The squalid sectional paints fairness.\n**kern\t**kern\n*\t*^\n*clefF4\t*clefG2\t*clefG2\n*k[]\t*k[]\t*k[]\n*M24\t*M24\t*M24\n=-\t=-\t=-\n8c 8eL\t8cc\t8cc\n8CJ\t4.r\t8r\n4r\t.\t16ggLL\n.\t.\t16ee\n.\t.\t16ccc\n.\t.\t16bb>JJ\n*\t*v\t*v\n=\t=\n2r\t16aaLL\n.\t16gg\n.\t16ff\n.\t16eeJJ\n.\t8ddL\n.\t8eeJ\n*clefG2\t*\n=\t=\n*^\t*\n8r\t8r\t16ggLL\n.\t.\t16ff#\n4g\t8BL\t16ffnJJ\n.\t.\t16r\n.\t8cJ\t16eeLL\n.\t.\t16ff\n8r\t8r\t16gg\n.\t.\t16gg#JJ\n*clefF4\t*clefF4\t*\n=\t=\t=\n4.r\t4F 4c\t16.aaLL\n.\t.\t32bbk\n.\t.\t16ccc\n.\t.\t16bbJJ\n.\t8r\t16aaLL\n.\t.\t16ggn\n8A\t8F#\t16ff\n.\t.\t16eeJJ\n=\t=\t=\n*v\t*v\t*\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_63.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The didactic pot draws cymbal.\n**kern\t**kern\n*^\t*\n*clefF4\t*clefF4\t*clefF4\n*k[]\t*k[]\t*k[]\n*M98\t*M98\t*M98\n=-\t=-\t=-\n4CC# 4C#\t2.r\t16ggg#LL\n.\t.\t16aaa#\n.\t.\t16bbb#\n.\t.\t16ggg#\n8BBB# 8BB#\t.\t16aaa#\n.\t.\t16bbb#JJ\n4AA# 4A#\t.\t16bbb#LL\n.\t.\t16cccc#\n.\t.\t16dddd#\n.\t.\t16bbb#\n8GG# 8G#\t.\t16cccc#\n.\t.\t16dddd#JJ\n16G#LL\t4E#\t4dd# 4ddd#\n16A#\t.\t.\n16B\t.\t.\n16G#\t.\t.\n16A#\t8E\t8cc## 8ccc##\n16BJJ\t.\t.\n*v\t*v\t*\n=\t=\n*^\t*\n16ELL\t4.E\t16dddLL\n16G#\t.\t16bb\n16B\t.\t16gg#\n16d\t.\t16dd\n16B\t.\t16gg#\n16G#JJ\t.\t16bbJJ\n16BLL\t4.E\t16dddLL\n16G#\t.\t16bb\n16A\t.\t16ccc#\n16c#\t.\t16aa\n16d\t.\t16bb\n16BJJ\t.\t16gg#JJ\n4.r\t8EL\t8gg# 8ccc##L\n.\t8D#\t8ff## 8ddd#\n.\t8C#J\t8ddJ[\n=\t=\t=\n4BB#\t4.r\t16ddLL]\n.\t.\t16ff##\n.\t.\t16gg#\n.\t.\t16b#\n8r\t.\t16cc#\n.\t.\t16dd#JJ\n16B#LL\t4.r\t4.g#[\n16c#\t.\t.\n16d#\t.\t.\n16G#\t.\t.\n16A#\t.\t.\n16B#JJ[\t.\t.\n4.B#]\t4D#\t8g#L]\n.\t.\t8b#\n.\t8r\t8a#J\n*v\t*v\t*\n=:|!\t=:|!\n*^\t*\n16ELL\t4.E\t16dddLL\n16G#\t.\t16bb\n16B\t.\t16gg#\n16d\t.\t16dd\n16B\t.\t16gg#\n16G#JJ\t.\t16bbJJ\n16BLL\t4.E\t16dddLL\n16G#\t.\t16bb\n16A\t.\t16ccc#\n16c#\t.\t16aa\n16d\t.\t16bb\n16BJJ\t.\t16gg#JJ\n4.r\t8EL\t8gg# 8ccc##L\n.\t8D#\t8ff## 8ddd#\n.\t8d#J\t8ff#J\n*v\t*v\t*\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_59.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefG2\t*clefG2\n*k[f#c#g#d#a#e#b#]\t*k[f#c#g#d#a#e#b#]\n*M54\t*M54\n=-\t=-\n*M24\t*M24\n*^\t*\n16B#LK\t4B#\t8gg#\n8.d#J\t.\t.\n.\t.\t16g#LL\n.\t.\t16dd#JJ\n=\t=\t=\n4d#\t16d#LK\t8r\n.\t8.A#J\t.\n.\t.\t16g#LL\n.\t.\t16f##JJ\n4c#\t16c#LK\t8r\n.\t8.e#J\t.\n.\t.\t16a#LL\n.\t.\t16ee#JJ\n=\t=\t=\n4e#\t16e#LK\t8r\n.\t8.B#J\t.\n.\t.\t16a#LL\n.\t.\t16g##JJ\n4d#\t16d#LK\t8r\n.\t8.f#J\t.\n.\t.\t16g## 16b#LL\n.\t.\t16gg##JJ\n=\t=\t=\n16c#LK\t4c#\t8r\n8.e#J\t.\t.\n.\t.\t16a# 16cc#LL\n.\t.\t16aa#JJ\n16d#LK\t4B#\t8r\n8.e#J\t.\t.\n.\t.\t16gg##LL\n.\t.\t16bb#JJ\n=\t=\t=\n16c#LK\t4A#\t8r\n8.e#J\t.\t.\n.\t.\t16ee#LL\n.\t.\t16ccc#JJ\n16B#LK\t4B#\t8r\n8.e#J\t.\t.\n.\t.\t16dd# 16bb#LL\n.\t.\t16ee#JJ\n=\t=\t=\n*v\t*v\t*\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_40.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The direful lysine fits down.\n!!!COM:Luis Johnson\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-d-]\t*k[b-e-a-d-]\n*M1216\t*M1216\n=-\t=-\n.\tccq\n16BB- 16D- 16FLL\t8ee-L\n16BB- 16D- 16F\t.\n16BB- 16D- 16FJJ\t16dd-Jk[\n16BB- 16D- 16FLL\t8.dd-_\n16BB- 16E 16G\t.\n16BB- 16E 16GJJ\t.\n16BB- 16E 16GLL\t16dd-LL]\n16BB- 16E 16G\t16dd-[\n16BB- 16E 16GJJ\t16dd-JJ]\n16AA- 16F 16A-LL\t16r\n16AA- 16F 16A-\t16ccLL[\n16AA- 16F 16A-JJ\t16ccJJ]\n=\t=\n16GG 16E 16GLL\t16r\n16GG 16E 16G\t16b-LL[\n16GG 16E 16GJJ\t16b-JJ]\n16FF 16C 16FLL\t16r\n16FF 16C 16F\t16a-LL[\n16FF 16C 16FJJ\t16a-JJ]\n16BB- 16D- 16G-LL\t16r\n16BB- 16D- 16G-\t16g-LL[\n16BB- 16D- 16G-JJ\t16g-JJ]\n16BB 16D 16F 16A-LL\t16r\n16BB 16D 16F 16A-\t16fLL[\n16BB 16D 16F 16A-JJ\t16fJJ]\n=\t=\n16C 16F 16A-LL\t8fL\n16C 16F 16A-\t.\n16C 16F 16A-JJ\t16a-Jk[\n16C 16D 16F 16BLL\t16a-LL]\n16C 16D 16F 16B\t16g\n16C 16D 16F 16BJJ\t16fJJ[\n16C 16D 16A- 16BLL\t8fL]\n16C 16D 16A- 16B\t.\n16C 16E 16G 16cJJ\t16eJk\n16C 16E 16G 16cLL\t16r\n16C\t16r\n16BB- 16CJJ\t16c\n=\t=\n16AA- 16CLL\t8.f[\n16AA- 16D-\t.\n16AA- 16D-JJ\t.\n16AA- 16D-LL\t8fL]\n16AA- 16C\t.\n16AA- 16CJJ\t16fJk\n16GG 16CLL\t16eLL\n16GG 16C\t16r\n16GG 16CJJ\t16eJJ\n16GG 16CLL\t16r\n16GG 16C\t16r\n16GG 16CJJ\t16c\n=\t=\n16FF 16CLL\t8.a-[\n16FF 16D-\t.\n16FF 16D-JJ\t.\n16FF 16D-LL\t8a-L]\n16FF 16C\t.\n16FF 16CJJ\t16a-Jk\n16FF 16CLL\t16gLL\n16EE 16C\t16r\n16EE 16CJJ\t16gJJ\n16EE 16CLL\t16r\n16EE- 16FF 16C\t16r\n16EE- 16FF 16CJJ\t16a\n=\t=\n16EE- 16FF 16CLL\t16r\n16DD- 16FF 16BB-\t16r\n16DD- 16FF 16BB-JJ\t32aLLL\n.\t32b-JJJ\n16DD- 16FF 16BB-LL\t16r\n16BB- 16F 16B-\t16r\n16BB- 16F 16B-JJ\t32ee-LLL\n.\t32dd-JJJ\n16BB- 16F 16B-LL\t16r\n16C 16F 16A-\t16r\n16C 16F 16A-JJ\t32dd-LLL\n.\t32ccJJJ\n16C 16F 16A-LL\t16r\n16C 16G 16B-\t16r\n16D- 16G 16B-JJ\t32fLLL\n.\t32eJJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_23.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The secretive zucchini continues disguise.\n**kern\t**kern\n*clefG2\t*clefG2\n*k[b-e-]\t*k[b-e-]\n*M82\t*M82\n*met(c|)\t*met(c|)\n=-\t=-\n*met(C|)\t*met(C|)\n*M22\t*M22\n2c 2g\t8ffL\n.\t8ee-\n.\t8dd\n.\t8ccJ\n4r\t4ee-\n4A 4f\t4ff\n=\t=\n*^\t*\n2B-X 2f\t2.r\t8ee-L\n.\t.\t8dd\n.\t.\t8cc\n.\t.\t8b-J\n4r\t.\t4ff\n4b-\t4d\t4bb-\n=\t=\t=\n2b-\t4e-\t8aaL\n.\t.\t8gg\n.\t4d\t8gg\n.\t.\t8ffJ\n4a\t4c\t8ffL\n.\t.\t8ee-\n4b-\t4B-\t8ee-\n.\t.\t8ddJ\n=\t=\t=\n4b-\t2f\t4dd\n4a\t.\t4cc\n2r\t4r\t8ffL\n.\t.\t8een\n*clefF4\t*clefF4\t*\n.\t4BBn 4Bn\t8ff\n.\t.\t8ggJ\n*v\t*v\t*\n=\t=\n4C 4c\t8ffL\n.\t8ee-X\n4E- 4e-\t8dd\n.\t8ccJ\n4r\t8ee-L\n.\t8dd\n4AA 4A\t8ee-\n.\t8ffJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_19.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The alive cartload fills country.\n**kern\t**kern\n*clefG2\t*clefG2\n*k[]\t*k[]\n=-\t=-\n*M74\t*M74\n4g 4b 4dd 4ff\t36gg 36gggLLL\n.\t36fff#\n.\t36fff\n.\t36eee\n.\t36ddd\n.\t36ccc\n.\t36bb\n.\t36aa\n.\t36ggJJJ\n2r\t2ff\n2r\t2ff#\n2r\t2gg\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_84.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The spooky stimulus sees pilot.\n!!!COM:William Rios\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-]\t*k[b-]\n*M34\t*M34\n=-\t=-\n4cc\t8ffL\n.\t8eeJ\n8dL\t4.bb-\n8B-\t.\n8e\t.\n8cJ\t8bb-\n=\t=\n4f\t8bb-L\n.\t8aaJ\n8AL\t4.ccc\n8F\t.\n8B-\t.\n8GJ\t8ff\n=\t=\n4c\t8ffL\n.\t8eeJ\n8DL\t4.b-\n8BB-\t.\n8E\t.\n8CJ\t8b-\n=\t=\n4F 4A\t8a\n.\t4ee\n4G 4B-\t.\n.\t4ff\n4A 4c\t.\n.\t8g[\n=\t=\n4B-\t8gL]\n.\t16aL\n.\t16b-JJ\n4c\t8aL\n.\t8g\n4C\t8f\n.\t8gJ\n=\t=\n4F 4A\t8a\n.\t4ee\n4G 4B-\t.\n.\t4ff\n4A 4c\t.\n.\t8g[\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_67.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefG2\t*clefG2\n*k[b-e-a-d-]\t*k[b-e-a-d-]\n*M82\t*M82\n*met(c|)\t*met(c|)\n=-\t=-\n*met(C|)\t*met(C|)\n*M22\t*M22\n2B- 2f\t8ee-L\n.\t8dd-\n.\t8cc\n.\t8b-J\n4r\t4dd-\n4G 4e-\t4ee-\n=\t=\n*^\t*\n2A-X 2e-\t2.r\t8dd-L\n.\t.\t8cc\n.\t.\t8b-\n.\t.\t8a-J\n4r\t.\t4ee-\n4a-\t4c\t4aa-\n=\t=\t=\n2a-\t4d-\t8ggL\n.\t.\t8ff\n.\t4c\t8ff\n.\t.\t8ee-J\n4g\t4B-\t8ee-L\n.\t.\t8dd-\n4a-\t4A-\t8dd-\n.\t.\t8ccJ\n=\t=\t=\n4a-\t2e-\t4cc\n4g\t.\t4b-\n2r\t4r\t8ee-L\n.\t.\t8dd\n*clefF4\t*clefF4\t*\n.\t4AA 4A\t8ee-\n.\t.\t8ffJ\n*v\t*v\t*\n=\t=\n4BB- 4B-\t8ee-L\n.\t8dd-X\n4D- 4d-\t8cc\n.\t8b-J\n4r\t8dd-L\n.\t8cc\n4GG 4G\t8dd-\n.\t8ee-J\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The different fraudster manufactures woodland.\n!!!COM:Alfonso Nestor\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#d#]\t*k[f#c#g#d#]\n*M916\t*M916\n=-\t=-\n48bbLLL\t48ggg#LLL\n48aa\t48ccc#\n48gg#\t48bb\n48ff##\t48aa#\n48aa\t48ccc#\n48gg#\t48bb\n48ff##\t48aa#\n48aa\t48ccc#\n48gg#JJJ\t48bbJJJ\n48ff##LLL\t48aa#LLL\n48gg#\t48bb\n48aa\t48bb#\n48aa#\t48ccc#\n48bb\t48ddd\n48bb#\t48ddd#\n48ccc#\t48eee\n48ccc##\t48eee#\n48ddd#JJJ\t48fff#JJJ\n16eeeLL\t48ggg#LLL\n.\t48aaa\n.\t48ggg#\n16aa 16bb\t48fff#\n.\t48ggg#\n.\t48fff#\n16gg# 16bbJJ\t48eee\n.\t48fff#\n.\t48eeeJJJ\n=\t=\n16gg# 16bbLL\t48ddd#LLL\n.\t48fff#\n.\t48eee\n16ff# 16bb\t48ccc##\n.\t48eee\n.\t48ddd#\n16gg# 16bbJJ\t48eee\n.\t48fff#\n.\t48eeeJJJ\n16ff# 16bbLL\t48ddd#LLL\n.\t48eee\n.\t48ddd#\n16ee# 16bb\t48ccc##\n.\t48ddd#\n.\t48ccc##\n16ff# 16bbJJ\t48ddd#\n.\t48eee\n.\t48ddd#JJJ\n16aa 16bbLL\t48eee#LLL\n.\t48ggg#\n.\t48fff#\n16ee# 16bb\t48ggg#\n.\t48aaa\n.\t48ggg#\n16ff# 16bbJJ\t48aaa\n.\t48bbb\n.\t48aaaJJJ\n=\t=\n16gg#LL\t48bbLLL\n.\t48bbb\n.\t48bb\n16gg#\t48eee\n.\t48bbb\n.\t48eee\n16ff#JJ\t48ddd#\n.\t48bbb\n.\t48ddd#JJJ\n16gg#LL\t48eeeLLL\n.\t48bbb\n.\t48fff#\n16eee\t48fff##\n.\t48bbb\n.\t48ggg#\n16fff#JJ\t48aaa\n.\t48bbb\n.\t48aaaJJJ\n16ggg#LL\t48bbb#LLL\n.\t48cccc#\n.\t48aaa\n16ggg#\t48bbb#\n.\t48aaa\n.\t48bbb#\n16gg# 16dddJJ\t48eee#\n.\t48cccc#\n.\t48bbb#JJJ\n=\t=\n16gg# 16dddLL\t48eee#LLL\n.\t48cccc#\n.\t48bbb\n16gg# 16bb\t48eee#\n.\t48aaa\n.\t48ggg#\n16gg# 16dddJJ\t48eee#\n.\t48cccc#\n.\t48bbbJJJ\n16gg# 16dddLL\t48eee#LLL\n.\t48cccc#\n.\t48bbb\n16aa 16ccc#\t48fff#\n.\t48bbb\n.\t48aaa\n16aaJJ\t48ccc#\n.\t48ggg#\n.\t48fff#JJJ\n16aaLL\t48cccLLL\n.\t48ggg#\n.\t48fff#\n16aa\t48bb\n.\t48ggg#\n.\t48fff#\n16gg#JJ\t48bb\n.\t48fff#\n.\t48eeeJJJ\n=\t=\n16gg#LL\t48bbLLL\n.\t48fff#\n.\t48eee\n16ff#\t48aa\n.\t48eee\n.\t48ddd#\n16gg#JJ\t48bb\n.\t48fff#\n.\t48eeeJJJ\n16gg#LL\t48bbLLL\n.\t48fff#\n.\t48eee\n16gg#\t48bb\n.\t48fff#\n.\t48eee#\n16aaJJ\t48ccc#\n.\t48ggg#\n.\t48fff#JJJ\n16aa#LL\t48ccc#LLL\n.\t48ggg#\n.\t48fff#\n16bb\t48ddd#\n.\t48ggg#\n.\t48fff#\n16dd# 16aaJJ\t48eee#\n.\t48fff#\n.\t48bbJJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_61.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The innate kimono foresees cashier.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#d#]\t*k[f#c#g#d#]\n*M1716\t*M1716\n=-\t=-\n*M54\t*M54\n4E 4G# 4B\t8g#\n.\t4ee\n4D- 4En 4Gn 4B-\t.\n.\t8gn\n*k[b-e-a-d-g-c-]\t*k[b-e-a-d-g-c-]\n4Dn 4F 4A- 4c-\t4cc-\n4r\t8b-L\n.\t8a-J\n4r\t8.gn\n.\t16a-\n=\t=\n*M1216\t*M1216\n4.r\t8.a-\n.\t8.e-\n16E-LL\t16e-LL\n16E-\t16e-\n16E-JJ\t16e-JJ\n16E-LL\t16e-LL\n16E-\t16e-\n16E-JJ\t16e-JJ\n=\t=\n16C- 16E-LL\t16c- 16e-LL\n16C- 16E-\t16c- 16e-\n16C- 16E-JJ\t16c- 16e-JJ\n16C- 16E-LL\t16c- 16e-LL\n16C- 16E-\t16c- 16e-\n16C- 16E-JJ\t16c- 16e-JJ\n16AA- 16C- 16E-LL\t16A- 16c- 16e-LL\n16AA- 16C- 16E-\t16A- 16c- 16e-\n16AA- 16C- 16E-JJ\t16A- 16c- 16e-JJ\n16AA- 16C- 16E-LL\t16A- 16c- 16e-LL\n16AA- 16C- 16E-\t16A- 16c- 16e-\n16AA- 16C- 16E-JJ\t16A- 16c- 16e-JJ\n=\t=\n16AA- 16C- 16E-LL\t8.ee-[\n16AA- 16C- 16E-\t.\n16AA- 16C- 16E-JJ\t.\n16AA- 16C- 16E-LL\t8ee-L]\n16AA- 16C- 16E-\t.\n16AA- 16C- 16E-JJ\t16dd-Jk[\n16AA- 16C- 16E-LL\t8dd-L]\n16AA- 16C- 16E-\t.\n16AA- 16C- 16E-JJ\t16cc-Jk\n16AA- 16C- 16E-LL\t16b-LL\n16AA- 16C- 16E-\t16cc-\n16AA- 16C- 16E-JJ\t16a-JJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_44.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The hurried path strokes motorcar.\n!!!COM:John Suniga\n**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M104\t*M104\n=-\t=-\n*k[b-e-a-]\t*k[b-e-a-]\n*M64\t*M64\n16r\t16d[ 16fLL[\n16BB- 16B-\t16d] 16fJJ]\n32.r\t32d 32fLLK\n.\t32r\n64BB- 64B-\t.\n16r\t16d 16fJJ\n16r\t16d[ 16fLL[\n16BB- 16B-\t16d] 16fJJ]\n32.r\t32d 32b-LLK\n.\t32r\n64GG 64G\t.\n16r\t16d 16b-JJ\n16r\t16g[ 16b-LL[\n16E- 16e-\t16g] 16b-JJ]\n32r\t32g 32b-LLK\n32E- 32e-\t32r\n16r\t16g 16b-JJ\n16r\t16g[ 16ee-LL[\n16C 16c\t16g] 16ee-JJ]\n32r\t32g 32ee-LLK\n32C 32c\t32r\n16r\t16g 16ee-JJ\n16r\t16cc[ 16ee-LL[\n16AA- 16A-\t16cc] 16ee-JJ]\n32r\t32cc 32ee-LLK\n32AA- 32A-\t32r\n16r\t16cc 16ee-JJ\n16r\t16cc[ 16aa-LL[\n16FF 16F\t16cc] 16aa-JJ]\n32r\t32cc 32ff 32aa-LLK\n32FF 32F\t32r\n16r\t16cc 16ff 16aa-JJ\n=\t=\n*M64\t*M64\n16r\t16cc 16ee[ 16gg[ 16cccLL[\n16CC 16EE 16GG 16C\t16cc 16ee] 16gg] 16cccJJ]\n32r\t32cc 32ee 32gg 32cccLLK\n32CC 32EE 32GG 32C\t32r\n16r\t16cc 16ee 16gg 16cccJJ\n16r\t16cc 16ee[ 16gg[ 16cccLL[\n16CC 16EE 16GG 16C\t16cc 16ee] 16gg] 16cccJJ]\n32r\t32cc 32ee 32gg 32cccLLK\n32CC 32EE 32GG 32C\t32r\n16r\t16cc 16ee 16gg 16cccJJ\n16r\t16cc[ 16ee[ 16gg[ 16cccLL[\n16CC 16EE 16GG 16C\t16cc] 16ee] 16gg] 16cccJJ]\n32r\t32cc 32cccLLK\n32CC 32C\t32r\n16r\t16cc 16cccJJ\n16r\t16cc[ 16cccLL[\n16CC 16C\t16cc] 16cccJJ]\n32r\t32cc 32cccLLK\n32CC 32C\t32r\n16r\t16cc 16cccJJ\n16r\t16cc[ 16cccLL[\n16CC 16C\t16cc] 16cccJJ]\n32r\t32cc 32cccLLK\n32CC 32C\t32r\n16r\t16cc 16cccJJ\n16r\t16cc[ 16cccLL[\n16AAA- 16AA-\t16cc] 16cccJJ]\n32r\t32cc 32cccLLK\n32AAA- 32AA-\t32r\n16r\t16cc 16cccJJ\n=\t=\n*k[b-e-a-d-g-]\t*k[b-e-a-d-g-]\n*M34\t*M34\n8AAA- 8AA-\t2.ccc[\n8r\t.\n8A- 8c\t.\n8r\t.\n4r\t.\n=\t=\n8AAA- 8AA-\t4ccc]\n8r\t.\n8c 8e-\t2eee-[\n8r\t.\n4r\t.\n=\t=\n8AAA- 8AA-\t4eee-]\n8r\t.\n8A- 8c 8e- 8a-\t2aaa-[\n8r\t.\n8AAA- 8AA-\t.\n8r\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_27.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Jason Sewell\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\n*M104\t*M104\n=-\t=-\n*k[]\t*k[]\n*M64\t*M64\n16r\t16B[ 16dLL[\n16GG 16G\t16B] 16dJJ]\n32.r\t32B 32dLLK\n.\t32r\n64GG 64G\t.\n16r\t16B 16dJJ\n16r\t16B[ 16dLL[\n16GG 16G\t16B] 16dJJ]\n32.r\t32B 32gLLK\n.\t32r\n64EE 64E\t.\n16r\t16B 16gJJ\n16r\t16e[ 16gLL[\n16C 16c\t16e] 16gJJ]\n32r\t32e 32gLLK\n32C 32c\t32r\n16r\t16e 16gJJ\n16r\t16e[ 16ccLL[\n16AA 16A\t16e] 16ccJJ]\n32r\t32e 32ccLLK\n32AA 32A\t32r\n16r\t16e 16ccJJ\n16r\t16a[ 16ccLL[\n16FF 16F\t16a] 16ccJJ]\n32r\t32a 32ccLLK\n32FF 32F\t32r\n16r\t16a 16ccJJ\n16r\t16a[ 16ffLL[\n16DD 16D\t16a] 16ffJJ]\n32r\t32a 32dd 32ffLLK\n32DD 32D\t32r\n16r\t16a 16dd 16ffJJ\n=\t=\n*M64\t*M64\n16r\t16a 16cc#[ 16ee[ 16aaLL[\n16AAA 16CC# 16EE 16AA\t16a 16cc#] 16ee] 16aaJJ]\n32r\t32a 32cc# 32ee 32aaLLK\n32AAA 32CC# 32EE 32AA\t32r\n16r\t16a 16cc# 16ee 16aaJJ\n16r\t16a 16cc#[ 16ee[ 16aaLL[\n16AAA 16CC# 16EE 16AA\t16a 16cc#] 16ee] 16aaJJ]\n32r\t32a 32cc# 32ee 32aaLLK\n32AAA 32CC# 32EE 32AA\t32r\n16r\t16a 16cc# 16ee 16aaJJ\n16r\t16a[ 16cc#[ 16ee[ 16aaLL[\n16AAA 16CC# 16EE 16AA\t16a] 16cc#] 16ee] 16aaJJ]\n32r\t32a 32aaLLK\n32AAA 32AA\t32r\n16r\t16a 16aaJJ\n16r\t16a[ 16aaLL[\n16AAA 16AA\t16a] 16aaJJ]\n32r\t32a 32aaLLK\n32AAA 32AA\t32r\n16r\t16a 16aaJJ\n16r\t16a[ 16aaLL[\n16AAA 16AA\t16a] 16aaJJ]\n32r\t32a 32aaLLK\n32AAA 32AA\t32r\n16r\t16a 16aaJJ\n16r\t16a[ 16aaLL[\n16FFF 16FF\t16a] 16aaJJ]\n32r\t32a 32aaLLK\n32FFF 32FF\t32r\n16r\t16a 16aaJJ\n=\t=\n*k[b-e-]\t*k[b-e-]\n*M34\t*M34\n8FFF 8FF\t2.aa[\n8r\t.\n8F 8A\t.\n8r\t.\n4r\t.\n=\t=\n8FFF 8FF\t4aa]\n8r\t.\n8A 8c\t2ccc[\n8r\t.\n4r\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_92.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Tyrone Smith\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#]\t*k[f#c#]\n*M44\t*M44\n=-\t=-\n4F# 4f#\t1a 1cc# 1ff# 1aa\n4E 4e\t.\n4D 4d\t.\n4C# 4c#\t.\n=\t=\n4BB 4B\t1dd 1ff# 1bb 1ddd\n4AA 4A\t.\n4GG# 4G#\t.\n4FF# 4F#\t.\n=\t=\n4EE 4E\t1B 1e 1g# 1b\n4DD 4D\t.\n4CC# 4C#\t.\n4BBB 4BB\t.\n=\t=\n4AAA 4AA\t2.e 2.a 2.cc# 2.ee\n4BBB 4BB\t.\n4CC# 4C#\t.\n4DD 4D\t4d[ 4f#[ 4b[ 4dd[\n=\t=\n4EE 4E\t4d] 4f#] 4b] 4dd]\n4r\t2c# 2e 2a 2cc#\n4EE 4E\t.\n4r\t4B 4d 4e 4g#\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_88.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The handsomely modeling nods enquiry.\n!!!COM:Douglas Dietrich\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-d-g-c-]\t*k[b-e-a-d-g-c-]\n*M1216\t*M1216\n=-\t=-\n*\t*^\n16C- 16E-LL\t4.a-\t16r\n16C- 16E-\t.\t16dnLL\n16C- 16E-JJ\t.\t16dJJ\n16C- 16E-LL\t.\t16dLL\n16C- 16E-\t.\t16e-\n16C- 16E-JJ\t.\t16e-JJ\n16BB- 16E-LL\t4.gn\t8.f-L\n16BB- 16E-\t.\t.\n16BB- 16E-JJ\t.\t.\n16BB- 16E-LL\t.\t8.e-J[\n16BB- 16E-\t.\t.\n16BB- 16E-JJ\t.\t.\n=\t=\t=\n16AA- 16E-LL\t4.cc-\t16e-LL]\n16AA- 16E-\t.\t16dn\n16AA- 16E-JJ\t.\t16dJJ\n16AA- 16E-LL\t.\t16dLL\n16AA- 16E-\t.\t16e-\n16AA- 16E-JJ\t.\t16e-JJ\n16GG- 16E-LL\t8.b-L\t8f-L\n16GG- 16E-\t.\t.\n16GG- 16E-JJ\t.\t16e-Jk\n16GG- 16E-LL\t8.ccnJ\t8a-L\n16GG- 16E-\t.\t.\n16G- 16A-JJ\t.\t16e-Jk\n=\t=\t=\n16F- 16A-LL\t8.dd-[\t16a-LL\n16F- 16A- 16d-\t.\t16a-\n16F- 16A- 16d-JJ\t.\t16a-JJ\n16F- 16A- 16d-LL\t16dd-LL]\t16a-LL\n16E- 16A- 16cn\t16ee-\t16a-\n16D- 16A- 16d-JJ\t16ff-JJ[\t16a-JJ\n16E- 16A- 16c-LL\t8ff-L]\t4.r\n16E- 16A- 16c-\t.\t.\n16E- 16A- 16c-JJ\t16ee-Jk[\t.\n16E- 16Gn 16B- 16d-LL\t8ee-L]\t.\n16E- 16G 16B- 16d-\t.\t.\n16E- 16G 16B- 16d-JJ\t16gnJk\t.\n=\t=\t=\n16F- 16Gn 16B- 16d-LL\t4.b-\t8r\n16F- 16G 16B- 16d-\t.\t.\n16F- 16G 16B- 16d-JJ\t.\t16r\n16E- 16G 16B- 16d-LL\t.\t16e-LL\n16E- 16G 16B- 16d-\t.\t16e-\n16E- 16G 16B- 16d-JJ\t.\t16e-JJ\n8.A- 8.c-\t4.a-\t8.e-\n8.CC- 8.C-\t.\t8.c-\n*\t*v\t*v\n*\t*clefF4\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Mazie Samaniego\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\n*M916\t*M916\n=-\t=-\n*^\t*^\n16r\t16GG#LL\t16eeLL\t16bLL\n16ELL\t16EE\t16dd\t16g#\n16EJJ\t16AAJJ[\t16cc#JJ\t16aJJ[\n16F#LL\t8AA]\t16ddLL\t16aLL_\n16E\t.\t16cc#\t16aJJ]\n16C#JJ\t16r\t16c#JJ\t16r\n8.r\t16DLL\t16dLL\t8.r\n.\t16C#\t16c#\t.\n.\t16C#JJ[\t16c#JJ\t.\n*v\t*v\t*\t*\n*\t*v\t*v\n=\t=\n*\t*^\n16ELL\t24cc#LL\t24eLL\n.\t48ak\t48c#k\n16EJJ[\t24g#\t24B\n.\t48aJJk\t48c#JJk\n16ELL]\t24bLL\t24dLL\n.\t48g#k\t48Bk\n16EJJ\t24f##\t24A#\n.\t48g#JJk\t48BJJk\n24BBLL\t8r\t8r\n48EEk\t.\t.\n24DD#\t.\t.\n48EEJJk\t.\t.\n*\t*v\t*v\n=\t=\n*^\t*\n24DLL\t16FF#LL\t8r\n48BBk\t.\t.\n24AA#\t16GG#JJ\t.\n48BBJJk\t.\t.\n4r\t16GG#LL\t24eLL\n.\t.\t48c#k\n.\t16AAJJ\t24B#\n.\t.\t48c#JJk\n.\t16AA#LL\t24eLL\n.\t.\t48c#k\n.\t16BBJJ\t24e\n.\t.\t48dJJk\n*v\t*v\t*\n=\t=\n16BB#LL\t24f#LL\n.\t48d#k\n16C#JJ\t24f#\n.\t48eJJk\n24BBLL\t8e 8cc#\n48GG#k\t.\n24BB\t.\n48AAJJk\t.\n24DLL\t8e 8a\n48BB#k\t.\n24D\t.\n48C#JJk\t.\n=\t=\n*\t*^\n8E\t24aLL\t24c#LL\n.\t48g#k\t48Bk\n.\t24b\t24d\n.\t48aJJk\t48c#JJk\n8EE\t24aLL\t24c#LL\n.\t48f##k\t48A#k\n.\t24a\t24c#\n.\t48g#JJk\t48BJJk\n24DDLL\t8e 8g#\t8B\n48CC#k\t.\t.\n24EE\t.\t.\n48DDJJk\t.\t.\n=\t=\t=\n*\t*v\t*v\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The obedient cast unifies astronomy.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M64\t*M64\n=-\t=-\n8BBB#L\t2.A# 2.d## 2.f##\n8AA##\t.\n8C#\t.\n8BB#\t.\n8D##\t.\n8FF##J\t.\n*\t*^\n8EE#L\t2g#[\t2.G# 2.e#\n8AA##\t.\t.\n8C#\t.\t.\n8BB#\t.\t.\n8E#\t8.g#L]\t.\n8EE#J\t.\t.\n.\t16B#Jk\t.\n=\t=\t=\n8AAA#L\t2.G# 2.e#\t1.c##\n8GG##\t.\t.\n8BB#\t.\t.\n8AA#\t.\t.\n8C##\t.\t.\n8EE#J\t.\t.\n8AAA#L\t2.A# 2.f##\t.\n8GG##\t.\t.\n8BB#\t.\t.\n8AA#\t.\t.\n8C##\t.\t.\n8EE#J\t.\t.\n*\t*v\t*v\n=\t=\n8DD#L\t2F## 2d#\n8GG##\t.\n8BB#\t.\n8AA#\t.\n8D#\t4r\n8DD#J\t.\n8GGG#L\t2.B# 2.g#\n8C##\t.\n8E#\t.\n8D#\t.\n8G#\t.\n8GG#J\t.\n=\t=\n*\t*^\n8AAA#L\t2.G# 2.e#\t2.c##\n8GG##\t.\t.\n8BB#\t.\t.\n8AA#\t.\t.\n8C##\t.\t.\n8EE#J\t.\t.\n8AAA#L\t2.f##\t2A#\n8GG##\t.\t.\n8BB#\t.\t.\n8AA#\t.\t.\n8C##\t.\t4G#\n8EE#J\t.\t.\n*\t*v\t*v\n=\t=\n8EE#L\t2.F##[ 2.d#[\n8GG##\t.\n8BB#\t.\n8AA#\t.\n8D#\t.\n8AAA#J\t.\n8DD#L\t4F##] 4d#]\n8GG##\t.\n8BB#\t4r\n8AA#\t.\n8D#\t4r\n8CC##J\t.\n=\t=\n*\t*^\n8BBB#L\t2.dd#\t8r\n8BB# 8F##\t.\t8d#L\n8BB# 8F##\t.\t8d#\n8BB# 8F##\t.\t8d#\n8BB# 8B#\t.\t8d#\n8BB# 8F##J\t.\t8d#J\n8BB# 8F##L\t2f##\t8d#L\n8BB# 8A#\t.\t8d#\n8BB# 8G##\t.\t8d#\n8BB# 8F##\t.\t8d#\n8EE# 8F##\t4g##\t8d#\n8EE# 8E#J\t.\t8d#J\n=\t=\t=\n*\t*v\t*v\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_52.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The painful jodhpurs deserts hallway.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-d-g-]\t*k[b-e-a-d-g-]\n*M24\t*M24\n=-\t=-\n8AA-L\t16r\n.\t16F- 16d-LL\n8B--\t16r\n.\t16F- 16d-\n8G\t16r\n.\t16F- 16d-\n8A-J\t16r\n.\t16F- 16d-JJ\n=\t=\n8AA-L\t16r\n.\t16G- 16c 16e-LL\n8B--\t16r\n.\t16G- 16c 16e-\n8G\t16r\n.\t16G- 16c 16e-\n8A-J\t16r\n.\t16G- 16c 16e-JJ\n=\t=\n8AA-L\t16r\n.\t16F- 16d-LL\n8B--\t16r\n.\t16F- 16d-\n8G\t16r\n.\t16F- 16d-\n8A-J\t16r\n.\t16F- 16d-JJ\n=\t=\n8AA-L\t16r\n.\t16E- 16G- 16cLL\n8B--\t16r\n.\t16E- 16c\n16Gk\t16r\n16r\t16E- 16c\n8B--J\t16r\n.\t16E- 16cJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_48.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The accidental afterlife saves stock.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#d#]\t*k[f#c#g#d#]\n*M34\t*M34\n=-\t=-\n4r\t12cc#L\n.\t12dd#\n.\t12cc#J\n4G# 4e\t4b#\n4C#\t4cc#\n=\t=\n4r\t4dd#\n4G# 4B 4d#\t2gg#\n4D#\t.\n=\t=\n4r\t8dd#L\n.\t8b\n4D# 4B 4d#\t8g#\n.\t8dd#J\n4D# 4A# 4d#\t4f##\n=\t=\n4G# 4B 4d#\t2g#\n4GG#\t.\n4r\t4gg#\n=\t=\n4r\t8.aaL\n.\t16gg#Jk\n4c# 4f# 4a\t4ff#\n4c# 4f# 4a\t4aa\n=\t=\n4r\t2aa\n4c# 4e 4a\t.\n4c# 4e 4g#\t4gg#\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_96.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Nancy Couture\n**kern\t**kern\n*^\t*\n*clefF4\t*clefF4\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\t*k[f#c#g#]\n*M98\t*M98\t*M98\n=-\t=-\t=-\n*\t*\t*^\n4E\t8EEL\t4.B 4.g#\t4.r\n.\t8E\t.\t.\n8r\t8EJ\t.\t.\n2.r\t8EL\t4.a> 4.cc>\t4r\n.\t8E\t.\t.\n.\t8EJ\t.\t8d#\n.\t8EL\t4.g# 4.b\t4.e\n.\t8E\t.\t.\n.\t8EJ\t.\t.\n*v\t*v\t*\t*\n=\t=\t=\n8EL\t4.a 4.cc#\t4r\n8E\t.\t.\n8EJ\t.\t8d#\n8EL\t4.g# 4.b\t4.e\n8E\t.\t.\n8EJ\t.\t.\n8EL\t4.a> 4.cc#> 4.ff#>\t4r\n8E\t.\t.\n8EJ\t.\t8d#\n=\t=\t=\n8EL\t4.g# 4.b 4.ee\t4e\n8E\t.\t.\n8EJ\t.\t8r\n8E\t4.a 4.dd\t4.f#\n8EEL\t.\t.\n8EEJ\t.\t.\n8EEL\t4.r\t4.e 4.g# 4.cc#\n8EE\t.\t.\n8EEJ\t.\t.\n=\t=\t=\n*^\t*\t*\n8EEL\t4.EE[\t4.d 4.f# 4.b\t2.r\n16FF#L\t.\t.\t.\n16GG#\t.\t.\t.\n16AA\t.\t.\t.\n16BBJJ\t.\t.\t.\n16C#LL\t4EE]\t4.c# 4.e 4.a\t.\n16D\t.\t.\t.\n16E\t.\t.\t.\n16F#\t.\t.\t.\n16G#\t8r\t.\t.\n16AJJ\t.\t.\t.\n4.r\t4.E\t16d 16g#LL\t16BLL\n.\t.\t16e 16a#\t16c#\n.\t.\t16f# 16b\t16d\n.\t.\t16e 16cc#\t16A#\n.\t.\t16d 16dd\t16B\n.\t.\t16d 16g#JJ\t16BJJ\n*v\t*v\t*\t*\n=\t=\t=\n16AA 16C#LL\t2.a\t8c#\n16C# 16E\t.\t.\n16E 16A\t.\t4r\n16C# 16E\t.\t.\n16AA 16C#\t.\t.\n16C# 16EJJ\t.\t.\n16AA 16C#LL\t.\t4.r\n16C# 16E\t.\t.\n16E 16A\t.\t.\n16C# 16E\t.\t.\n16AA 16C#\t.\t.\n16C# 16EJJ\t.\t.\n.\t.\t32g#qLLL\n.\t.\t32aqJJJ\n16AA 16C#LL\t4cc#[\t4.r\n16C# 16E\t.\t.\n16E 16A\t.\t.\n16C# 16E\t.\t.\n16AA 16C#\t16.cc#LL]\t.\n16C# 16EJJ\t.\t.\n.\t32aJJk\t.\n*\t*v\t*v\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_12.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The unadvised autumn trembles law.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M74\t*M74\n=-\t=-\n*M44\t*M44\n1GG 1BB 1D 1F\t32f\n.\t16.ff\n.\t16ffLL[\n.\t16ffJJ]\n.\t16ffLL[\n.\t16ffJJ]\n.\t16.ff[\n.\t32ff]\n.\t32ffLLL\n.\t32ffJJJ\n.\t32ffLLL[\n.\t32ffJJJ]\n.\t32ffLLL\n.\t32ffJJJ\n.\t32ffLLL\n.\t32ffJJJ\n.\t32ffLLL[\n.\t32ffJJJ]\n.\t8.r\n=\t=\n*k[]\t*k[]\n*M1716\t*M1716\n1GG 1BB 1D 1G\t32ffLLL[\n.\t32ffJJJ]\n.\t32ffLLL[\n.\t32ffJJJ]\n.\t32ffLLL[\n.\t32ffJJJ]\n.\t32ffLLL[\n.\t32ffJJJ]\n.\t32ffLLL[\n.\t32ffJJJ_\n.\t8ffL]\n.\t8ddJ\n.\t8bL\n.\t8fJ\n.\t12aL\n.\t12g\n.\t12fJ\n16r\t.\n=\t=\n*M54\t*M54\n4C 4E 4G\t8e\n.\t4cc\n4BB-- 4C 4E- 4G-\t.\n.\t8e-\n*k[]\t*k[]\n4BB- 4D- 4F- 4A--\t4a--\n4r\t8g-L\n.\t8f-J\n4r\t8.e-\n.\t16f-\n=\t=\n*M1216\t*M1216\n4.r\t8.f-\n.\t8.c-\n16C-LL\t16c-LL\n16C-\t16c-\n16C-JJ\t16c-JJ\n16C-LL\t16c-LL\n16C-\t16c-\n16C-JJ\t16c-JJ\n=\t=\n16AA-- 16C-LL\t16A-- 16c-LL\n16AA-- 16C-\t16A-- 16c-\n16AA-- 16C-JJ\t16A-- 16c-JJ\n16AA-- 16C-LL\t16A-- 16c-LL\n16AA-- 16C-\t16A-- 16c-\n16AA-- 16C-JJ\t16A-- 16c-JJ\n16FF- 16AA-- 16C-LL\t16F- 16A-- 16c-LL\n16FF- 16AA-- 16C-\t16F- 16A-- 16c-\n16FF- 16AA-- 16C-JJ\t16F- 16A-- 16c-JJ\n16FF- 16AA-- 16C-LL\t16F- 16A-- 16c-LL\n16FF- 16AA-- 16C-\t16F- 16A-- 16c-\n16FF- 16AA-- 16C-JJ\t16F- 16A-- 16c-JJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_73.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The capable meteorology vanishes pool.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-d-g-c-f-]\t*k[b-e-a-d-g-c-f-]\n*M44\t*M44\n*met(c)\t*met(c)\n=-\t=-\n4CC-\t4r\n4r\t4E- 4G- 4c-\n2r\t2r\n=\t=\n1E- 1G-\t4r\n.\t8r\n.\t8c-\n.\t8B-L\n.\t8c-\n.\t8g-\n.\t8g-J\n=\t=\n4F- 4G-\t8AL\n.\t8B-\n8r\t8g-\n8GG-\t8g-J\n8FFL\t2r\n8GG-\t.\n8F- 8G-\t.\n8F- 8G-J\t.\n=\t=\n1G-\t4r\n.\t8r\n.\t8d-\n.\t8cL\n.\t8d-\n.\t8g-\n.\t8g-J\n=\t=\n4E- 4G-\t8BL\n.\t8c\n4r\t8g-\n.\t8g-J\n4D- 4G- 4B--\t8cL\n.\t8d-\n4r\t8b--\n.\t8b--J\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_56.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Gloria Sarkis\n**kern\t**kern\n*clefG2\t*clefG2\n*k[]\t*k[]\n*M54\t*M54\n=-\t=-\n*M24\t*M24\n*^\t*\n16BLK\t4B\t8gg\n8.dJ\t.\t.\n.\t.\t16gLL\n.\t.\t16ddJJ\n=\t=\t=\n4d\t16dLK\t8r\n.\t8.AJ\t.\n.\t.\t16gLL\n.\t.\t16f#JJ\n4c\t16cLK\t8r\n.\t8.eJ\t.\n.\t.\t16aLL\n.\t.\t16eeJJ\n=\t=\t=\n4e\t16eLK\t8r\n.\t8.BJ\t.\n.\t.\t16aLL\n.\t.\t16g#JJ\n4d\t16dLK\t8r\n.\t8.fJ\t.\n.\t.\t16g# 16bLL\n.\t.\t16gg#JJ\n=\t=\t=\n16cLK\t4c\t8r\n8.eJ\t.\t.\n.\t.\t16a 16ccLL\n.\t.\t16aaJJ\n16dLK\t4B\t8r\n8.eJ\t.\t.\n.\t.\t16gg#LL\n.\t.\t16bbJJ\n=\t=\t=\n16cLK\t4A\t8r\n8.eJ\t.\t.\n.\t.\t16eeLL\n.\t.\t16cccJJ\n16BLK\t4B\t8r\n8.eJ\t.\t.\n.\t.\t16dd 16bbLL\n.\t.\t16eeJJ\n=\t=\t=\n*v\t*v\t*\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_39.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The gruesome pasta leaves tiger.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-d-g-c-]\t*k[b-e-a-d-g-c-]\n*M1216\t*M1216\n=-\t=-\n*k[b-e-a-]\t*k[b-e-a-]\n*M68\t*M68\n4r\t4.b-\n8r\t.\n=\t=\n2.r\t4.f\n.\t4.a-\n=\t=\n2.r\t4.e-\n.\t4.g\n=\t=\n2.r\t4.d\n.\t4e-\n.\t8f\n=\t=\n*\t*^\n2.r\t4.r\t4.g[\n.\t4.ee-\t8gL]\n.\t.\t8a-\n.\t.\t8gJ[\n=\t=\t=\n*\t*v\t*v\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_33.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Jolyn Walls\n**kern\t**kern\n*\t*^\n*clefF4\t*clefG2\t*clefG2\n*k[f#c#g#d#]\t*k[f#c#g#d#]\t*k[f#c#g#d#]\n*M64\t*M64\t*M64\n=-\t=-\t=-\n8C# 8EL\t4g#\t8AL\n8C# 8E\t.\t8A\n8AA 8E\t2.f#[\t8c#\n8AA 8E\t.\t8c#\n8AA 8F#\t.\t8d#\n8AA 8EJ\t.\t8c#J\n8AA 8F#L\t.\t8d#L\n8AA 8E\t.\t8c#\n8AA 8F#\t8f#L]\t8d#\n8AA 8E\t8g#\t8c#\n8GG# 8E\t8b\t8B\n8BB 8EJ\t8g#J\t8BJ\n*\t*v\t*v\n=\t=\n*\t*^\n*\t*\t*^\n8C# 8EL\t2.r\t4e\t8G#L\n8C# 8E\t.\t.\t8G#\n8C# 8G#\t.\t4e\t8c#\n8C# 8G#\t.\t.\t8c#\n8FF# 8C# 8F#\t.\t4c# 4e\t8A#\n8FF# 8C# 8F#J\t.\t.\t8A#J\n8BB 8F#L\t2f#\t4c# 4e\t8AL\n8BB 8F#\t.\t.\t8A\n8BB 8F#\t.\t4B 4d#\t8A\n8BB 8F#\t.\t.\t8A\n8BB 8F#\t4r\t4c# 4f#\t8A\n8BB 8F#J\t.\t.\t8AJ\n*\t*\t*v\t*v\n*\t*v\t*v\n=\t=\n8BB 8F#L\t4A 4c# 4f#\n8EE 8BB\t.\n8EE 8BB\t4G# 4B 4g#\n8EE 8BB\t.\n8EE 8BB\t4A 4c# 4f#\n8EE 8D#J\t.\n8EE 8EL\t2.G# 2.B 2.g#\n8DD#\t.\n8FF#\t.\n8EE\t.\n8GG#\t.\n8BBBJ\t.\n=\t=\n8EEEL\t2.d 2.g#\n8D#\t.\n8F#\t.\n8E\t.\n8G#\t.\n8BBJ\t.\n*\t*^\n8EEL\t2g#[\t2.d\n8D#\t.\t.\n8F#\t.\t.\n8E\t.\t.\n8G#\t8.g#L]\t.\n8BBJ\t.\t.\n.\t16aJk\t.\n*\t*v\t*v\n=\t=\n8EEL\t2.d 2.g# 2.b\n8D#\t.\n8F#\t.\n8E\t.\n8G#\t.\n8BBJ\t.\n*\t*^\n8EEL\t2cc#[\t2.d 2.g# 2.ee\n8D#\t.\t.\n8F#\t.\t.\n8E\t.\t.\n8G#\t8.cc#L]\t.\n8BBJ\t.\t.\n.\t16bJk\t.\n*\t*v\t*v\n=\t=\n8AAL\t2.d 2.b 2.ee\n8D#\t.\n8F#\t.\n8E\t.\n8G#\t.\n8BBJ\t.\n8AAL\t2.c# 2.a 2.cc#\n8D#\t.\n8F#\t.\n8E\t.\n8A\t.\n8AAJ\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_20.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Florence Tankersley\n**kern\t**kern\n*clefG2\t*clefG2\n*k[b-]\t*k[b-]\n*M38\t*M38\n=-\t=-\n8r\t4.ee\n8aL\t.\n8ccJ\t.\n=\t=\n8r\t4.dd\n8bL\t.\n8g#J\t.\n=\t=\n8r\t4.cc\n8aL\t.\n8cJ\t.\n=\t=\n8dL\t4.b\n8e\t.\n8EJ\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_16.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Tracey Farnes\n**kern\t**kern\n*^\t*\n*clefF4\t*clefF4\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\t*k[f#c#g#]\n*M44\t*M44\t*M44\n=-\t=-\t=-\n4C#\t4AA\t12aL\n.\t.\t12cc#\n.\t.\t12ee\n4r\t2.r\t12aa\n.\t.\t12ee\n.\t.\t12cc#J\n12C#L\t.\t8dddL\n12G#\t.\t.\n.\t.\t8ccc#\n12c#\t.\t.\n12e#\t.\t8bb#\n12c#\t.\t.\n.\t.\t8ccc#J\n12G#J\t.\t.\n*v\t*v\t*\n=\t=\n12F#L\t4aa\n12A\t.\n12c#\t.\n12f#\t4ccc#\n12c#\t.\n12AJ\t.\n12C#L\t8dddL\n12G#\t.\n.\t8ccc#\n12c#\t.\n12e#\t8bb#\n12c#\t.\n.\t8ccc#J\n12G#J\t.\n=\t=\n12F#L\t4aa\n12A\t.\n12c#\t.\n12f#\t4ccc#\n12c#\t.\n12AJ\t.\n8C#L\t12dd#L\n.\t12ff#\n8BB\t.\n.\t12bb\n8AA#\t12ddd#\n.\t12bb\n8BBJ\t.\n.\t12ff#J\n=\t=\n4GG#\t12eeL\n.\t12gg#\n.\t12bb\n4BB\t12eee\n.\t12bb\n.\t12gg#J\n8C#L\t12dd#L\n.\t12ff#\n8BB\t.\n.\t12bb\n8AA#\t12ddd#\n.\t12bb\n8BBJ\t.\n.\t12ff#J\n=\t=\n4GG#\t12eeL\n.\t12gg#\n.\t12bb\n4BB\t12eee\n.\t12bb\n.\t12gg#J\n12DD#L<\t8ccc#L\n12D#\t.\n.\t8bb\n12F#\t.\n12B\t8aa#\n12F#\t.\n.\t8bbJ\n12D#J\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_81.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Georgia Brown\n**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M74\t*M74\n=-\t=-\n*M24\t*M24\n*^\t*\n4.D\t2GG#[\t16BLL\n.\t.\t16g#JJ\n.\t.\t16BLL\n.\t.\t16g#JJ\n.\t.\t16BLL\n.\t.\t16g#JJ\n8D#\t.\t16B#LL\n.\t.\t16g#JJ\n=\t=\t=\n8E#L\t2GG#]\t16c#LL\n.\t.\t16f##JJ\n8C#\t.\t16e#LL\n.\t.\t16cc#JJ\n8F##\t.\t16a#LL\n.\t.\t16cc#JJ\n8D#J\t.\t16f##LL\n.\t.\t16dd#JJ\n=\t=\t=\n4.d\t2G#[\t16bLL\n.\t.\t16gg#JJ\n.\t.\t16bLL\n.\t.\t16gg#JJ\n.\t.\t16bLL\n.\t.\t16gg#JJ\n8d#\t.\t16b#LL\n.\t.\t16gg#JJ\n=\t=\t=\n8e#L\t2G#]\t16cc#LL\n.\t.\t16gg#JJ\n8c#\t.\t16ee#LL\n.\t.\t16ccc#JJ\n8f##\t.\t16aa#LL\n.\t.\t16ccc#JJ\n8d#J\t.\t16aa# 16ccc#LL\n.\t.\t16ddd#JJ\n*v\t*v\t*\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_77.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The clever evolution sorts connotation.\n!!!COM:Alice Thorp\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#]\t*k[f#]\n*M24\t*M24\n=-\t=-\n8GGL\t16bLL 16d\n.\t16g\n8B 8G 8D\t16e\n.\t16dJJ[\n8BJ 8G 8D\t16dLL]\n.\t16b\n8r\t16a#\n.\t16bJJ\n=\t=\n8F#L\t4dd# 4b\n8BJ 8A\t.\n8BBL\t8.ff#L 8.dd# 8.b\n8BJ 8A\t.\n.\t16aaJk\n=\t=\n*\t*^\n8EL\t16aaLL\t8.eeL 8.b\n.\t16gg\t.\n8BJ 8G\t16ff#\t.\n.\t16ggJJ[\t16a#Jk[\n8C#L\t16ggLL]\t4a#]\n.\t16gg\t.\n8A#J 8G 8E\t16ff#\t.\n.\t16eeJJ\t.\n*\t*v\t*v\n=\t=\n8DL\t16eeLL 16b\n.\t16dd\n8BJ 8G\t16cc#\n.\t16ddJJ[\n8DL\t16ddLL]\n.\t16ccn\n8cJ 8A 8F#\t16a\n.\t16f#JJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_64.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M1716\t*M1716\n=-\t=-\n*M54\t*M54\n4G# 4B# 4d#\t8b#\n.\t4gg#\n4F 4G# 4B 4d\t.\n.\t8b\n*k[b-e-]\t*k[b-e-]\n4F# 4A 4c 4e-\t4ee-\n4r\t8ddL\n.\t8ccJ\n4r\t8.b\n.\t16cc\n=\t=\n*M1216\t*M1216\n4.r\t8.cc\n.\t8.g\n16GLL\t16gLL\n16G\t16g\n16GJJ\t16gJJ\n16GLL\t16gLL\n16G\t16g\n16GJJ\t16gJJ\n=\t=\n16E- 16GLL\t16e- 16gLL\n16E- 16G\t16e- 16g\n16E- 16GJJ\t16e- 16gJJ\n16E- 16GLL\t16e- 16gLL\n16E- 16G\t16e- 16g\n16E- 16GJJ\t16e- 16gJJ\n16C 16E- 16GLL\t16c 16e- 16gLL\n16C 16E- 16G\t16c 16e- 16g\n16C 16E- 16GJJ\t16c 16e- 16gJJ\n16C 16E- 16GLL\t16c 16e- 16gLL\n16C 16E- 16G\t16c 16e- 16g\n16C 16E- 16GJJ\t16c 16e- 16gJJ\n=\t=\n16C 16E- 16GLL\t8.gg[\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t.\n16C 16E- 16GLL\t8ggL]\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t16ffJk[\n16C 16E- 16GLL\t8ffL]\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t16ee-Jk\n16C 16E- 16GLL\t16ddLL\n16C 16E- 16G\t16ee-\n16C 16E- 16GJJ\t16ccJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_41.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:William Mcmurray\n**kern\t**kern\n*\t*^\n*clefF4\t*clefG2\t*clefG2\n*k[f#c#g#d#]\t*k[f#c#g#d#]\t*k[f#c#g#d#]\n*M128\t*M128\t*M128\n=-\t=-\t=-\n4.BB 4.E 4.B\t4.ee\t8.g#L\n.\t.\t16f#k\n.\t.\t8g#J\n4.BB 4.F# 4.B\t4.cc#\t8.a#L\n.\t.\t16g#k\n.\t.\t8a#J\n4.BB[ 4.F#[ 4.B[\t4.dd#\t4b\n.\t.\t8f#\n4BB] 4F#] 4B]\t4.r\t4.b 4.dd# 4.ff#\n8F#\t.\t.\n*\t*v\t*v\n=\t=\n8.BB 8.G#L\t4.b 4.ee\n16F#k\t.\n8G#J\t.\n8.A#L\t4.cc# 4.ee\n16G#k\t.\n8A#J\t.\n4.BB 4.B\t8.b 8.dd#L\n.\t16cc# 16eek\n.\t8dd# 8ff#J\n4.BB 4.B\t4ee 4gg#\n.\t8dd# 8ff#\n=\t=\n4.BB 4.c#\t4cc# 4ee\n.\t8b 8dd#\n4.BB 4.c#\t8.a# 8.cc#L\n.\t16b 16dd#k\n.\t8cc# 8eeJ\n4.BB 4.B\t8.b 8.dd#L\n.\t16cc# 16eek\n.\t8dd# 8ff#J\n4.BB 4.B\t4ee 4gg#\n.\t8dd# 8ff#\n=\t=\n*\t*^\n4.EE 4.E\t4g# 4ee\t2.r\n.\t8f# 8dd#\t.\n4.FF# 4.F#\t8.e 8.cc#L\t.\n.\t16d# 16bk\t.\n.\t8c# 8a#J\t.\n4.BBB\t4b\t4.d#\n.\t8f#\t.\n4r\t4b\t4.r\n8r\t8dd# 8ff#\t.\n*\t*v\t*v\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_24.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The lucky trillion washes placebo.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[]\t*k[]\n*M1716\t*M1716\n=-\t=-\n*M54\t*M54\n4G# 4B# 4d#\t8b#\n.\t4gg#\n4F 4G# 4B 4d\t.\n.\t8b\n*k[b-e-]\t*k[b-e-]\n4F# 4A 4c 4e-\t4ee-\n4r\t8ddL\n.\t8ccJ\n4r\t8.b\n.\t16cc\n=\t=\n*M1216\t*M1216\n4.r\t8.cc\n.\t8.g\n16GLL\t16gLL\n16G\t16g\n16GJJ\t16gJJ\n16GLL\t16gLL\n16G\t16g\n16GJJ\t16gJJ\n=\t=\n16E- 16GLL\t16e- 16gLL\n16E- 16G\t16e- 16g\n16E- 16GJJ\t16e- 16gJJ\n16E- 16GLL\t16e- 16gLL\n16E- 16G\t16e- 16g\n16E- 16GJJ\t16e- 16gJJ\n16C 16E- 16GLL\t16c 16e- 16gLL\n16C 16E- 16G\t16c 16e- 16g\n16C 16E- 16GJJ\t16c 16e- 16gJJ\n16C 16E- 16GLL\t16c 16e- 16gLL\n16C 16E- 16G\t16c 16e- 16g\n16C 16E- 16GJJ\t16c 16e- 16gJJ\n=\t=\n16C 16E- 16GLL\t8.gg[\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t.\n16C 16E- 16GLL\t8ggL]\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t16ffJk[\n16C 16E- 16GLL\t8ffL]\n16C 16E- 16G\t.\n16C 16E- 16GJJ\t16ee-Jk\n16C 16E- 16GLL\t16ddLL\n16C 16E- 16G\t16ee-\n16C 16E- 16GJJ\t16ccJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_85.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Carolyn Fitzsimmons\n**kern\t**kern\n*^\t*\n*clefF4\t*clefF4\t*clefG2\n*k[f#]\t*k[f#]\t*k[f#]\n*M98\t*M98\t*M98\n=-\t=-\t=-\n*\t*\t*^\n4.r\t8DL\t8ff#L\t4g 4b\n.\t8D\t8ee\t.\n.\t8DJ\t16ddL\t16f# 16aLL\n.\t.\t16ccJJ\t16e 16gJJ\n4r\t8DL\t4cc\t4e 4g\n.\t8D\t.\t.\n16dLL\t8DJ\t16bLL\t8g\n16c#JJ\t.\t16aJJ\t.\n16c#LL\t8DL\t8aL\t4.g\n16B\t.\t.\t.\n16A\t8D\t8b\t.\n16G\t.\t.\t.\n16F#\t8DJ\t8ccJ\t.\n16EJJ\t.\t.\t.\n*v\t*v\t*\t*\n*\t*v\t*v\n=\t=\n4D\t8f# 8dd\n.\t8ee#L\n8r\t8ff#J\n4F# 4A 4d\t8r\n.\t8gg#L\n*clefG2\t*\n8r\t8aaJ\n4f# 4a 4dd\t8r\n.\t8ccc#L\n8r\t8dddJ\n=\t=\n4g 4b 4dd\t8r\n.\t8aa#L\n*clefF4\t*\n8r\t8bbJ\n4B 4d 4g\t8r\n.\t8ff#L\n8r\t8ggJ\n4G# 4d 4e\t8r\n.\t8dd#L\n8r\t8eeJ\n=\t=\n*^\t*\n8AL\t2.A\t8r\n8d 8f#\t.\t4aa[\n8d 8f#J\t.\t.\n8d 8f#L\t.\t16aaLL]\n.\t.\t32bbL\n.\t.\t32ccc#\n8d 8f#\t.\t32ddd\n.\t.\t32eee\n.\t.\t32fff#\n.\t.\t32gggJJ\n8d 8f#J\t.\t8aaaJ[\n8c# 8gL\t4.A\t8aaaL]\n8c# 8g\t.\t8ggg\n8c# 8gJ\t.\t8eeeJ\n=\t=\t=\n4f#\t4d\t8dddL[\n.\t.\t32dddLL]\n.\t.\t32ccc#\n.\t.\t32fff#\n.\t.\t32eee\n8r\t8r\t32ddd\n.\t.\t32ccc#\n.\t.\t32bb\n.\t.\t32aaJJJ\n4.r\t4r\t32gg#LLL\n.\t.\t32aa\n.\t.\t32ddd\n.\t.\t32ccc#JJ\n.\t.\t32bbLL\n.\t.\t32aa\n.\t.\t32gg\n.\t.\t32ff#JJ\n.\t8r\t32ee#LL\n.\t.\t32ff#\n.\t.\t32bb\n.\t.\t32aaJJJ\n4.r\t4r\t32ggLLL\n.\t.\t32ff#\n.\t.\t32ee\n.\t.\t32dd\n.\t.\t32cc#\n.\t.\t32dd\n.\t.\t32gg\n.\t.\t32ff#\n.\t8r\t32ee\n.\t.\t32dd\n.\t.\t32cc#\n.\t.\t32bJJJ\n=\t=\t=\n8AAL\t2.AA\t32g#LLL\n.\t.\t32a\n.\t.\t32a#\n.\t.\t32bJJ\n8D 8F#\t.\t32ccLL\n.\t.\t32cc#\n.\t.\t32dd\n.\t.\t32dd#JJ\n8D 8F#J\t.\t32eeLL\n.\t.\t32ee#\n.\t.\t32ff#\n.\t.\t32ggJJJ\n8D 8F#L\t.\t32gg#LLL\n.\t.\t32aa\n.\t.\t32aa#\n.\t.\t32bb\n8D 8F#\t.\t32ccc\n.\t.\t32ccc#\n.\t.\t32ddd\n.\t.\t32ddd#\n8D 8F#J\t.\t40eee\n.\t.\t40eee#\n.\t.\t40fff#\n.\t.\t40ggg\n.\t.\t40ggg#JJJ\n8C# 8GL\t4.AA\t8aaaL[\n8E 8G\t.\t32aaaLL]\n.\t.\t32ggg\n.\t.\t32eee\n.\t.\t32ccc#\n8E 8GJ\t.\t32aa#\n.\t.\t32gg\n.\t.\t32ee#\n.\t.\t32cc#JJJ\n=\t=\t=\n*v\t*v\t*\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_68.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Vanessa Vogelgesang\n**kern\t**kern\n*\t*^\n*clefG2\t*clefG2\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\t*k[f#c#g#]\n*M98\t*M98\t*M98\n=-\t=-\t=-\n*^\t*\t*\n8BL\t2.E\t4.f[ 4.g#[\t8dL\n8A#\t.\t.\t8c#\n8BJ\t.\t.\t8dJ\n8BL\t.\t4f] 4g#]\t8dL\n8A#\t.\t.\t8c#\n8BJ\t.\t8f 8g#\t8dJ\n8BL\t4.E\t8f 8g#L\t8dL\n8c#\t.\t8a\t8e\n8G#J\t.\t8bJ\t8eJ\n*v\t*v\t*\t*\n*clefF4\t*\t*\n=\t=\t=\n4.A\t4.cc#\t8eL\n.\t.\t8e\n.\t.\t8e#J\n4.D\t4.b\t8r\n.\t.\t8e#L\n.\t.\t8f#J\n4.D#\t4.a\t8r\n.\t.\t8f#L\n.\t.\t8BJ\n=\t=\t=\n*^\t*\t*\n8EEL\t2.EE[\t4g#\t4B\n8E\t.\t.\t.\n8EJ\t.\t8r\t8r\n8EL\t.\t8r\t4e\n8E\t.\t8f#L\t.\n8EJ\t.\t8g#J\t8d\n8EL\t4.EE]\t4a\t8c#L\n8E\t.\t.\t8B\n8EJ\t.\t8d#\t8AJ\n=\t=\t=\t=\n8EEL\t2.EE[\t8f#L\t4G#\n8E\t.\t8eJ\t.\n8EJ\t.\t8r\t8r\n8EL\t.\t8g#L\t4e\n8E\t.\t8f#\t.\n8EJ\t.\t8g#J\t8d\n8EL\t4.EE]\t8bL\t8c#L\n8E\t.\t8a\t8B\n8EJ\t.\t8d#J\t8AJ\n=\t=\t=\t=\n*\t*^\t*\t*\n8EE\t8r\t4.EE\t8e\t8G#\n4E[\t16ELL\t.\t16r\t16r\n.\t16GG#\t.\t16bLL\t16dLL\n.\t16AA\t.\t16a\t16c#\n.\t16CJJ\t.\t16d#JJ\t16AJJ\n8BB 8E]\t8r\t4.EE\t8e\t8G#\n4E[\t16ELL\t.\t16r\t16r\n.\t16GG#\t.\t16bLL\t16dLL\n.\t16AA\t.\t16a\t16c#\n.\t16FF#JJ\t.\t16d#JJ\t16AJJ\n8E]\t8r\t4.EE\t8e\t8G#\n4E\t16ELL\t.\t16r\t16r\n.\t16GG#\t.\t16bLL\t16dLL\n.\t16AA\t.\t16a\t16c#\n.\t16CJJ\t.\t16d#JJ\t16AJJ\n*\t*v\t*v\t*\t*\n*v\t*v\t*\t*\n*\t*v\t*v\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_45.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The rare booking traces wild.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#d#]\t*k[f#c#g#d#]\n*M44\t*M44\n=-\t=-\n4BB\t16dd# 16ff#LL\n.\t16bb\n.\t16aa#\n.\t16gg#JJ\n4r\t16ff#LL>\n.\t16ee\n.\t16dd#\n.\t16cc#JJ\n16r\t16bLL\n16BLL\t16b\n16A#\t16a#X\n16G#JJ\t16g#JJ\n16F#LL\t16f#LL\n16E\t16e\n16D#\t16d#\n16C#JJ\t16c#JJ\n=\t=\n4BB\t4B\n4r\t4r\n2r\t2r\n=\t=\n8BL\t4ff#\n8d\t.\n8f#\t8gg#L\n8dJ\t8aa#J\n8f#L\t8bbL\n8d\t8ccc#\n8B\t8ddd\n8dJ\t8ff#J\n=\t=\n.\tgg#q\n8BL\t8ff#L\n8c#\t8ee#\n8g#\t8ee#\n8c#J\t8ee#J\n8g#L\t2ee#\n8c#\t.\n8B\t.\n8c#J\t.\n=\t=\n8A#L\t8eeL\n8c#\t8aa#\n8f#\t8ccc#\n8c#J\t8aa#J\n8f#L\t8eeeL\n8c#\t8ccc#\n8A#\t8aa#\n8c#J\t8eeJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_28.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Gary Moss\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-d-g-c-]\t*k[b-e-a-d-g-c-]\n*M68\t*M68\n=-\t=-\n8G- 8B- 8d- 8g-L\t16bb-LL\n.\t16ggg-\n8G- 8B- 8d- 8g-\t16ddd-\n.\t16bbb-\n8G- 8B- 8d- 8g-J\t16ggg-\n.\t16dddd-JJ\n8G- 8A- 8c- 8d- 8fL\t16ccccLL\n.\t16dddd-\n8G- 8A- 8c- 8d- 8f\t16cccc\n.\t16dddd-\n8G- 8A- 8c- 8d- 8fJ\t16cccc\n.\t16dddd-JJ\n=\t=\n8G- 8B- 8d- 8g-L\t16eeee-LL\n.\t16dddd-\n8G- 8B- 8d- 8g-\t16cccc-\n.\t16bbb-\n8G- 8B- 8d- 8g-J\t16aaa-\n.\t16ggg-JJ\n8G- 8B- 8d- 8g-L\t16fffLL\n.\t16eee-\n8G- 8B- 8d- 8g-\t16ddd-\n.\t16ccc-\n8G- 8B- 8d- 8g-J\t16bb-\n.\t16aa-JJ\n=\t=\n8G- 8B- 8d- 8g-L\t16gg-LL\n.\t16ff\n8G- 8B- 8d- 8g-\t16ee-\n.\t16dd-\n8G- 8B- 8d- 8g-J\t16cc-\n.\t16b-JJ\n8G- 8A- 8c- 8d-L\t16a-LL\n.\t16g-\n8G- 8A- 8c- 8d-\t16f\n.\t16a-\n8G- 8A- 8c- 8d-J\t16cc-\n.\t16fJJ\n=\t=\n8GG-\t16B-LL\n.\t16g-\n8G- 8B-L\t16d-\n.\t16b-\n8G- 8B- 8d-J\t16g-\n.\t16dd-JJ\n8G- 8B- 8d- 8g-L\t16b-LL\n.\t16gg-\n8G- 8B- 8d- 8g-\t16dd-\n.\t16bb-\n8G- 8B- 8d- 8g-J\t16gg-\n.\t16ddd-JJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_93.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The straight chaise forgives liver.\n!!!COM:Bradley Cureton\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#d#]\t*k[f#c#g#d#]\n*M1716\t*M1716\n=-\t=-\n*M54\t*M54\n4E 4G# 4B\t8g#\n.\t4ee\n4D- 4En 4Gn 4B-\t.\n.\t8gn\n*k[b-e-a-d-g-c-]\t*k[b-e-a-d-g-c-]\n4Dn 4F 4A- 4c-\t4cc-\n4r\t8b-L\n.\t8a-J\n4r\t8.gn\n.\t16a-\n=\t=\n*M1216\t*M1216\n4.r\t8.a-\n.\t8.e-\n16E-LL\t16e-LL\n16E-\t16e-\n16E-JJ\t16e-JJ\n16E-LL\t16e-LL\n16E-\t16e-\n16E-JJ\t16e-JJ\n=\t=\n16C- 16E-LL\t16c- 16e-LL\n16C- 16E-\t16c- 16e-\n16C- 16E-JJ\t16c- 16e-JJ\n16C- 16E-LL\t16c- 16e-LL\n16C- 16E-\t16c- 16e-\n16C- 16E-JJ\t16c- 16e-JJ\n16AA- 16C- 16E-LL\t16A- 16c- 16e-LL\n16AA- 16C- 16E-\t16A- 16c- 16e-\n16AA- 16C- 16E-JJ\t16A- 16c- 16e-JJ\n16AA- 16C- 16E-LL\t16A- 16c- 16e-LL\n16AA- 16C- 16E-\t16A- 16c- 16e-\n16AA- 16C- 16E-JJ\t16A- 16c- 16e-JJ\n=\t=\n16AA- 16C- 16E-LL\t8.ee-[\n16AA- 16C- 16E-\t.\n16AA- 16C- 16E-JJ\t.\n16AA- 16C- 16E-LL\t8ee-L]\n16AA- 16C- 16E-\t.\n16AA- 16C- 16E-JJ\t16dd-Jk[\n16AA- 16C- 16E-LL\t8dd-L]\n16AA- 16C- 16E-\t.\n16AA- 16C- 16E-JJ\t16cc-Jk\n16AA- 16C- 16E-LL\t16b-LL\n16AA- 16C- 16E-\t16cc-\n16AA- 16C- 16E-JJ\t16a-JJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_89.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The tight sanctuary fills haversack.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\n*M38\t*M38\n=-\t=-\n8eL\t24g#LL\n.\t24f#\n.\t24g#J\n8f#\t24aL\n.\t24g#\n.\t24aJ\n8g#J\t8bJ\n=\t=\n8BL\t8r\n.\tf#q\n8c#\t8.f#L\n8d#J\t.\n.\t32eLL\n.\t32f#JJJ\n*clefG2\t*\n=\t=\n8eL\t24g#LL\n.\t24f#\n.\t24g#J\n8f#\t24aL\n.\t24g#\n.\t24aJ\n8g#J\t24bL\n.\t24a\n.\t24bJJ\n=\t=\n8aL\t24cc#LL\n.\t24b\n.\t24cc#J\n8b\t24dd#L\n.\t24cc#\n.\t24dd#J\n8cc#J\t24eeL\n.\t24dd#\n.\t24eeJJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Ryan Young\n**kern\t**kern\n*clefG2\t*clefG2\n*k[b-]\t*k[b-]\n=-\t=-\n*M74\t*M74\n4c 4e 4g 4b-\t36cc 36cccLLL\n.\t36bb\n.\t36bb-\n.\t36aa\n.\t36gg\n.\t36ff\n.\t36ee\n.\t36dd\n.\t36ccJJJ\n2r\t2b-\n2r\t2b\n2r\t2cc\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_70.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefF4\t*clefG2\n*k[f#]\t*k[f#]\n*M38\t*M38\n=-\t=-\n8DD 8D\t8dd 8ffn 8aa 8ddd\n8r\t8r\n8G\t8g\n=\t=\n8C\t8c\n8r\t8r\n8GG 8G\t8dd 8ffn 8bb\n=\t=\n8CC 8C\t8cc 8ee 8gg 8ccc\n8r\t8r\n8r\t8dd#\n=\t=\n4.r\t8eeL\n.\t8b\n.\t8ccJ\n=\t=\n4.r\t8g#L\n.\t8a\n.\t8eJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_53.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The incompetent widget clings landscape.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#d#a#e#]\t*k[f#c#g#d#a#e#]\n*M64\t*M64\n=-\t=-\n8GG#L\t2.f# 2.g# 2.dd#\n8F##\t.\n8A#\t.\n8G#\t.\n8B#\t.\n8D#J\t.\n8C#L\t2e# 2g# 2cc#\n8F##\t.\n8A#\t.\n8G#\t.\n8c#\t4r\n8E#J\t.\n=\t=\n8G#L\t1.r\n8F#\t.\n8B\t.\n8D#\t.\n8F#\t.\n8E#J\t.\n8A#L\t.\n8C#\t.\n8A#\t.\n8BB\t.\n8A#\t.\n8G#J\t.\n=\t=\n.\tA#q\n8FF#L\t2.c# 2.f# 2.a#\n8E#\t.\n8G#\t.\n8F#\t.\n8A#\t.\n8C#J\t.\n8FF#L\t2.c# 2.f# 2.a#\n8E#\t.\n8G#\t.\n8F#\t.\n8A#\t.\n8C#J\t.\n=\t=\n*\t*^\n8FF#L\t2.f# 2.a#\t2.c#\n8E#\t.\t.\n8G#\t.\t.\n8F#\t.\t.\n8A#\t.\t.\n8C#J\t.\t.\n8CC#L\t2b[\t2.e#\n8F##\t.\t.\n8A#\t.\t.\n8G#\t.\t.\n8B\t8.bL]\t.\n8C#J\t.\t.\n.\t16g#Jk\t.\n*\t*v\t*v\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_49.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:Jessica Glowacky\n**kern\t**kern\n*clefF4\t*clefF4\n*k[]\t*k[]\n*M24\t*M24\n=-\t=-\n8GG\t16GLL\n.\t16B\n8r\t16D\n.\t16GJJ\n8GG\t16r\n.\t16DLL\n8r\t16BB\n.\t16DJJ\n=\t=\n8GG\t16r\n.\t16DLL\n8r\t16BB\n.\t16DJJ\n8GG\t16r\n.\t16DLL\n8r\t16BB\n.\t16DJJ\n=\t=\n8GG\t16r\n.\t16D#LL\n8r\t16BB\n.\t16D#JJ\n8GG\t16r\n.\t16D#LL\n8r\t16BB\n.\t16D#JJ\n=\t=\n8GG\t16r\n.\t16D#LL\n8r\t16BB\n.\t16D#JJ\n8GG\t16r\n.\t16D#LL\n8r\t16BB\n.\t16D#JJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_36.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The materialistic endothelium laughs retrospectivity.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\n*M104\t*M104\n=-\t=-\n*k[]\t*k[]\n*M64\t*M64\n16r\t16B[ 16dLL[\n16GG 16G\t16B] 16dJJ]\n32.r\t32B 32dLLK\n.\t32r\n64GG 64G\t.\n16r\t16B 16dJJ\n16r\t16B[ 16dLL[\n16GG 16G\t16B] 16dJJ]\n32.r\t32B 32gLLK\n.\t32r\n64EE 64E\t.\n16r\t16B 16gJJ\n16r\t16e[ 16gLL[\n16C 16c\t16e] 16gJJ]\n32r\t32e 32gLLK\n32C 32c\t32r\n16r\t16e 16gJJ\n16r\t16e[ 16ccLL[\n16AA 16A\t16e] 16ccJJ]\n32r\t32e 32ccLLK\n32AA 32A\t32r\n16r\t16e 16ccJJ\n16r\t16a[ 16ccLL[\n16FF 16F\t16a] 16ccJJ]\n32r\t32a 32ccLLK\n32FF 32F\t32r\n16r\t16a 16ccJJ\n16r\t16a[ 16ffLL[\n16DD 16D\t16a] 16ffJJ]\n32r\t32a 32dd 32ffLLK\n32DD 32D\t32r\n16r\t16a 16dd 16ffJJ\n=\t=\n*M64\t*M64\n16r\t16a 16cc#[ 16ee[ 16aaLL[\n16AAA 16CC# 16EE 16AA\t16a 16cc#] 16ee] 16aaJJ]\n32r\t32a 32cc# 32ee 32aaLLK\n32AAA 32CC# 32EE 32AA\t32r\n16r\t16a 16cc# 16ee 16aaJJ\n16r\t16a 16cc#[ 16ee[ 16aaLL[\n16AAA 16CC# 16EE 16AA\t16a 16cc#] 16ee] 16aaJJ]\n32r\t32a 32cc# 32ee 32aaLLK\n32AAA 32CC# 32EE 32AA\t32r\n16r\t16a 16cc# 16ee 16aaJJ\n16r\t16a[ 16cc#[ 16ee[ 16aaLL[\n16AAA 16CC# 16EE 16AA\t16a] 16cc#] 16ee] 16aaJJ]\n32r\t32a 32aaLLK\n32AAA 32AA\t32r\n16r\t16a 16aaJJ\n16r\t16a[ 16aaLL[\n16AAA 16AA\t16a] 16aaJJ]\n32r\t32a 32aaLLK\n32AAA 32AA\t32r\n16r\t16a 16aaJJ\n16r\t16a[ 16aaLL[\n16AAA 16AA\t16a] 16aaJJ]\n32r\t32a 32aaLLK\n32AAA 32AA\t32r\n16r\t16a 16aaJJ\n16r\t16a[ 16aaLL[\n16FFF 16FF\t16a] 16aaJJ]\n32r\t32a 32aaLLK\n32FFF 32FF\t32r\n16r\t16a 16aaJJ\n=\t=\n*k[b-e-]\t*k[b-e-]\n*M34\t*M34\n8FFF 8FF\t2.aa[\n8r\t.\n8F 8A\t.\n8r\t.\n4r\t.\n=\t=\n8FFF 8FF\t4aa]\n8r\t.\n8A 8c\t2ccc[\n8r\t.\n4r\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_97.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefF4\t*clefG2\n*k[f#]\t*k[f#]\n*M22\t*M22\n=-\t=-\n8EEL\t4g 4ee\n8E\t.\n8EE\t2g# 2ee\n8EJ\t.\n8EEL\t.\n8E\t.\n8EE\t4dd 4gg#\n8EJ\t.\n=\t=\n8EEL\t4cc 4aa\n8E\t.\n8EE\t4gg# 4bb\n8EJ\t.\n8EEL\t4aa 4ccc\n8E\t.\n8EE\t4ff# 4ddd#\n8EJ\t.\n=\t=\n8EEL\t1ee 1gg 1eee\n8E\t.\n8EE\t.\n8EJ\t.\n8EEL\t.\n8E\t.\n8EE\t.\n8EJ\t.\n=\t=\n8DDL\t1e 1g 1ee\n8D\t.\n8DD\t.\n8DJ\t.\n8DDL\t.\n8D\t.\n8DD\t.\n8DJ\t.\n=\t=\n8CCL\t1ee 1gg 1eee\n8C\t.\n8CC\t.\n8CJ\t.\n8CCL\t.\n8C\t.\n8CC\t.\n8CJ\t.\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!COM:James Finke\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#d#]\t*k[f#c#g#d#]\n*M1716\t*M1716\n=-\t=-\n*M54\t*M54\n4E 4G# 4B\t8g#\n.\t4ee\n4D- 4En 4Gn 4B-\t.\n.\t8gn\n*k[b-e-a-d-g-c-]\t*k[b-e-a-d-g-c-]\n4Dn 4F 4A- 4c-\t4cc-\n4r\t8b-L\n.\t8a-J\n4r\t8.gn\n.\t16a-\n=\t=\n*M1216\t*M1216\n4.r\t8.a-\n.\t8.e-\n16E-LL\t16e-LL\n16E-\t16e-\n16E-JJ\t16e-JJ\n16E-LL\t16e-LL\n16E-\t16e-\n16E-JJ\t16e-JJ\n=\t=\n16C- 16E-LL\t16c- 16e-LL\n16C- 16E-\t16c- 16e-\n16C- 16E-JJ\t16c- 16e-JJ\n16C- 16E-LL\t16c- 16e-LL\n16C- 16E-\t16c- 16e-\n16C- 16E-JJ\t16c- 16e-JJ\n16AA- 16C- 16E-LL\t16A- 16c- 16e-LL\n16AA- 16C- 16E-\t16A- 16c- 16e-\n16AA- 16C- 16E-JJ\t16A- 16c- 16e-JJ\n16AA- 16C- 16E-LL\t16A- 16c- 16e-LL\n16AA- 16C- 16E-\t16A- 16c- 16e-\n16AA- 16C- 16E-JJ\t16A- 16c- 16e-JJ\n=\t=\n16AA- 16C- 16E-LL\t8.ee-[\n16AA- 16C- 16E-\t.\n16AA- 16C- 16E-JJ\t.\n16AA- 16C- 16E-LL\t8ee-L]\n16AA- 16C- 16E-\t.\n16AA- 16C- 16E-JJ\t16dd-Jk[\n16AA- 16C- 16E-LL\t8dd-L]\n16AA- 16C- 16E-\t.\n16AA- 16C- 16E-JJ\t16cc-Jk\n16AA- 16C- 16E-LL\t16b-LL\n16AA- 16C- 16E-\t16cc-\n16AA- 16C- 16E-JJ\t16a-JJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_30.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The hollow workhorse points harpsichord.\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-]\t*k[b-]\n*M38\t*M38\n=-\t=-\n16DLL\t8dd\n16A\t.\n16d\t16r\n16fJJ\t16aaLL\n8A\t16fff\n.\t16dddJJ\n=\t=\n16AALL\t8ccc#\n16A\t.\n16c#\t16r\n16eJJ\t16aaLL\n8A\t16eee\n.\t16ccc#JJ\n=\t=\n16DLL\t8ddd\n16A\t.\n16d\t16r\n16fJJ\t16aLL\n8A\t16ff\n.\t16ddJJ\n=\t=\n16AALL\t8cc#\n16A\t.\n16c#\t16r\n16eJJ\t16aLL\n8A\t16ee\n.\t16cc#JJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_13.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The watchful agony initiates brain.\n!!!COM:Reatha Donaldson\n**kern\t**kern\n*clefF4\t*clefG2\n*k[f#c#g#d#]\t*k[f#c#g#d#]\n*M1716\t*M1716\n=-\t=-\n*M54\t*M54\n4E 4G# 4B\t8g#\n.\t4ee\n4D- 4En 4Gn 4B-\t.\n.\t8gn\n*k[b-e-a-d-g-c-]\t*k[b-e-a-d-g-c-]\n4Dn 4F 4A- 4c-\t4cc-\n4r\t8b-L\n.\t8a-J\n4r\t8.gn\n.\t16a-\n=\t=\n*M1216\t*M1216\n4.r\t8.a-\n.\t8.e-\n16E-LL\t16e-LL\n16E-\t16e-\n16E-JJ\t16e-JJ\n16E-LL\t16e-LL\n16E-\t16e-\n16E-JJ\t16e-JJ\n=\t=\n16C- 16E-LL\t16c- 16e-LL\n16C- 16E-\t16c- 16e-\n16C- 16E-JJ\t16c- 16e-JJ\n16C- 16E-LL\t16c- 16e-LL\n16C- 16E-\t16c- 16e-\n16C- 16E-JJ\t16c- 16e-JJ\n16AA- 16C- 16E-LL\t16A- 16c- 16e-LL\n16AA- 16C- 16E-\t16A- 16c- 16e-\n16AA- 16C- 16E-JJ\t16A- 16c- 16e-JJ\n16AA- 16C- 16E-LL\t16A- 16c- 16e-LL\n16AA- 16C- 16E-\t16A- 16c- 16e-\n16AA- 16C- 16E-JJ\t16A- 16c- 16e-JJ\n=\t=\n16AA- 16C- 16E-LL\t8.ee-[\n16AA- 16C- 16E-\t.\n16AA- 16C- 16E-JJ\t.\n16AA- 16C- 16E-LL\t8ee-L]\n16AA- 16C- 16E-\t.\n16AA- 16C- 16E-JJ\t16dd-Jk[\n16AA- 16C- 16E-LL\t8dd-L]\n16AA- 16C- 16E-\t.\n16AA- 16C- 16E-JJ\t16cc-Jk\n16AA- 16C- 16E-LL\t16b-LL\n16AA- 16C- 16E-\t16cc-\n16AA- 16C- 16E-JJ\t16a-JJ\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_74.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "!!!OTL:The tasteless thrift waits inevitable.\n!!!COM:Jesse Poehlman\n**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-]\t*k[b-e-a-]\n*M38\t*M38\n=-\t=-\n*^\t*\n4.d-\t8GL\t8ee-L\n.\t8F\t8.bb-\n.\t8E-J\t.\n.\t.\t32aa-LL\n.\t.\t32bb-JJJ\n*v\t*v\t*\n=\t=\n8A- 8cL\t16.cccLL\n.\t32ggk\n8A- 8c 8e-\t16.aa-\n.\t32ee-k\n8A- 8c 8e-J\t16.ff\n.\t32ccJJk\n=\t=\n*^\t*\n4.B- 4.e-\t8A-L\t8dd-L\n.\t8G\t8.bb-\n.\t8E-J\t.\n.\t.\t32aa-LL\n.\t.\t32bb-JJJ\n*v\t*v\t*\n=\t=\n*M24\t*M24\n*^\t*\n8A-L\t4A-\t8.cccL\n8a-J\t.\t.\n.\t.\t16eee-Jk\n8GL\t4G\t8.bb-L\n8gJ\t.\t.\n.\t.\t16eee-Jk\n=\t=\t=\n8FL\t4F\t8.aa-L\n8fJ\t.\t.\n.\t.\t16eee-Jk\n8E-L\t4E-\t8.ggL\n8e-J\t.\t.\n.\t.\t16eee-Jk\n=\t=\t=\n8DL\t4D\t8.ffL\n8dJ\t.\t.\n.\t.\t16dddJk\n8CL\t4C\t8.ee-L\n8cJ\t.\t.\n.\t.\t16eee-Jk\n*v\t*v\t*\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_57.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*\t*^\n*clefG2\t*clefG2\t*clefG2\n*k[f#c#g#]\t*k[f#c#g#]\t*k[f#c#g#]\n*M98\t*M98\t*M98\n=-\t=-\t=-\n*^\t*\t*\n8BL\t2.E\t4.f[ 4.g#[\t8dL\n8A#\t.\t.\t8c#\n8BJ\t.\t.\t8dJ\n8BL\t.\t4f] 4g#]\t8dL\n8A#\t.\t.\t8c#\n8BJ\t.\t8f 8g#\t8dJ\n8BL\t4.E\t8f 8g#L\t8dL\n8c#\t.\t8a\t8e\n8G#J\t.\t8bJ\t8eJ\n*v\t*v\t*\t*\n*clefF4\t*\t*\n=\t=\t=\n4.A\t4.cc#\t8eL\n.\t.\t8e\n.\t.\t8e#J\n4.D\t4.b\t8r\n.\t.\t8e#L\n.\t.\t8f#J\n4.D#\t4.a\t8r\n.\t.\t8f#L\n.\t.\t8BJ\n=\t=\t=\n*^\t*\t*\n8EEL\t2.EE[\t4g#\t4B\n8E\t.\t.\t.\n8EJ\t.\t8r\t8r\n8EL\t.\t8r\t4e\n8E\t.\t8f#L\t.\n8EJ\t.\t8g#J\t8d\n8EL\t4.EE]\t4a\t8c#L\n8E\t.\t.\t8B\n8EJ\t.\t8d#\t8AJ\n=\t=\t=\t=\n8EEL\t2.EE[\t8f#L\t4G#\n8E\t.\t8eJ\t.\n8EJ\t.\t8r\t8r\n8EL\t.\t8g#L\t4e\n8E\t.\t8f#\t.\n8EJ\t.\t8g#J\t8d\n8EL\t4.EE]\t8bL\t8c#L\n8E\t.\t8a\t8B\n8EJ\t.\t8d#J\t8AJ\n=\t=\t=\t=\n*\t*^\t*\t*\n8EE\t8r\t4.EE\t8e\t8G#\n4E[\t16ELL\t.\t16r\t16r\n.\t16GG#\t.\t16bLL\t16dLL\n.\t16AA\t.\t16a\t16c#\n.\t16CJJ\t.\t16d#JJ\t16AJJ\n8BB 8E]\t8r\t4.EE\t8e\t8G#\n4E[\t16ELL\t.\t16r\t16r\n.\t16GG#\t.\t16bLL\t16dLL\n.\t16AA\t.\t16a\t16c#\n.\t16FF#JJ\t.\t16d#JJ\t16AJJ\n8E]\t8r\t4.EE\t8e\t8G#\n4E\t16ELL\t.\t16r\t16r\n.\t16GG#\t.\t16bLL\t16dLL\n.\t16AA\t.\t16a\t16c#\n.\t16CJJ\t.\t16d#JJ\t16AJJ\n*\t*v\t*v\t*\t*\n*v\t*v\t*\t*\n*\t*v\t*v\n=\t=\n*-\t*-\n"
+   }
+  ]
+ },
+ {
+  "image": "0_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "**kern\t**kern\n*clefF4\t*clefG2\n*k[b-e-a-d-]\t*k[b-e-a-d-]\n*M22\t*M22\n=-\t=-\n4AA-\t2a-\n8gL\t.\n8a-J\t.\n4A-\t2ee- 2ccc\n8dL\t.\n8e-J\t.\n=\t=\n4E-\t2dd- 2bb-\n8GL\t.\n8A-J\t.\n4AA-\t2cc 2aa-\n8DL\t.\n8E-J\t.\n=\t=\n*\t*^\n2.EE-\t8bb-L\t2b-\n.\t8aa-\t.\n.\t8gg\t.\n.\t8ffJ\t.\n.\t2r\t8ee-L\n.\t.\t8dd-\n4G\t.\t8cc\n.\t.\t8b-J\n*\t*v\t*v\n=\t=\n4A-\t8ccL\n.\t8ee-\n4D-\t8dd-\n.\t8b-J\n4E-\t4a- 4cc\n4EE-\t4g 4b-\n=\t=\n*\t*^\n2.AA-\t2r\t4a-\n.\t.\t8ee-L\n.\t.\t8ccJ\n.\t8a-L\t4r\n.\t8e-\t.\n4EE-\t8b-\t4d-\n.\t8gJ\t.\n=\t=\t=\n*\t*v\t*v\n*-\t*-\n"
+   }
+  ]
+ }
+]

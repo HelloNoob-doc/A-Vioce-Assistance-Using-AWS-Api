@@ -1,0 +1,2615 @@
+[
+    {
+        "image": "1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "劳动密集型企业"
+            }
+        ]
+    },
+    {
+        "image": "2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "话匣子"
+            }
+        ]
+    },
+    {
+        "image": "3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "守义汽车维护中心"
+            }
+        ]
+    },
+    {
+        "image": "4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "粉蓝色"
+            }
+        ]
+    },
+    {
+        "image": "5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "@美国倍克朗"
+            }
+        ]
+    },
+    {
+        "image": "6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "插排专用开关"
+            }
+        ]
+    },
+    {
+        "image": "7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "依靠科"
+            }
+        ]
+    },
+    {
+        "image": "8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "大众点评"
+            }
+        ]
+    },
+    {
+        "image": "9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "出入平安"
+            }
+        ]
+    },
+    {
+        "image": "10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "单命先烈 浩氣"
+            }
+        ]
+    },
+    {
+        "image": "11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "吴江市汾湖镇红日净化灯具厂"
+            }
+        ]
+    },
+    {
+        "image": "12.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "辉增日佛"
+            }
+        ]
+    },
+    {
+        "image": "13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "网易号 | 三金武器"
+            }
+        ]
+    },
+    {
+        "image": "14.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "刷卡锁磁感线"
+            }
+        ]
+    },
+    {
+        "image": "15.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "安居客"
+            }
+        ]
+    },
+    {
+        "image": "16.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "塑料耳针"
+            }
+        ]
+    },
+    {
+        "image": "17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "小红书"
+            }
+        ]
+    },
+    {
+        "image": "18.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "小红书"
+            }
+        ]
+    },
+    {
+        "image": "19.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "信阳市卓远珍珠岩有限公司"
+            }
+        ]
+    },
+    {
+        "image": "20.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "招商银行生意会"
+            }
+        ]
+    },
+    {
+        "image": "21.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "企鹅号 陌上花开且缓归"
+            }
+        ]
+    },
+    {
+        "image": "22.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "全面了解请看主图视频"
+            }
+        ]
+    },
+    {
+        "image": "23.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "位元堂"
+            }
+        ]
+    },
+    {
+        "image": "24.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "上智大学"
+            }
+        ]
+    },
+    {
+        "image": "25.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "大美榆社"
+            }
+        ]
+    },
+    {
+        "image": "26.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "阳陵泉"
+            }
+        ]
+    },
+    {
+        "image": "27.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "中环地产湖南分公司供图"
+            }
+        ]
+    },
+    {
+        "image": "28.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "每一次期待"
+            }
+        ]
+    },
+    {
+        "image": "29.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "屋书味三"
+            }
+        ]
+    },
+    {
+        "image": "30.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "过继立嗣之事"
+            }
+        ]
+    },
+    {
+        "image": "31.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "聚焦固镇"
+            }
+        ]
+    },
+    {
+        "image": "32.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "东莞市冠顺实业有限公司"
+            }
+        ]
+    },
+    {
+        "image": "33.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "西户网"
+            }
+        ]
+    },
+    {
+        "image": "34.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "遵义网"
+            }
+        ]
+    },
+    {
+        "image": "35.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "网易号 | 一个梨"
+            }
+        ]
+    },
+    {
+        "image": "36.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "忈合堂"
+            }
+        ]
+    },
+    {
+        "image": "37.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "简易衣帽间"
+            }
+        ]
+    },
+    {
+        "image": "38.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "大众点评"
+            }
+        ]
+    },
+    {
+        "image": "39.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "小山草木记"
+            }
+        ]
+    },
+    {
+        "image": "40.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "舞蹈是流动的诗歌"
+            }
+        ]
+    },
+    {
+        "image": "41.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "华府房产"
+            }
+        ]
+    },
+    {
+        "image": "42.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "赵曙君"
+            }
+        ]
+    },
+    {
+        "image": "43.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "昆明美食台"
+            }
+        ]
+    },
+    {
+        "image": "44.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "小红书"
+            }
+        ]
+    },
+    {
+        "image": "45.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "邯郸市交通图"
+            }
+        ]
+    },
+    {
+        "image": "46.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "全家福"
+            }
+        ]
+    },
+    {
+        "image": "47.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "上思中学校园布局示意图"
+            }
+        ]
+    },
+    {
+        "image": "48.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "众诚地产"
+            }
+        ]
+    },
+    {
+        "image": "49.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "仓州永泰体育器材"
+            }
+        ]
+    },
+    {
+        "image": "50.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "温州市陈亮十字锁芯加工厂"
+            }
+        ]
+    },
+    {
+        "image": "51.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "和讯"
+            }
+        ]
+    },
+    {
+        "image": "52.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "百冠房地产供图"
+            }
+        ]
+    },
+    {
+        "image": "53.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "从肺部结节到肺癌"
+            }
+        ]
+    },
+    {
+        "image": "54.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "深圳吃货小分队"
+            }
+        ]
+    },
+    {
+        "image": "55.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "阳江市江城区和昌五金制品厂"
+            }
+        ]
+    },
+    {
+        "image": "56.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "黑色中袖上衣"
+            }
+        ]
+    },
+    {
+        "image": "57.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "谭剑锋"
+            }
+        ]
+    },
+    {
+        "image": "58.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "东风雪铁龙"
+            }
+        ]
+    },
+    {
+        "image": "59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "库库诺尔蒙古族"
+            }
+        ]
+    },
+    {
+        "image": "60.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "深港在线"
+            }
+        ]
+    },
+    {
+        "image": "61.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "上海祯仪实业有限公司"
+            }
+        ]
+    },
+    {
+        "image": "62.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "金牛区佰正川商贸部"
+            }
+        ]
+    },
+    {
+        "image": "63.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "和畅惠来"
+            }
+        ]
+    },
+    {
+        "image": "64.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "网易号 | 钓鱼人家"
+            }
+        ]
+    },
+    {
+        "image": "65.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "电池款"
+            }
+        ]
+    },
+    {
+        "image": "66.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "上丰中心学校法治暨交通安全报告会"
+            }
+        ]
+    },
+    {
+        "image": "67.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "红网时刻"
+            }
+        ]
+    },
+    {
+        "image": "68.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "快车报"
+            }
+        ]
+    },
+    {
+        "image": "69.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "好心情丫丫娱乐"
+            }
+        ]
+    },
+    {
+        "image": "70.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "掌工梅州"
+            }
+        ]
+    },
+    {
+        "image": "71.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "小红书"
+            }
+        ]
+    },
+    {
+        "image": "72.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "网易号丨玉雕匠人卫喜珍"
+            }
+        ]
+    },
+    {
+        "image": "73.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "钻头之乡 芙蓉五金"
+            }
+        ]
+    },
+    {
+        "image": "74.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "百姓网"
+            }
+        ]
+    },
+    {
+        "image": "75.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "优质买家秀"
+            }
+        ]
+    },
+    {
+        "image": "76.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "江湖中的江湖"
+            }
+        ]
+    },
+    {
+        "image": "77.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "陈公包子"
+            }
+        ]
+    },
+    {
+        "image": "78.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "品时尚名"
+            }
+        ]
+    },
+    {
+        "image": "79.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "大众点评"
+            }
+        ]
+    },
+    {
+        "image": "80.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "黄河科技学院"
+            }
+        ]
+    },
+    {
+        "image": "81.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "小红书"
+            }
+        ]
+    },
+    {
+        "image": "82.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "东方手机连锁"
+            }
+        ]
+    },
+    {
+        "image": "83.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "荷塘美玉"
+            }
+        ]
+    },
+    {
+        "image": "84.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "体育万人迷"
+            }
+        ]
+    },
+    {
+        "image": "85.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "蓝迪美学时尚网"
+            }
+        ]
+    },
+    {
+        "image": "86.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "才是真正的英雄连队"
+            }
+        ]
+    },
+    {
+        "image": "87.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "大众点评"
+            }
+        ]
+    },
+    {
+        "image": "88.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "车靠右"
+            }
+        ]
+    },
+    {
+        "image": "89.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "国画艺术微信公众号 国画艺术"
+            }
+        ]
+    },
+    {
+        "image": "90.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "农大路沿街透视图"
+            }
+        ]
+    },
+    {
+        "image": "91.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "大众点评"
+            }
+        ]
+    },
+    {
+        "image": "92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "汉唐居"
+            }
+        ]
+    },
+    {
+        "image": "93.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "佛足石右脚图案"
+            }
+        ]
+    },
+    {
+        "image": "94.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "虞书欣表情包汇总"
+            }
+        ]
+    },
+    {
+        "image": "95.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "漫客栈"
+            }
+        ]
+    },
+    {
+        "image": "96.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "古玉文化研究所"
+            }
+        ]
+    },
+    {
+        "image": "97.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "我们充满活"
+            }
+        ]
+    },
+    {
+        "image": "98.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "鹭岛家园房产供图"
+            }
+        ]
+    },
+    {
+        "image": "99.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "漳河风景名胜区"
+            }
+        ]
+    },
+    {
+        "image": "100.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "济宁鲁恒机械设备有限公司"
+            }
+        ]
+    },
+    {
+        "image": "101.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "蜜月岛"
+            }
+        ]
+    },
+    {
+        "image": "102.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "合肥每日头条"
+            }
+        ]
+    },
+    {
+        "image": "103.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "收藏这些事儿"
+            }
+        ]
+    },
+    {
+        "image": "104.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "漏底漆也能修"
+            }
+        ]
+    },
+    {
+        "image": "105.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "福 降龍鸿運"
+            }
+        ]
+    },
+    {
+        "image": "106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "曜出自我"
+            }
+        ]
+    },
+    {
+        "image": "107.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "重庆电视台"
+            }
+        ]
+    },
+    {
+        "image": "108.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "蝶恋花"
+            }
+        ]
+    },
+    {
+        "image": "109.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "爱宠网"
+            }
+        ]
+    },
+    {
+        "image": "110.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "梦想舞台"
+            }
+        ]
+    },
+    {
+        "image": "111.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "台铁牌"
+            }
+        ]
+    },
+    {
+        "image": "112.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "范仲淹"
+            }
+        ]
+    },
+    {
+        "image": "113.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "我跟你拼了"
+            }
+        ]
+    },
+    {
+        "image": "114.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "高二适书风及师法承传研究展开幕式暨研计会"
+            }
+        ]
+    },
+    {
+        "image": "115.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "调试车间 安全生"
+            }
+        ]
+    },
+    {
+        "image": "116.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "海滨藏城欢迎您"
+            }
+        ]
+    },
+    {
+        "image": "117.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "帮麦跨境优品直营店"
+            }
+        ]
+    },
+    {
+        "image": "118.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "梁孝王陵寝遗址"
+            }
+        ]
+    },
+    {
+        "image": "119.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "永康市卡宾贸易有限公司"
+            }
+        ]
+    },
+    {
+        "image": "120.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "灰式料理"
+            }
+        ]
+    },
+    {
+        "image": "121.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "百家号/依依姐侃事"
+            }
+        ]
+    },
+    {
+        "image": "122.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "博学 睿思 尚行 拓新"
+            }
+        ]
+    },
+    {
+        "image": "123.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "大众点评"
+            }
+        ]
+    },
+    {
+        "image": "124.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "建中华名校 育民"
+            }
+        ]
+    },
+    {
+        "image": "125.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "自然式溪流"
+            }
+        ]
+    },
+    {
+        "image": "126.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "就是乐意浪"
+            }
+        ]
+    },
+    {
+        "image": "127.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "小红书"
+            }
+        ]
+    },
+    {
+        "image": "128.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "德普美食厨房"
+            }
+        ]
+    },
+    {
+        "image": "129.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "知了挂件"
+            }
+        ]
+    },
+    {
+        "image": "130.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "亿房房地产供图"
+            }
+        ]
+    },
+    {
+        "image": "131.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "老太太 你犯我手里了啊"
+            }
+        ]
+    },
+    {
+        "image": "132.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "大众点评"
+            }
+        ]
+    },
+    {
+        "image": "133.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "那精煤矿透水事故强排水现场\n中蓝泵业"
+            }
+        ]
+    },
+    {
+        "image": "134.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "大兴这些事儿"
+            }
+        ]
+    },
+    {
+        "image": "135.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "北京藏艺网"
+            }
+        ]
+    },
+    {
+        "image": "136.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "小红书"
+            }
+        ]
+    },
+    {
+        "image": "137.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "卡车之家"
+            }
+        ]
+    },
+    {
+        "image": "138.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "纱筒管"
+            }
+        ]
+    },
+    {
+        "image": "139.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "陈梦薇饰孟丽君"
+            }
+        ]
+    },
+    {
+        "image": "140.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "舞钢市第五届中小学生汉字听写大赛"
+            }
+        ]
+    },
+    {
+        "image": "141.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "霸都楼市"
+            }
+        ]
+    },
+    {
+        "image": "142.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "苏宁生鲜"
+            }
+        ]
+    },
+    {
+        "image": "143.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "玉良山宝"
+            }
+        ]
+    },
+    {
+        "image": "144.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "邢台九运机械厂"
+            }
+        ]
+    },
+    {
+        "image": "145.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "三晋第一碑"
+            }
+        ]
+    },
+    {
+        "image": "146.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "写生啦"
+            }
+        ]
+    },
+    {
+        "image": "147.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "桂花头油"
+            }
+        ]
+    },
+    {
+        "image": "148.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "曲阜市华新机械厂"
+            }
+        ]
+    },
+    {
+        "image": "149.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "榜样阀读"
+            }
+        ]
+    },
+    {
+        "image": "150.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "权寨镇疫情防控值勤点"
+            }
+        ]
+    },
+    {
+        "image": "151.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "上海警备区"
+            }
+        ]
+    },
+    {
+        "image": "152.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "漯河教育电视"
+            }
+        ]
+    },
+    {
+        "image": "153.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "草绿色"
+            }
+        ]
+    },
+    {
+        "image": "154.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "南无燃灯古佛"
+            }
+        ]
+    },
+    {
+        "image": "155.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "云阳网"
+            }
+        ]
+    },
+    {
+        "image": "156.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "龍門客栈"
+            }
+        ]
+    },
+    {
+        "image": "157.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "铭浚旗舰"
+            }
+        ]
+    },
+    {
+        "image": "158.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "今夜星空"
+            }
+        ]
+    },
+    {
+        "image": "159.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "上饶疾控"
+            }
+        ]
+    },
+    {
+        "image": "160.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "博山的故事"
+            }
+        ]
+    },
+    {
+        "image": "161.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "青州市晟唐花卉"
+            }
+        ]
+    },
+    {
+        "image": "162.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "网易号 | 闻悦科技速览"
+            }
+        ]
+    },
+    {
+        "image": "163.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "传承红色基因"
+            }
+        ]
+    },
+    {
+        "image": "164.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "中辉国际"
+            }
+        ]
+    },
+    {
+        "image": "165.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "大众点评"
+            }
+        ]
+    },
+    {
+        "image": "166.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "你们三个 她一个"
+            }
+        ]
+    },
+    {
+        "image": "167.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "跳跃战士"
+            }
+        ]
+    },
+    {
+        "image": "168.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "大众点评"
+            }
+        ]
+    },
+    {
+        "image": "169.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "流沙河"
+            }
+        ]
+    },
+    {
+        "image": "170.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "职工休闲"
+            }
+        ]
+    },
+    {
+        "image": "171.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "濮阳市教育局"
+            }
+        ]
+    },
+    {
+        "image": "172.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "版权图片"
+            }
+        ]
+    },
+    {
+        "image": "173.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "温州金汉机械"
+            }
+        ]
+    },
+    {
+        "image": "174.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "泾川公安"
+            }
+        ]
+    },
+    {
+        "image": "175.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "彭水山人户外"
+            }
+        ]
+    },
+    {
+        "image": "176.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "佛山市禅城区胜之鸿制衣厂"
+            }
+        ]
+    },
+    {
+        "image": "177.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "皆在夜华之上的神仙"
+            }
+        ]
+    },
+    {
+        "image": "178.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "广州市铭朗服装辅料有限公"
+            }
+        ]
+    },
+    {
+        "image": "179.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "广西县域经济网"
+            }
+        ]
+    },
+    {
+        "image": "180.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "搜狐号@梅州日报"
+            }
+        ]
+    },
+    {
+        "image": "181.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "术后核磁检查"
+            }
+        ]
+    },
+    {
+        "image": "182.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "小红书"
+            }
+        ]
+    },
+    {
+        "image": "183.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "沙依巴克区炉院街兴萍乡礼品包装商行"
+            }
+        ]
+    },
+    {
+        "image": "184.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "视觉中国"
+            }
+        ]
+    },
+    {
+        "image": "185.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "六安广播电视网"
+            }
+        ]
+    },
+    {
+        "image": "186.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "小红书"
+            }
+        ]
+    },
+    {
+        "image": "187.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "转运符"
+            }
+        ]
+    },
+    {
+        "image": "188.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "今日联拍"
+            }
+        ]
+    },
+    {
+        "image": "189.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "打造细腻粉底微珠"
+            }
+        ]
+    },
+    {
+        "image": "190.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "汽车之家"
+            }
+        ]
+    },
+    {
+        "image": "191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "拉拉有拖车"
+            }
+        ]
+    },
+    {
+        "image": "192.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "东方卫视"
+            }
+        ]
+    },
+    {
+        "image": "193.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "另辟蹊径"
+            }
+        ]
+    },
+    {
+        "image": "194.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "小红书"
+            }
+        ]
+    },
+    {
+        "image": "195.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "胜利合影"
+            }
+        ]
+    },
+    {
+        "image": "196.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "来鹭草堂"
+            }
+        ]
+    },
+    {
+        "image": "197.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "曲阜市华新机械厂"
+            }
+        ]
+    },
+    {
+        "image": "198.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "敦煌研究院"
+            }
+        ]
+    },
+    {
+        "image": "199.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "那你打电话投诉嘛"
+            }
+        ]
+    },
+    {
+        "image": "200.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "罪行宽待"
+            }
+        ]
+    },
+    {
+        "image": "201.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "主持人"
+            }
+        ]
+    }
+]

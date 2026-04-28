@@ -1,0 +1,6 @@
+GOT
+GOT_weights
+Image_path
+render_tools
+results
+zero_config

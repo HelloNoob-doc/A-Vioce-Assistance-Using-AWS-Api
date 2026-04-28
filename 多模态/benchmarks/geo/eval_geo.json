@@ -1,0 +1,2522 @@
+[
+ {
+  "id": 0,
+  "image": "trapezoid_images_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-3, -10) rectangle (37, 30);\n    \\coordinate (E) at (1.0, 7.0);\n    \\coordinate (C) at (31.0, 7.0);\n    \\coordinate (P) at (31.0, 27.0);\n    \\coordinate (A) at (15.0, 27.0);\n    \\filldraw[fill=white, draw=black, very thick] (A) -- (E) -- (C) -- (P) -- cycle;    \n    \\node at (0.5, 6.5) [font=\\small, color=black] {E};\n    \\node at (31.5, 6.5) [font=\\small, color=black] {C};\n    \\node at (31.5, 27.5) [font=\\large, color=black] {P};\n    \\node at (14.5, 27.5) [font=\\Large, color=black] {A};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "trapezoid_images_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (0, 3) rectangle (36, 39);\n    \\coordinate (X) at (5.0, 7.0);\n    \\coordinate (A) at (31.0, 7.0);\n    \\coordinate (P) at (31.0, 18.0);\n    \\coordinate (V) at (19.0, 18.0);\n    \\filldraw[fill=white, draw=black, very thick] (P) -- (V) -- (X) -- (A) -- cycle;    \n    \\node at (4.5, 6.5) [font=\\small, color=black] {X};\n    \\node at (31.5, 6.5) [font=\\large, color=black] {A};\n    \\node at (31.5, 18.5) [font=\\normalsize, color=black] {P};\n    \\node at (18.5, 18.5) [font=\\normalsize, color=blue] {V};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "trapezoid_images_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-1, -20) rectangle (42, 23);\n    \\coordinate (M) at (6.1, 13.1);\n    \\coordinate (O) at (29.9, -3.5);\n    \\coordinate (N) at (38.5, 8.8);\n    \\coordinate (Z) at (28.6, 15.6);\n    \\filldraw[fill=white, draw=black, thin] (Z) -- (N) -- (O) -- (M) -- cycle;    \n    \\node at (5.4, 13.0) [font=\\normalsize, color=black] {M};\n    \\node at (29.9, -4.2) [font=\\small, color=black] {O};\n    \\node at (39.1, 8.9) [font=\\large, color=black] {N};\n    \\node at (28.4, 16.3) [font=\\large, color=black] {Z};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "trapezoid_images_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-1, -4) rectangle (32, 29);\n    \\coordinate (V) at (3.1, 2.0);\n    \\coordinate (O) at (24.1, 2.0);\n    \\coordinate (T) at (27.1, 9.0);\n    \\coordinate (W) at (15.1, 9.0);\n    \\filldraw[fill=white, draw=black, very thick] (W) -- (V) -- (O) -- (T) -- cycle;    \n    \\node at (2.4, 1.5) [font=\\Large, color=cyan] {V};\n    \\node at (24.4, 1.5) [font=\\normalsize, color=black] {O};\n    \\node at (27.4, 9.5) [font=\\normalsize, color=black] {T};\n    \\node at (14.4, 9.5) [font=\\normalsize, color=black] {W};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "trapezoid_images_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (1, -11) rectangle (29, 17);\n    \\coordinate (P) at (9.0, -3.2);\n    \\coordinate (R) at (25.2, 8.5);\n    \\coordinate (O) at (12.4, 9.1);\n    \\coordinate (X) at (7.5, 5.6);\n    \\filldraw[fill=white, draw=black, very thick] (R) -- (P) -- (X) -- (O) -- cycle;    \n    \\node at (8.9, -3.9) [font=\\large, color=black] {P};\n    \\node at (25.9, 8.4) [font=\\small, color=black] {R};\n    \\node at (12.5, 9.8) [font=\\large, color=red] {O};\n    \\node at (6.8, 5.7) [font=\\small, color=black] {X};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "trapezoid_images_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-4, 1) rectangle (29, 34);\n    \\coordinate (A) at (2.0, 7.0);\n    \\coordinate (E) at (25.0, 7.0);\n    \\coordinate (Z) at (18.0, 20.0);\n    \\coordinate (R) at (9.0, 20.0);\n    \\filldraw[fill=white, draw=black, very thick] (Z) -- (E) -- (A) -- (R) -- cycle;    \n    \\node at (1.5, 6.5) [font=\\Large, color=black] {A};\n    \\node at (25.5, 6.5) [font=\\Large, color=black] {E};\n    \\node at (18.5, 20.5) [font=\\large, color=black] {Z};\n    \\node at (8.5, 20.5) [font=\\small, color=black] {R};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "trapezoid_images_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (11, -1) rectangle (47, 35);\n    \\coordinate (J) at (16.6, 30.5);\n    \\coordinate (O) at (24.9, 1.7);\n    \\coordinate (B) at (35.5, 4.7);\n    \\coordinate (X) at (31.9, 17.2);\n    \\filldraw[fill=white, draw=black, very thick] (O) -- (B) -- (X) -- (J) -- cycle;    \n    \\node at (16.1, 30.8) [font=\\small, color=black] {J};\n    \\node at (24.6, 1.0) [font=\\Large, color=black] {O};\n    \\node at (36.1, 4.3) [font=\\small, color=black] {B};\n    \\node at (32.2, 17.8) [font=\\normalsize, color=black] {X};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "trapezoid_images_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (3, -2) rectangle (37, 32);\n    \\coordinate (X) at (8.0, 4.0);\n    \\coordinate (H) at (33.0, 4.0);\n    \\coordinate (S) at (23.0, 19.0);\n    \\coordinate (A) at (8.0, 19.0);\n    \\filldraw[fill=white, draw=pink, thick] (H) -- (X) -- (A) -- (S) -- cycle;    \n    \\node at (7.5, 3.5) [font=\\normalsize, color=black] {X};\n    \\node at (33.5, 3.5) [font=\\large, color=black] {H};\n    \\node at (23.5, 19.5) [font=\\large, color=black] {S};\n    \\node at (7.5, 19.5) [font=\\large, color=black] {A};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "trapezoid_images_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-3, -4) rectangle (35, 34);\n    \\coordinate (E) at (13.3, 23.2);\n    \\coordinate (A) at (4.3, 2.0);\n    \\coordinate (Z) at (26.6, 3.4);\n    \\coordinate (O) at (31.7, 15.4);\n    \\filldraw[fill=white, draw=yellow, thin] (O) -- (E) -- (A) -- (Z) -- cycle;    \n    \\node at (13.0, 23.8) [font=\\normalsize, color=red] {E};\n    \\node at (3.7, 1.8) [font=\\large, color=yellow] {A};\n    \\node at (26.9, 2.8) [font=\\small, color=black] {Z};\n    \\node at (32.4, 15.6) [font=\\large, color=black] {O};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "trapezoid_images_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-4, -4) rectangle (28, 28);\n    \\coordinate (I) at (0.0, 9.0);\n    \\coordinate (U) at (23.0, 9.0);\n    \\coordinate (G) at (16.0, 24.0);\n    \\coordinate (L) at (7.0, 24.0);\n    \\filldraw[fill=white, draw=black, thick] (L) -- (I) -- (U) -- (G) -- cycle;    \n    \\node at (-0.5, 8.5) [font=\\normalsize, color=black] {I};\n    \\node at (23.5, 8.5) [font=\\large, color=black] {U};\n    \\node at (16.5, 24.5) [font=\\small, color=black] {G};\n    \\node at (6.5, 24.5) [font=\\Large, color=black] {L};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "point_images_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-15, -15) rectangle (15, 15);\n\\node[draw=orange, fill=orange, star, inner sep=3pt, label=above:V] at (-7.9, 24.3) {};\n\\node[draw=yellow, fill=yellow, star, inner sep=1pt, label={[font=\\Large]below:Z}] at (13, -9) {};\n\\node[draw=pink, fill=pink, triangle, inner sep=3pt, label={[font=\\Large]below:G}] at (7, 0) {};\n\\node[draw=pink, fill=pink, bullet, inner sep=3pt, label={[font=\\huge]below:O}] at (9.7, 25.8) {};\n\\node[draw=black, fill=black, square, inner sep=2pt, label=above:A] at (-10, 9) {};\n\\node[draw=violet, fill=violet, blacklozenge, inner sep=1pt, label={[font=\\small]above:L}] at (13, -13) {};\n\\node[draw=yellow, fill=yellow, triangledown, inner sep=1pt, label={[font=\\small]below:W}] at (-9, 6) {};\n\\node[draw=black, fill=black, bullet, inner sep=2pt, label={[font=\\huge]above:J}] at (-3, -8) {};\n\\node[draw=blue, fill=blue, diamond, inner sep=3pt, label={[font=\\Large]below:B}] at (18.1, 25.8) {};\n\\node[draw=black, fill=black, bullet, inner sep=2pt, label=above:H] at (5, -4) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "point_images_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-13, -13) rectangle (13, 13);\n\\node[draw=yellow, fill=yellow, triangledown, inner sep=2pt, label=above:Q] at (-7, 4) {};\n\\node[draw=pink, fill=pink, triangledown, inner sep=1pt, label={[font=\\Large]below:F}] at (10, -1) {};\n\\node[draw=green, fill=green, triangledown, inner sep=1pt, label={[font=\\Large]above:M}] at (4, -4) {};\n\\node[draw=violet, fill=violet, ast, inner sep=3pt, label=above:H] at (-5, 6) {};\n\\node[draw=cyan, fill=cyan, blacklozenge, inner sep=1pt, label=above:G] at (-11, 6) {};\n\\node[draw=red, fill=red, blacklozenge, inner sep=1pt, label={[font=\\Large]below:A}] at (4, 1) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "point_images_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-13, -13) rectangle (13, 13);\n\\node[draw=violet, fill=violet, blacklozenge, inner sep=1pt, label=above:R] at (-8, 0) {};\n\\node[draw=pink, fill=pink, square, inner sep=1pt, label=above:W] at (0.2, 11.8) {};\n\\node[draw=red, fill=red, diamond, inner sep=3pt, label=below:N] at (-10, 1) {};\n\\node[draw=pink, fill=pink, diamond, inner sep=1pt, label=below:D] at (-9, 11) {};\n\\node[draw=green, fill=green, square, inner sep=3pt, label=below:A] at (6, -6) {};\n\\node[draw=orange, fill=orange, bullet, inner sep=1pt, label=above:E] at (-10, 6) {};\n\\node[draw=pink, fill=pink, ast, inner sep=2pt, label={[font=\\large]below:K}] at (6, 3) {};\n\\node[draw=blue, fill=blue, times, inner sep=1pt, label=above:Q] at (0, -2) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "point_images_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-11, -11) rectangle (11, 11);\n\\node[draw=green, fill=green, triangledown, inner sep=3pt, label={[font=\\Large]above:P}] at (9, 2) {};\n\\node[draw=green, fill=green, bullet, inner sep=1pt, label=above:H] at (-6, 7) {};\n\\node[draw=green, fill=green, square, inner sep=3pt, label=below:C] at (7.8, 18.0) {};\n\\node[draw=blue, fill=blue, triangledown, inner sep=2pt, label={[font=\\huge]above:B}] at (0, 2) {};\n\\node[draw=yellow, fill=yellow, square, inner sep=2pt, label={[font=\\Large]above:J}] at (9, 8) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "point_images_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-14, -14) rectangle (14, 14);\n\\node[draw=cyan, fill=cyan, star, inner sep=3pt, label={[font=\\Large]below:F}] at (9, 10) {};\n\\node[draw=black, fill=black, blacklozenge, inner sep=2pt, label={[font=\\small]above:Z}] at (-7, -12) {};\n\\node[draw=cyan, fill=cyan, blacktriangle, inner sep=2pt, label={[font=\\large]above:N}] at (-15.7, 4.2) {};\n\\node[draw=yellow, fill=yellow, blacktriangle, inner sep=2pt, label={[font=\\Large]below:D}] at (-6, 7) {};\n\\node[draw=yellow, fill=yellow, blacklozenge, inner sep=1pt, label=below:B] at (-2, 10) {};\n\\node[draw=violet, fill=violet, triangledown, inner sep=2pt, label=above:X] at (8, 0) {};\n\\node[draw=yellow, fill=yellow, blacklozenge, inner sep=3pt, label={[font=\\huge]above:T}] at (-2.2, 20.0) {};\n\\node[draw=blue, fill=blue, square, inner sep=2pt, label={[font=\\Large]above:U}] at (12, -4) {};\n\\node[draw=red, fill=red, blacklozenge, inner sep=2pt, label=below:P] at (-9, -4) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "point_images_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-12, -12) rectangle (12, 12);\n\\node[draw=cyan, fill=cyan, blacklozenge, inner sep=1pt, label=above:J] at (14.3, 2.1) {};\n\\node[draw=blue, fill=blue, triangledown, inner sep=1pt, label=below:W] at (-1, 4) {};\n\\node[draw=violet, fill=violet, times, inner sep=3pt, label={[font=\\huge]below:L}] at (-9, -9) {};\n\\node[draw=pink, fill=pink, times, inner sep=3pt, label=below:N] at (-6, 4) {};\n\\node[draw=orange, fill=orange, blacklozenge, inner sep=1pt, label=above:X] at (-6, 6) {};\n\\node[draw=pink, fill=pink, triangledown, inner sep=3pt, label={[font=\\large]below:T}] at (7, 2) {};\n\\node[draw=pink, fill=pink, triangle, inner sep=1pt, label={[font=\\small]below:O}] at (-3.8, 17.9) {};\n\\node[draw=violet, fill=violet, triangledown, inner sep=1pt, label=above:V] at (10, -4) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "point_images_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-15, -15) rectangle (15, 15);\n\\node[draw=cyan, fill=cyan, blacklozenge, inner sep=2pt, label={[font=\\Large]above:O}] at (12.0, 26.1) {};\n\\node[draw=red, fill=red, star, inner sep=1pt, label={[font=\\large]below:R}] at (-7, -11) {};\n\\node[draw=orange, fill=orange, star, inner sep=1pt, label=below:S] at (4, -6) {};\n\\node[draw=violet, fill=violet, blacktriangle, inner sep=2pt, label=above:D] at (3, 4) {};\n\\node[draw=red, fill=red, diamond, inner sep=1pt, label=above:Q] at (12, 0) {};\n\\node[draw=red, fill=red, bullet, inner sep=1pt, label=below:U] at (-11, 4) {};\n\\node[draw=orange, fill=orange, diamond, inner sep=3pt, label={[font=\\huge]above:X}] at (-8, 9) {};\n\\node[draw=violet, fill=violet, bullet, inner sep=3pt, label={[font=\\large]below:M}] at (10, -6) {};\n\\node[draw=yellow, fill=yellow, triangledown, inner sep=2pt, label={[font=\\huge]below:E}] at (-9.9, 14.2) {};\n\\node[draw=blue, fill=blue, bullet, inner sep=3pt, label={[font=\\Large]below:B}] at (-4, -5) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "point_images_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-11, -11) rectangle (11, 11);\n\\node[draw=red, fill=red, blacklozenge, inner sep=3pt, label=above:M] at (-3, 8) {};\n\\node[draw=pink, fill=pink, bullet, inner sep=3pt, label=below:Y] at (7, -2) {};\n\\node[draw=blue, fill=blue, blacktriangle, inner sep=3pt, label=below:K] at (1, -4) {};\n\\node[draw=blue, fill=blue, blacklozenge, inner sep=3pt, label={[font=\\Large]above:C}] at (11.7, -18.0) {};\n\\node[draw=pink, fill=pink, diamond, inner sep=3pt, label=above:H] at (-6, -2) {};\n\\node[draw=yellow, fill=yellow, ast, inner sep=2pt, label=below:E] at (1, 8) {};\n\\node[draw=violet, fill=violet, blacktriangle, inner sep=2pt, label=above:X] at (-7, -9) {};\n\\node[draw=blue, fill=blue, times, inner sep=2pt, label={[font=\\small]below:Z}] at (-6, 7) {};\n\\node[draw=green, fill=green, diamond, inner sep=1pt, label={[font=\\large]above:B}] at (-6, -6) {};\n\\node[draw=green, fill=green, blacktriangle, inner sep=3pt, label=below:T] at (4, -2) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "point_images_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-13, -13) rectangle (13, 13);\n\\node[draw=blue, fill=blue, triangledown, inner sep=3pt, label={[font=\\large]below:T}] at (-10, -3) {};\n\\node[draw=red, fill=red, triangle, inner sep=1pt, label={[font=\\huge]below:D}] at (6, -11) {};\n\\node[draw=black, fill=black, blacklozenge, inner sep=2pt, label={[font=\\huge]below:E}] at (-8, -10) {};\n\\node[draw=black, fill=black, triangledown, inner sep=3pt, label={[font=\\Large]below:V}] at (2, -7) {};\n\\node[draw=orange, fill=orange, star, inner sep=2pt, label=above:C] at (6, -3) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "point_images_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-15, -15) rectangle (15, 15);\n\\node[draw=violet, fill=violet, bullet, inner sep=2pt, label=below:J] at (-4, -1) {};\n\\node[draw=yellow, fill=yellow, triangledown, inner sep=3pt, label={[font=\\large]below:I}] at (11, 10) {};\n\\node[draw=yellow, fill=yellow, diamond, inner sep=3pt, label={[font=\\huge]below:W}] at (-6, -5) {};\n\\node[draw=orange, fill=orange, square, inner sep=3pt, label=above:M] at (18.3, -7.7) {};\n\\node[draw=black, fill=black, diamond, inner sep=2pt, label={[font=\\huge]below:L}] at (13, -3) {};\n\\node[draw=black, fill=black, bullet, inner sep=1pt, label={[font=\\small]below:H}] at (11, -10) {};\n\\node[draw=green, fill=green, square, inner sep=1pt, label=above:E] at (0.2, 13.9) {};\n\\node[draw=cyan, fill=cyan, times, inner sep=2pt, label={[font=\\Large]below:G}] at (-8, 2) {};\n\\node[draw=red, fill=red, blacktriangle, inner sep=1pt, label=above:S] at (-2, -6) {};\n\\node[draw=pink, fill=pink, blacklozenge, inner sep=2pt, label=above:A] at (-2.0, 2.0) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "trian_images_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-4, 2) rectangle (12, 18);\n    \\coordinate (Q) at (8.5, 13.9);\n    \\coordinate (G) at (4.9, 15.6);\n    \\coordinate (I) at (5.6, 7.5);\n    \\filldraw[fill=white, draw=black, thick] (Q) -- (G) -- (I) -- cycle;    \n    \\node at (8.8, 14.0) [font=\\large, color=black] {Q};\n    \\node at (4.8, 15.8) [font=\\small, color=yellow] {G};\n    \\node at (5.5, 7.4) [font=\\small, color=black] {I};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "trian_images_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (1, 0) rectangle (13, 12);\n    \\coordinate (S) at (8.2, 6.6);\n    \\coordinate (Q) at (3.2, 7.2);\n    \\coordinate (Y) at (5.1, 2.6);\n    \\filldraw[fill=white, draw=black, very thick] (Y) -- (S) -- (Q) -- cycle;    \n    \\node at (8.4, 6.7) [font=\\large, color=green] {S};\n    \\node at (3.0, 7.4) [font=\\normalsize, color=black] {Q};\n    \\node at (5.1, 2.4) [font=\\normalsize, color=black] {Y};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "trian_images_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (6, 2) rectangle (23, 19);\n    \\coordinate (L) at (18.4, 12.2);\n    \\coordinate (E) at (10.4, 13.2);\n    \\coordinate (P) at (12.2, 10.6);\n    \\filldraw[fill=white, draw=black, thick] (P) -- (E) -- (L) -- cycle;    \n    \\node at (18.7, 12.2) [font=\\small, color=black] {L};\n    \\node at (10.4, 13.5) [font=\\small, color=black] {E};\n    \\node at (12.1, 10.4) [font=\\normalsize, color=black] {P};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "trian_images_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-6, 0) rectangle (14, 20);\n    \\coordinate (W) at (1.7, 6.1);\n    \\coordinate (Q) at (8.8, 9.9);\n    \\coordinate (B) at (-2.5, 14.0);\n    \\filldraw[fill=white, draw=black, thin] (Q) -- (W) -- (B) -- cycle;    \n    \\node at (1.6, 5.8) [font=\\small, color=black] {W};\n    \\node at (9.1, 9.8) [font=\\small, color=black] {Q};\n    \\node at (-2.6, 14.2) [font=\\small, color=black] {B};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "trian_images_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (0, 1) rectangle (16, 17);\n    \\coordinate (K) at (11.9, 14.1);\n    \\coordinate (W) at (5.9, 13.9);\n    \\coordinate (A) at (9.1, 8.0);\n    \\filldraw[fill=blue, draw=black, very thick] (A) -- (W) -- (K) -- cycle;    \n    \\node at (12.1, 14.3) [font=\\normalsize, color=black] {K};\n    \\node at (5.7, 14.1) [font=\\large, color=black] {W};\n    \\node at (9.1, 7.8) [font=\\large, color=black] {A};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "trian_images_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-5, -1) rectangle (8, 12);\n    \\coordinate (R) at (4.5, 6.9);\n    \\coordinate (L) at (0.7, 5.6);\n    \\coordinate (Y) at (3.8, 3.0);\n    \\filldraw[fill=white, draw=black, thin] (R) -- (Y) -- (L) -- cycle;    \n    \\node at (4.6, 7.2) [font=\\small, color=black] {R};\n    \\node at (0.5, 5.7) [font=\\Large, color=black] {L};\n    \\node at (3.8, 2.8) [font=\\large, color=black] {Y};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "trian_images_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-3, -4) rectangle (16, 15);\n    \\coordinate (M) at (9.3, 8.8);\n    \\coordinate (R) at (4.3, 9.2);\n    \\coordinate (Q) at (6.0, 0.0);\n    \\filldraw[fill=white, draw=black, thick] (M) -- (Q) -- (R) -- cycle;    \n    \\node at (9.5, 9.0) [font=\\Large, color=black] {M};\n    \\node at (4.1, 9.4) [font=\\Large, color=black] {R};\n    \\node at (6.0, -0.2) [font=\\Large, color=black] {Q};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "trian_images_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (0, 6) rectangle (15, 21);\n    \\coordinate (W) at (11.9, 16.4);\n    \\coordinate (P) at (4.8, 15.0);\n    \\coordinate (Y) at (4.3, 13.6);\n    \\filldraw[fill=blue, draw=black, thin] (Y) -- (P) -- (W) -- cycle;    \n    \\node at (12.2, 16.3) [font=\\small, color=violet] {W};\n    \\node at (4.9, 15.3) [font=\\large, color=black] {P};\n    \\node at (4.1, 13.5) [font=\\large, color=black] {Y};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "trian_images_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-2, 8) rectangle (14, 24);\n    \\coordinate (Y) at (3.2, 14.6);\n    \\coordinate (H) at (11.8, 14.2);\n    \\coordinate (Z) at (2.9, 13.2);\n    \\filldraw[fill=white, draw=black, very thick] (Z) -- (H) -- (Y) -- cycle;    \n    \\node at (3.5, 14.5) [font=\\large, color=black] {Y};\n    \\node at (11.9, 14.5) [font=\\large, color=black] {H};\n    \\node at (2.8, 13.1) [font=\\normalsize, color=black] {Z};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "trian_images_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-6, -4) rectangle (13, 15);\n    \\coordinate (A) at (10.5, 9.3);\n    \\coordinate (C) at (4.6, 10.3);\n    \\coordinate (P) at (8.8, -0.6);\n    \\filldraw[fill=white, draw=black, thin] (A) -- (P) -- (C) -- cycle;    \n    \\node at (10.8, 9.4) [font=\\small, color=black] {A};\n    \\node at (4.5, 10.5) [font=\\large, color=black] {C};\n    \\node at (8.8, -0.8) [font=\\small, color=red] {P};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "quad_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-2.8,0) -- (2.7,0) node[right] {\\large\\textcolor{black} {X}};\n\\draw[thick,->] (0,-10) -- (0,2) node[above] {\\large\\textcolor{black} {y}};\n\\foreach \\x in {-2,-1,1,2}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\normalsize\\textcolor{green} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\small\\textcolor{black} {O}};\n\\draw[thick, domain=-1.8:1.8,draw=black] plot (\\x,{-3.0*(\\x)^2+0*(\\x)+0}) node[at={(1.8, -9.7)},right] {$f(x)=-3.0x^2$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "quad_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-3.4,0) -- (3.8,0) node[right] {\\large\\textcolor{black} {X}};\n\\draw[thin,->] (0,-2) -- (0,10) node[above] {\\small\\textcolor{black} {y}};\n\\foreach \\x in {-3,-2,-1,1,2,3}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-2,2,4,6,8,10}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thick, domain=-2.2:2.2,draw=black] plot (\\x,{2.0*(\\x)^2+0*(\\x)+0}) node[at={(-2.2, 9.7)},left] {$y=2.0x^2$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "quad_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-4.2,0) -- (4.9,0) node[right] {\\normalsize\\textcolor{black} {x}};\n\\draw[very thick,->] (0,-10) -- (0,4) node[above] {\\large\\textcolor{black} {Y}};\n\\foreach \\x in {-4,-2,2,4}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[thin, domain=-4.0:4.0,draw=black] plot (\\x,{-0.6*(\\x)^2+0*(\\x)+0}) node[at={(-4.0, -9.6)},left] {$y=-0.6x^2$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "quad_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-3.7,0) -- (3.8,0) node[right] {\\small\\textcolor{black} {x}};\n\\draw[thin,->] (0,-10) -- (0,5) node[above] {\\large\\textcolor{black} {Y}};\n\\foreach \\x in {-2,2}\n\\draw (\\x,0.1) -- (\\x,-0.1) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\small\\textcolor{black} {O}};\n\\draw[very thick, domain=-3.0:3.0,draw=black] plot (\\x,{-0.9*(\\x)^2+0*(\\x)+-1.9}) node[at={(-3.0, -10.0)},left] {$y=-0.9x^2-1.9$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "quad_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-5.3,0) -- (8.1,0) node[right] {\\Large\\textcolor{black} {x}};\n\\draw[thick,->] (0,-10) -- (0,5) node[above] {\\Large\\textcolor{black} {y}};\n\\foreach \\x in {-4,-2,2,4,6,8}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[thick, domain=-4.8:7.3,draw=black] plot (\\x,{-0.2*(\\x)^2+0.5*(\\x)+-2.9}) node[at={(-4.8, -9.9)},left] {$y=-0.2x^2+0.5x-2.9$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "quad_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-3.9,0) -- (3.6,0) node[right] {\\Large\\textcolor{black} {x}};\n\\draw[very thick,->] (0,-10) -- (0,2.6) node[above] {\\large\\textcolor{black} {Y}};\n\\foreach \\x in {-3,-2,-1,1,2,3}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[very thick, domain=-2.1:2.1,draw=black] plot (\\x,{-2.3*(\\x)^2+0*(\\x)+1.1}) node[at={(2.1, -9.0)},right] {$f(x)=-2.3x^2+1.1$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "quad_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-3.5,0) -- (3.4,0) node[right] {\\small\\textcolor{black} {X}};\n\\draw[thick,->] (0,-4.4) -- (0,9.2) node[above] {\\small\\textcolor{black} {Y}};\n\\foreach \\x in {-3,-2,-1,1,2,3}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-4,-2,2,4,6,8}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thin, domain=-2.4:2.4,draw=yellow] plot (\\x,{2.2*(\\x)^2+0*(\\x)+-3.7}) node[at={(2.4, 9.0)},right] {$y=2.2x^2-3.7$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "quad_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-5.7,0) -- (3.7,0) node[right] {\\normalsize\\textcolor{black} {X}};\n\\draw[thin,->] (0,-6.7) -- (0,10) node[above] {\\large\\textcolor{black} {y}};\n\\foreach \\x in {-4,-2,2}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-6,-4,-2,2,4,6,8,10}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\small\\textcolor{black} {O}};\n\\draw[thin, domain=-4.1:3.0,draw=cyan] plot (\\x,{0.3*(\\x)^2+2.5*(\\x)+-0.5}) node[at={(-4.1, -5.7)},left] {$f(x)=0.3x^2+2.5x-0.5$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "quad_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-5.1,0) -- (5.2,0) node[right] {\\small\\textcolor{black} {X}};\n\\draw[very thick,->] (0,-10) -- (0,3) node[above] {\\Large\\textcolor{black} {y}};\n\\foreach \\x in {-4,-2,2,4}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[thick, domain=-4.4:4.4,draw=black] plot (\\x,{-0.5*(\\x)^2+0*(\\x)+0}) node[at={(-4.4, -9.7)},left] {$f(x)=-0.5x^2$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "quad_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-4.8,0) -- (4.5,0) node[right] {\\normalsize\\textcolor{black} {x}};\n\\draw[thick,->] (0,-3) -- (0,10) node[above] {\\large\\textcolor{black} {Y}};\n\\foreach \\x in {-4,-2,2,4}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\normalsize\\textcolor{black} {O}};\n\\draw[very thick, domain=-4.0:4.0,draw=black] plot (\\x,{0.6*(\\x)^2+0*(\\x)+0}) node[at={(4.0, 9.6)},right] {$y=0.6x^2$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "oned_axis_images_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick, ->] (-6.4, 5) -- (7.4, 5);\n\\foreach \\x in {-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7}\n\\node at (\\x, 5) [fill=black, circle, inner sep=2pt, label=below: {$\\x$}] {};\n \\node at (5.1,5) {$\\times$};\n\\node[above,font=\\Large\\color{black}] at (5.1,5) {C};\n \\node at (-1.8,5) {$\\times$};\n\\node[above,font=\\large\\color{black}] at (-1.8,5) {N};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "oned_axis_images_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick, ->] (-7.1, -6) -- (6.7, -6);\n\\foreach \\x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6}\n\\node at (\\x, -6) [fill=black, circle, inner sep=1.5pt, label=below: {$\\x$}] {};\n \\node at (-0.3,-6) {$\\times$};\n\\node[above,font=\\Large\\color{black}] at (-0.3,-6) {G};\n \\node at (-2.6,-6) {$\\times$};\n\\node[above,font=\\normalsize\\color{black}] at (-2.6,-6) {S};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "oned_axis_images_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick, ->] (-10.3, 1) -- (10.8, 1);\n\\foreach \\x in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8,9,10}\n\\node at (\\x, 1) [fill=black, circle, inner sep=1.5pt, label=below: {$\\x$}] {};\n \\node at (-0.5,1) {$\\ast$};\n\\node[above,font=\\small\\color{orange}] at (-0.5,1) {T};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "oned_axis_images_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick, ->] (-7.1, -8) -- (9.3, -8);\n\\foreach \\x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8,9}\n\\draw (\\x,-7.7) -- (\\x,-8.3) node[below,color=black] {$\\x$};\n \\node at (-2.0,-8) {$\\ast$};\n\\node[above,font=\\Large\\color{black}] at (-2.0,-8) {A};\n \\node at (0.5,-8) {$\\times$};\n\\node[above,font=\\normalsize\\color{black}] at (0.5,-8) {X};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "oned_axis_images_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick, ->] (-7.8, 2) -- (7.3, 2);\n\\foreach \\x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7}\n\\node at (\\x, 2) [fill=black, circle, inner sep=2pt, label=below: {$\\x$}] {};\n \\node at (4.6,2) {$\\ast$};\n\\node[above,font=\\normalsize\\color{black}] at (4.6,2) {Z};\n \\node at (-6.4,2) {$\\cric$};\n\\node[above,font=\\small\\color{black}] at (-6.4,2) {I};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "oned_axis_images_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick, ->] (-6.7, 9) -- (6.6, 9);\n\\foreach \\x in {-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6}\n\\node at (\\x, 9) [fill=black, circle, inner sep=2pt, label=below: {$\\x$}] {};\n \\node at (4.2,9) {$\\cric$};\n\\node[above,font=\\small\\color{black}] at (4.2,9) {C};\n \\node at (-5.1,9) {$\\ast$};\n\\node[above,font=\\small\\color{black}] at (-5.1,9) {H};\n \\node at (2.7,9) {$\\ast$};\n\\node[above,font=\\normalsize\\color{black}] at (2.7,9) {O};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "oned_axis_images_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick, ->] (-10.3, -3) -- (8.6, -3);\n\\foreach \\x in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8}\n\\node at (\\x, -3) [fill=green, circle, inner sep=1pt, label=below: {$\\x$}] {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "oned_axis_images_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick, ->] (-9.2, -6) -- (5.5, -6);\n\\foreach \\x in {-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5}\n\\draw (\\x,-5.7) -- (\\x,-6.3) node[below,color=black] {$\\x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "oned_axis_images_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick, ->] (-7.9, -9) -- (10.4, -9);\n\\foreach \\x in {-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8,9,10}\n\\draw (\\x,-8.9) -- (\\x,-9.1) node[below,color=black] {$\\x$};\n \\node at (1.1,-9) {$\\ast$};\n\\node[above,font=\\Large\\color{black}] at (1.1,-9) {Y};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "oned_axis_images_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick, ->] (-9.3, 4) -- (5.3, 4);\n\\foreach \\x in {-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5}\n\\draw (\\x,4.2) -- (\\x,3.8) node[below,color=black] {$\\x$};\n \\node at (-5.5,4) {$\\times$};\n\\node[above,font=\\large\\color{black}] at (-5.5,4) {W};\n \\node at (-8.2,4) {$\\cric$};\n\\node[above,font=\\small\\color{yellow}] at (-8.2,4) {C};\n \\node at (2.4,4) {$\\cric$};\n\\node[above,font=\\small\\color{black}] at (2.4,4) {X};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "circle_images_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-13, -14) rectangle (7, 6);\n\\def\\radius{7} \n\\coordinate (S) at (-2, -4);\n\n\n\\draw (S) circle (\\radius);\n\n\\fill (S) circle (1pt) node[above right] {S};\n\\draw[thin, color=black] (S) -- ($(S) + (300:\\radius)$);\n\\fill ($(S) + (300:\\radius)$) circle (3pt) node[anchor=north west, font=\\large, text=black] {O};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "circle_images_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-11, -9) rectangle (5, 7);\n\\def\\radius{5} \n\\coordinate (B) at (-3, -1);\n\n\n\\draw (B) circle (\\radius);\n\n\\fill (B) circle (3pt) node[above left] {B};\n\\draw[thick, color=black] (B) -- ($(B) + (45:\\radius)$);\n\\fill ($(B) + (45:\\radius)$) circle (2pt) node[anchor=south west, font=\\large, text=black] {S};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "circle_images_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-5, -14) rectangle (18, 9);\n\\def\\radius{8} \n\\coordinate (D) at (5.4, -2.4);\n\n\n\\draw (D) circle (\\radius);\n\n\\fill (D) circle (3pt) node[above left] {D};\n\\draw[thin, color=black] (D) -- ($(D) + (300:\\radius)$);\n\\fill ($(D) + (300:\\radius)$) circle (1pt) node[anchor=north west, font=\\Large, text=black] {J};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "circle_images_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-11, -12) rectangle (7, 6);\n\\def\\radius{6} \n\\coordinate (J) at (-2, -3);\n\n\n\\draw (J) circle (\\radius);\n\n\\fill (J) circle (2pt) node[below right] {J};\n\\draw[thin, color=black] (J) -- ($(J) + (30:\\radius)$);\n\\fill ($(J) + (30:\\radius)$) circle (3pt) node[anchor=south west, font=\\Large, text=black] {L};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "circle_images_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-8, -16) rectangle (14, 6);\n\\def\\radius{7.4} \n\\coordinate (K) at (2, -5);\n\n\n\\draw (K) circle (\\radius);\n\n\\fill (K) circle (1pt) node[below left] {K};\n\\draw[thin, color=black] (K) -- ($(K) + (150:\\radius)$);\n\\fill ($(K) + (150:\\radius)$) circle (3pt) node[anchor=south east, font=\\normalsize, text=black] {H};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "circle_images_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-9, -10) rectangle (12, 11);\n\\def\\radius{7} \n\\coordinate (I) at (2.1, 0.0);\n\n\n\\draw (I) circle (\\radius);\n\n\\fill (I) circle (2pt) node[below right] {I};\n\\draw[thick, color=yellow] (I) -- ($(I) + (0:\\radius)$)\n            (I) -- ($(I) + (180:\\radius)$);\n\\fill ($(I) + (0:\\radius)$) circle (2pt) node[anchor=west, font=\\small, text=black] {J};\n\\fill ($(I) + (180:\\radius)$) circle (2pt) node[anchor=east, font=\\normalsize, text=black] {N};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "circle_images_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-9, -6) rectangle (7, 10);\n\\def\\radius{5} \n\\coordinate (J) at (0, 2);\n\n\n\\draw (J) circle (\\radius);\n\n\\fill (J) circle (2pt) node[above left] {J};\n\\draw[thin, color=black] (J) -- ($(J) + (0:\\radius)$)\n            (J) -- ($(J) + (180:\\radius)$);\n\\fill ($(J) + (0:\\radius)$) circle (3pt) node[anchor=west, font=\\small, text=black] {C};\n\\fill ($(J) + (180:\\radius)$) circle (1pt) node[anchor=east, font=\\Large, text=pink] {O};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "circle_images_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-7, -8) rectangle (13, 12);\n\\def\\radius{7} \n\\coordinate (S) at (4, 1);\n\n\n\\draw (S) circle (\\radius);\n\n\\fill (S) circle (2pt) node[above right] {S};\n\\draw[thin, color=black] (S) -- ($(S) + (135:\\radius)$)\n            (S) -- ($(S) + (315:\\radius)$);\n\\fill ($(S) + (135:\\radius)$) circle (3pt) node[anchor=south east, font=\\normalsize, text=black] {I};\n\\fill ($(S) + (315:\\radius)$) circle (1pt) node[anchor=north west, font=\\small, text=black] {B};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "circle_images_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-9, -8) rectangle (9, 10);\n\\def\\radius{6} \n\\coordinate (O) at (0, 2);\n\n\n\\draw (O) circle (\\radius);\n\n\\fill (O) circle (1pt) node[below left] {O};\n\\draw[very thick, color=black] (O) -- ($(O) + (90:\\radius)$);\n\\fill ($(O) + (90:\\radius)$) circle (3pt) node[anchor=south, font=\\large, text=green] {E};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "circle_images_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-4, -4) rectangle (14, 14);\n\\def\\radius{5.5} \n\\coordinate (Y) at (5, 5);\n\n\n\\draw (Y) circle (\\radius);\n\n\\fill (Y) circle (3pt) node[above left] {Y};\n\\draw[thick, color=black] (Y) -- ($(Y) + (240:\\radius)$);\n\\fill ($(Y) + (240:\\radius)$) circle (3pt) node[anchor=north east, font=\\small, text=black] {Q};\n\\draw[thick, color=black] (Y) -- ($(Y) + (60:\\radius)$)\n            (Y) -- ($(Y) + (240:\\radius)$);\n\\fill ($(Y) + (60:\\radius)$) circle (1pt) node[anchor=south west, font=\\Large, text=black] {P};\n\\fill ($(Y) + (240:\\radius)$) circle (1pt) node[anchor=north east, font=\\large, text=violet] {F};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "log_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-11.2,0) -- (11.8,0) node[right] {\\normalsize\\textcolor{black} {x}};\n\\draw[thick,->] (0,-11.7) -- (0,11.8) node[above] {\\large\\textcolor{black} {y}};\n\\foreach \\x in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (\\x,0.1) -- (\\x,-0.1) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\normalsize\\textcolor{black} {O}};\n\\draw[thick, domain=0.001:11,draw=black] plot (\\x,{(ln(\\x))/(ln(8))}) node[at={(8.0, 1.0)},above] {\\huge  $f(x)=\\log_{8}x$}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "log_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-12.2,0) -- (12.2,0) node[right] {\\normalsize\\textcolor{black} {x}};\n\\draw[thin,->] (0,-12.1) -- (0,12.7) node[above] {\\small\\textcolor{black} {y}};\n\\foreach \\x in {-12,-10,-8,-6,-4,-2,2,4,6,8,10,12}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\small\\textcolor{black} {O}};\n\\draw[very thick, domain=0.001:12,draw=black] plot (\\x,{(ln(\\x))/(ln(2))}) node[at={(10.3, 3.4)},above] {\\Large  $f(x)=\\log_{2}x$}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "log_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-12.8,0) -- (12.3,0) node[right] {\\large\\textcolor{black} {X}};\n\\draw[thin,->] (0,-12.4) -- (0,12.8) node[above] {\\normalsize\\textcolor{black} {Y}};\n\\foreach \\x in {-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\small\\textcolor{black} {O}};\n\\draw[thick, domain=0.001:12,draw=pink] plot (\\x,{(ln(\\x))/(ln(10))}) node[at={(6.7, 0.8)},above] {\\large  $f(x)=lgx$}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "log_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-11.4,0) -- (11.7,0) node[right] {\\normalsize\\textcolor{black} {x}};\n\\draw[thin,->] (0,-11.2) -- (0,11.9) node[above] {\\Large\\textcolor{green} {y}};\n\\foreach \\x in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thick, domain=0.001:11,draw=black] plot (\\x,{(ln(\\x))/(ln(8))}) node[at={(10.0, 1.1)},above] {\\Large  $y=\\log_{8}x$}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "log_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-12.6,0) -- (12.7,0) node[right] {\\normalsize\\textcolor{black} {x}};\n\\draw[thin,->] (0,-12.9) -- (0,12.2) node[above] {\\small\\textcolor{black} {Y}};\n\\foreach \\x in {-12,-10,-8,-6,-4,-2,2,4,6,8,10,12}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-12,-10,-8,-6,-4,-2,2,4,6,8,10,12}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[very thick, domain=0.001:12,draw=black] plot (\\x,{(ln(\\x))/(ln(4.7))}) node[at={(11.4, 1.6)},above] {\\huge  $y=\\log_{4.7}x$}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "log_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-10.4,0) -- (10.2,0) node[right] {\\normalsize\\textcolor{green} {x}};\n\\draw[very thick,->] (0,-10.8) -- (0,10.7) node[above] {\\normalsize\\textcolor{black} {Y}};\n\\foreach \\x in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thin, domain=0.001:10,draw=black] plot (\\x,{(ln(\\x))}) node[at={(8.5, 2.1)},below] {\\large  $f(x)=lnx$}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "log_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-10.8,0) -- (10.6,0) node[right] {\\large\\textcolor{black} {X}};\n\\draw[thick,->] (0,-10.3) -- (0,10.5) node[above] {\\small\\textcolor{black} {Y}};\n\\foreach \\x in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thick, domain=0.001:10,draw=black] plot (\\x,{(ln(\\x))/(ln(8.4))}) node[at={(5.2, 0.8)},above] {\\Large  $y=\\log_{8.4}x$}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "log_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-12.2,0) -- (12.7,0) node[right] {\\normalsize\\textcolor{violet} {x}};\n\\draw[thin,->] (0,-12.2) -- (0,12.3) node[above] {\\large\\textcolor{black} {y}};\n\\foreach \\x in {-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\large\\textcolor{orange} {$\\x$}};\n\\foreach \\y in {-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\large\\textcolor{orange} {O}};\n\\draw[very thick, domain=0.001:12,draw=black] plot (\\x,{(ln(\\x))/(ln(5))}) node[at={(9.5, 1.4)},above] {\\Large  $f(x)=\\log_{5}x$}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "log_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-12.4,0) -- (12.2,0) node[right] {\\Large\\textcolor{black} {X}};\n\\draw[very thick,->] (0,-12.5) -- (0,12.5) node[above] {\\normalsize\\textcolor{black} {Y}};\n\\foreach \\x in {-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thin, domain=0.001:12,draw=black] plot (\\x,{-(ln(\\x))/(ln(2))}) node[at={(11.8, -3.6)},above] {\\huge  $f(x)=-\\log_{2}x$}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "log_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-11.7,0) -- (11.8,0) node[right] {\\small\\textcolor{black} {x}};\n\\draw[thick,->] (0,-11.6) -- (0,11.2) node[above] {\\small\\textcolor{black} {y}};\n\\foreach \\x in {-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[thin, domain=0.001:11,draw=black] plot (\\x,{(ln(\\x))/(ln(10))}) node[at={(7.2, 0.9)},above] {\\huge  $f(x)=lgx$}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "constant_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n    \\draw[thick,->] (-8.3,0) -- (6.4,0) node[right] {\\normalsize\\textcolor{black} {x}};\n    \\draw[very thick,->] (0,-5.3) -- (0,5.1) node[above] {\\small\\textcolor{black} {y}};\n    \\foreach \\x in {-8,-6,-4,-2,2,4,6}\n    \\draw (\\x,0.1) -- (\\x,-0.1) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n    \\foreach \\y in {-4,-2,2,4}\n    \\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\normalsize\\textcolor{black} {O}};\n\\draw[very thick, black] (-5.6, -5.3) -- (-5.6, 5.1) node[at={(-5.6, 5.1)},left] {$x = -5.6$}; \n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "constant_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n    \\draw[thick,->] (-7.6,0) -- (7.8,0) node[right] {\\small\\textcolor{black} {X}};\n    \\draw[very thick,->] (0,-9.8) -- (0,7.9) node[above] {\\Large\\textcolor{black} {Y}};\n    \\foreach \\x in {-6,-4,-2,2,4,6}\n    \\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n    \\foreach \\y in {-8,-6,-4,-2,2,4,6}\n    \\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thick, black] (-7.6, -8) -- (7.8, -8) node[at={(-7.6, -8)},below] {$y = -8$}; \n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "constant_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n    \\draw[thick,->] (-7.4,0) -- (8.1,0) node[right] {\\normalsize\\textcolor{black} {x}};\n    \\draw[thick,->] (0,-5.4) -- (0,6.4) node[above] {\\Large\\textcolor{black} {Y}};\n    \\foreach \\x in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n    \\draw (\\x,0.1) -- (\\x,-0.1) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n    \\foreach \\y in {-5,-4,-3,-2,-1,1,2,3,4,5,6}\n    \\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thick, black] (1, -5.4) -- (1, 6.4) node[at={(1, -5.4)},right] {$x = 1$}; \n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "constant_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n    \\draw[thick,->] (-8.3,0) -- (5.1,0) node[right] {\\small\\textcolor{black} {X}};\n    \\draw[thin,->] (0,-6.9) -- (0,8.9) node[above] {\\large\\textcolor{black} {Y}};\n    \\foreach \\x in {-8,-6,-4,-2,2,4}\n    \\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n    \\foreach \\y in {-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n    \\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\normalsize\\textcolor{black} {O}};\n\\draw[thick, pink] (-8.3, 8) -- (5.1, 8) node[at={(5.1, 8)},above] {$y = 8$}; \n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "constant_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n    \\draw[thin,->] (-7.9,0) -- (7.6,0) node[right] {\\normalsize\\textcolor{black} {x}};\n    \\draw[very thick,->] (0,-9.0) -- (0,5.1) node[above] {\\small\\textcolor{black} {Y}};\n    \\foreach \\x in {-6,-4,-2,2,4,6}\n    \\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n    \\foreach \\y in {-8,-6,-4,-2,2,4}\n    \\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\small\\textcolor{black} {O}};\n\\draw[very thick, black] (-7.9, -8.4) -- (7.6, -8.4) node[at={(-7.9, -8.4)},below] {$y = -8.4$}; \n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "constant_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n    \\draw[thick,->] (-4.7,0) -- (9.7,0) node[right] {\\small\\textcolor{black} {X}};\n    \\draw[thin,->] (0,-5.7) -- (0,5.0) node[above] {\\small\\textcolor{black} {Y}};\n    \\foreach \\x in {-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}\n    \\draw (\\x,0.1) -- (\\x,-0.1) node[anchor=north] {\\Large\\textcolor{orange} {$\\x$}};\n    \\foreach \\y in {-4,-2,2,4}\n    \\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\normalsize\\textcolor{black} {O}};\n\\draw[thin, black] (-1, -5.7) -- (-1, 5.0) node[at={(-1, 5.0)},left] {$x = -1$}; \n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "constant_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n    \\draw[very thick,->] (-7.0,0) -- (9.5,0) node[right] {\\small\\textcolor{black} {X}};\n    \\draw[thin,->] (0,-5.3) -- (0,9.6) node[above] {\\normalsize\\textcolor{black} {y}};\n    \\foreach \\x in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}\n    \\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n    \\foreach \\y in {-4,-2,2,4,6,8}\n    \\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\normalsize\\textcolor{black} {O}};\n\\draw[very thick, black] (-7.0, -5) -- (9.5, -5) node[at={(9.5, -5)},above] {$y = -5$}; \n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "constant_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n    \\draw[thin,->] (-5.5,0) -- (9.9,0) node[right] {\\Large\\textcolor{black} {X}};\n    \\draw[thick,->] (0,-2.1) -- (0,6.0) node[above] {\\Large\\textcolor{black} {y}};\n    \\foreach \\x in {-4,-2,2,4,6,8}\n    \\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n    \\foreach \\y in {-2,-1,1,2,3,4,5,6}\n    \\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\Large\\textcolor{red} {O}};\n\\draw[thick, black] (-5.5, -1.2) -- (9.9, -1.2) node[at={(9.9, -1.2)},above] {$y = -1.2$}; \n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "constant_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n    \\draw[thick,->] (-5.6,0) -- (6.9,0) node[right] {\\large\\textcolor{black} {x}};\n    \\draw[very thick,->] (0,-6.4) -- (0,8.4) node[above] {\\Large\\textcolor{black} {Y}};\n    \\foreach \\x in {-4,-2,2,4,6}\n    \\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n    \\foreach \\y in {-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n    \\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\Large\\textcolor{blue} {O}};\n\\draw[very thick, black] (-1.1, -6.4) -- (-1.1, 8.4) node[at={(-1.1, 8.4)},left] {$x = -1.1$}; \n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "constant_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n    \\draw[thick,->] (-7.5,0) -- (7.3,0) node[right] {\\small\\textcolor{black} {X}};\n    \\draw[very thick,->] (0,-9.2) -- (0,9.2) node[above] {\\large\\textcolor{black} {Y}};\n    \\foreach \\x in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7}\n    \\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n    \\foreach \\y in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}\n    \\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[very thick, black] (-7.5, 7) -- (7.3, 7) node[at={(-7.5, 7)},below] {$y = 7$}; \n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "tri_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n    \\begin{axis}[\n        axis lines=middle,\n        xlabel={$x$},\n        ylabel={$y$},\n        xmin=-2.0*pi, xmax=2.0*pi,\n        ymin=-4, ymax=4,\n        xtick={-6.28,-4.71,-3.14,-1.57,0.0,1.57,3.14,4.71,6.28},\n        xticklabels={$-2\\pi$,$-3/2\\pi$,$-\\pi$,$-1/2\\pi$,$0\\pi$,$1/2\\pi$,$\\pi$,$3/2\\pi$,$2\\pi$},\n        ytick={-4.0,-3.0,-2.0,-1.0,1.0,2.0,3.0,4.0},\n        domain=-2.0*pi:2.0*pi\n    ]\n    \\addplot[black, thick] {sin(deg(x))};\n    \\node[anchor=north west] at (0,0) {\\Large\\textcolor{black} {O}};\n    \\draw node[at={(-pi, 1)},above] {\\Large $f(x)=\\sin x$};\n    \\end{axis}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "tri_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n    \\begin{axis}[\n        axis lines=middle,\n        xlabel={$x$},\n        ylabel={$y$},\n        xmin=-3.0*pi, xmax=3.0*pi,\n        ymin=-5, ymax=5,\n        xtick={-9.42,-7.85,-6.28,-4.71,-3.14,-1.57,0.0,1.57,3.14,4.71,6.28,7.85,9.42},\n        xticklabels={$-3\\pi$,$-5/2\\pi$,$-2\\pi$,$-3/2\\pi$,$-\\pi$,$-1/2\\pi$,$0\\pi$,$1/2\\pi$,$\\pi$,$3/2\\pi$,$2\\pi$,$5/2\\pi$,$3\\pi$},\n        ytick={-5.0,-4.0,-3.0,-2.0,-1.0,1.0,2.0,3.0,4.0,5.0},\n        domain=-3.0*pi:3.0*pi\n    ]\n    \\addplot[black, thick] {sin(deg(x))};\n    \\node[anchor=north east] at (0,0) {\\normalsize\\textcolor{black} {O}};\n    \\draw node[at={(-pi, -1)},below] {\\Huge $f(x)=\\sin x$};\n    \\end{axis}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "tri_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n    \\begin{axis}[\n        axis lines=middle,\n        xlabel={$x$},\n        ylabel={$y$},\n        xmin=-3.0*pi, xmax=3.0*pi,\n        ymin=-4, ymax=4,\n        xtick={-9.42,-6.28,-3.14,0.0,3.14,6.28,9.42},\n        xticklabels={$-3\\pi$,$-2\\pi$,$-\\pi$,$0\\pi$,$\\pi$,$2\\pi$,$3\\pi$},\n        ytick={-4.0,-2.0,2.0,4.0},\n        domain=-3.0*pi:3.0*pi\n    ]\n    \\addplot[black, thin] {-0.8*sin(deg(x))};\n    \\node[anchor=north west] at (0,0) {\\LARGE\\textcolor{red} {O}};\n    \\draw node[at={(pi, -0.8)},above] {\\huge $f(x)=-0.8\\sin x$};\n    \\end{axis}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "tri_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n    \\begin{axis}[\n        axis lines=middle,\n        xlabel={$x$},\n        ylabel={$y$},\n        xmin=-3.0*pi, xmax=3.0*pi,\n        ymin=-3, ymax=3,\n        xtick={-9.42,-7.85,-6.28,-4.71,-3.14,-1.57,0.0,1.57,3.14,4.71,6.28,7.85,9.42},\n        xticklabels={$-3\\pi$,$-5/2\\pi$,$-2\\pi$,$-3/2\\pi$,$-\\pi$,$-1/2\\pi$,$0\\pi$,$1/2\\pi$,$\\pi$,$3/2\\pi$,$2\\pi$,$5/2\\pi$,$3\\pi$},\n        ytick={-3.0,-2.0,-1.0,1.0,2.0,3.0},\n        domain=-3.0*pi:3.0*pi\n    ]\n    \\addplot[black, thin] {sin(3*deg(x))};\n    \\node[anchor=south east] at (0,0) {\\LARGE\\textcolor{pink} {O}};\n    \\draw node[at={(-pi, 1)},above] {\\large $f(x)=\\sin 3x$};\n    \\end{axis}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "tri_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n    \\begin{axis}[\n        axis lines=middle,\n        xlabel={$x$},\n        ylabel={$y$},\n        xmin=-3.0*pi, xmax=3.0*pi,\n        ymin=-4, ymax=4,\n        xtick={-6.28,0.0,6.28},\n        xticklabels={$-2\\pi$,$0\\pi$,$2\\pi$},\n        ytick={-4.0,-2.0,2.0,4.0},\n        domain=-3.0*pi:3.0*pi\n    ]\n    \\addplot[black, very thick] {3.3*cos(deg(x))};\n    \\node[anchor=south east] at (0,0) {\\Large\\textcolor{black} {O}};\n    \\draw node[at={(-pi, -3.3)},below] {\\Large $f(x)=3.3\\cos x$};\n    \\end{axis}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "tri_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n    \\begin{axis}[\n        axis lines=middle,\n        xlabel={$x$},\n        ylabel={$y$},\n        xmin=-4.0*pi, xmax=4.0*pi,\n        ymin=-4, ymax=4,\n        xtick={-12.56,-10.99,-9.42,-7.85,-6.28,-4.71,-3.14,-1.57,0.0,1.57,3.14,4.71,6.28,7.85,9.42,10.99,12.56},\n        xticklabels={$-4\\pi$,$-7/2\\pi$,$-3\\pi$,$-5/2\\pi$,$-2\\pi$,$-3/2\\pi$,$-\\pi$,$-1/2\\pi$,$0\\pi$,$1/2\\pi$,$\\pi$,$3/2\\pi$,$2\\pi$,$5/2\\pi$,$3\\pi$,$7/2\\pi$,$4\\pi$},\n        ytick={-4.0,-3.0,-2.0,-1.0,1.0,2.0,3.0,4.0},\n        domain=-4.0*pi:4.0*pi\n    ]\n    \\addplot[black, thin] {cos(-4*deg(x))};\n    \\node[anchor=north east] at (0,0) {\\LARGE\\textcolor{black} {O}};\n    \\draw node[at={(-pi, -1)},below] {\\Large $y=\\cos -4x$};\n    \\end{axis}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "tri_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n    \\begin{axis}[\n        axis lines=middle,\n        xlabel={$x$},\n        ylabel={$y$},\n        xmin=-2.0*pi, xmax=2.0*pi,\n        ymin=-2, ymax=2,\n        xtick={-6.28,0.0,6.28},\n        xticklabels={$-2\\pi$,$0\\pi$,$2\\pi$},\n        ytick={-2.0,2.0},\n        domain=-2.0*pi:2.0*pi\n    ]\n    \\addplot[green, thick] {sin(deg(x))+-0.7};\n    \\node[anchor=north west] at (0,0) {\\large\\textcolor{black} {O}};\n    \\draw node[at={(pi, 0.3)},above] {\\Large $y=\\sin x-0.7$};\n    \\end{axis}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "tri_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n    \\begin{axis}[\n        axis lines=middle,\n        xlabel={$x$},\n        ylabel={$y$},\n        xmin=-2.0*pi, xmax=2.0*pi,\n        ymin=-5, ymax=5,\n        xtick={-6.28,0.0,6.28},\n        xticklabels={$-2\\pi$,$0\\pi$,$2\\pi$},\n        ytick={-5.0,-4.0,-3.0,-2.0,-1.0,1.0,2.0,3.0,4.0,5.0},\n        domain=-2.0*pi:2.0*pi\n    ]\n    \\addplot[black, thin] {cos(deg(x))+0.2};\n    \\node[anchor=north west] at (0,0) {\\LARGE\\textcolor{black} {O}};\n    \\draw node[at={(-pi, 1.2)},above] {\\huge $y=\\cos x + 0.2$};\n    \\end{axis}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "tri_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n    \\begin{axis}[\n        axis lines=middle,\n        xlabel={$x$},\n        ylabel={$y$},\n        xmin=-3.0*pi, xmax=3.0*pi,\n        ymin=-2, ymax=2,\n        xtick={-9.42,-6.28,-3.14,0.0,3.14,6.28,9.42},\n        xticklabels={$-3\\pi$,$-2\\pi$,$-\\pi$,$0\\pi$,$\\pi$,$2\\pi$,$3\\pi$},\n        ytick={-2.0,-1.0,1.0,2.0},\n        domain=-3.0*pi:3.0*pi\n    ]\n    \\addplot[black, very thick] {sin(deg(x))};\n    \\node[anchor=north east] at (0,0) {\\normalsize\\textcolor{black} {O}};\n    \\draw node[at={(pi, -1)},below] {\\huge $y=\\sin x$};\n    \\end{axis}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "tri_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n    \\begin{axis}[\n        axis lines=middle,\n        xlabel={$x$},\n        ylabel={$y$},\n        xmin=-3.0*pi, xmax=3.0*pi,\n        ymin=-4, ymax=4,\n        xtick={-9.42,-7.85,-6.28,-4.71,-3.14,-1.57,0.0,1.57,3.14,4.71,6.28,7.85,9.42},\n        xticklabels={$-3\\pi$,$-5/2\\pi$,$-2\\pi$,$-3/2\\pi$,$-\\pi$,$-1/2\\pi$,$0\\pi$,$1/2\\pi$,$\\pi$,$3/2\\pi$,$2\\pi$,$5/2\\pi$,$3\\pi$},\n        ytick={-4.0,-3.0,-2.0,-1.0,1.0,2.0,3.0,4.0},\n        domain=-3.0*pi:3.0*pi\n    ]\n    \\addplot[black, thin] {cos(deg(x))};\n    \\node[anchor=south west] at (0,0) {\\large\\textcolor{black} {O}};\n    \\draw node[at={(-pi, -1)},below] {\\huge $y=\\cos x$};\n    \\end{axis}\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "ellipse_images_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-13, -5) rectangle (15, 23);\n    \\coordinate (Y) at (2, 4);\n    \\draw[very thick, color=black] (Y) ellipse (11 and 4.3);\n    \\fill (Y) circle (2pt) node[above left, font=\\normalsize, text=red] {Y};\n    \\coordinate (F) at (2, -0.2999999999999998);\n    \\coordinate (M) at (2, 8.3);\n    \\draw (2, -0.2999999999999998) node[below, font=\\Large, text=black] {F} -- (2, 8.3) node[above, font=\\Large, text=black] {M};\n\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "ellipse_images_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-11, -11) rectangle (19, 19);\n    \\coordinate (X) at (3, 5);\n    \\draw[thick, color=black] (X) ellipse (6.8 and 12);\n    \\fill (X) circle (1pt) node[below left, font=\\large, text=black] {X};\n\\coordinate (E) at (-3.8, 5);\n    \\coordinate (U) at (9.8, 5);\n    \\draw (-3.8, 5) node[left, font=\\small, text=black] {E} -- (9.8, 5) node[right, font=\\Large, text=black] {U};\n    \\coordinate (O) at (3, -7);\n    \\coordinate (F) at (3, 17);\n    \\draw (3, -7) node[below, font=\\large, text=black] {O} -- (3, 17) node[above, font=\\Large, text=black] {F};\n\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "ellipse_images_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-17, -9) rectangle (9, 17);\n    \\coordinate (W) at (-3, 5);\n    \\draw[thick, color=black] (W) ellipse (10 and 8);\n    \\fill (W) circle (3pt) node[below left, font=\\small, text=black] {W};\n\\coordinate (P) at (-13, 5);\n    \\coordinate (C) at (7, 5);\n    \\draw (-13, 5) node[left, font=\\Large, text=black] {P} -- (7, 5) node[right, font=\\normalsize, text=black] {C};\n    \\coordinate (B) at (-3, -3);\n    \\coordinate (S) at (-3, 13);\n    \\draw (-3, -3) node[below, font=\\normalsize, text=black] {B} -- (-3, 13) node[above, font=\\small, text=black] {S};\n\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "ellipse_images_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-17, -13) rectangle (13, 17);\n    \\coordinate (X) at (-2, 5);\n    \\draw[thick, color=black] (X) ellipse (12 and 8.1);\n    \\fill (X) circle (3pt) node[below right, font=\\small, text=black] {X};\n    \\coordinate (W) at (-14, 5);\n    \\coordinate (J) at (10, 5);\n    \\draw (-14, 5) node[left, font=\\Large, text=black] {W} -- (10, 5) node[right, font=\\small, text=black] {J};\n\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "ellipse_images_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-10, -13) rectangle (20, 17);\n    \\coordinate (B) at (1, 2);\n    \\draw[thin, color=black] (B) ellipse (4 and 11.9);\n    \\fill (B) circle (1pt) node[below left, font=\\large, text=black] {B};\n    \\coordinate (X) at (-3, 2);\n    \\coordinate (R) at (5, 2);\n    \\draw (-3, 2) node[left, font=\\small, text=black] {X} -- (5, 2) node[right, font=\\Large, text=black] {R};\n\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "ellipse_images_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-12, -21) rectangle (18, 9);\n    \\coordinate (X) at (4, -5);\n    \\draw[very thick, color=black] (X) ellipse (12 and 8.5);\n    \\fill (X) circle (3pt) node[below left, font=\\large, text=black] {X};\n\\coordinate (D) at (-8, -5);\n    \\coordinate (H) at (16, -5);\n    \\draw (-8, -5) node[left, font=\\Large, text=black] {D} -- (16, -5) node[right, font=\\Large, text=black] {H};\n    \\coordinate (R) at (4, -13.5);\n    \\coordinate (Y) at (4, 3.5);\n    \\draw (4, -13.5) node[below, font=\\large, text=red] {R} -- (4, 3.5) node[above, font=\\small, text=black] {Y};\n\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "ellipse_images_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-10, -15) rectangle (20, 15);\n    \\coordinate (O) at (4, -4);\n    \\draw[thick, color=black] (O) ellipse (12 and 8);\n    \\fill (O) circle (3pt) node[above left, font=\\small, text=black] {O};\n    \\coordinate (C) at (-8, -4);\n    \\coordinate (T) at (16, -4);\n    \\draw (-8, -4) node[left, font=\\normalsize, text=black] {C} -- (16, -4) node[right, font=\\Large, text=black] {T};\n\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "ellipse_images_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-10, -6) rectangle (18, 22);\n    \\coordinate (U) at (4, 5);\n    \\draw[thick, color=black] (U) ellipse (11 and 7.9);\n    \\fill (U) circle (3pt) node[below right, font=\\large, text=black] {U};\n\\coordinate (V) at (-7, 5);\n    \\coordinate (L) at (15, 5);\n    \\draw (-7, 5) node[left, font=\\normalsize, text=black] {V} -- (15, 5) node[right, font=\\normalsize, text=cyan] {L};\n    \\coordinate (S) at (4, -2.9000000000000004);\n    \\coordinate (D) at (4, 12.9);\n    \\draw (4, -2.9000000000000004) node[below, font=\\small, text=black] {S} -- (4, 12.9) node[above, font=\\large, text=black] {D};\n\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "ellipse_images_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-10, -14) rectangle (16, 12);\n    \\coordinate (K) at (1, -1);\n    \\draw[thick, color=black] (K) ellipse (8.8 and 10);\n    \\fill (K) circle (1pt) node[above right, font=\\large, text=black] {K};\n\\coordinate (Q) at (-7.800000000000001, -1);\n    \\coordinate (M) at (9.8, -1);\n    \\draw (-7.800000000000001, -1) node[left, font=\\Large, text=black] {Q} -- (9.8, -1) node[right, font=\\large, text=black] {M};\n    \\coordinate (D) at (1, -11);\n    \\coordinate (G) at (1, 9);\n    \\draw (1, -11) node[below, font=\\Large, text=black] {D} -- (1, 9) node[above, font=\\Large, text=black] {G};\n\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "ellipse_images_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-6, -14) rectangle (21, 13);\n    \\coordinate (A) at (4.0, -1.2);\n    \\draw[very thick, color=green] (A) ellipse (6 and 10);\n    \\fill (A) circle (1pt) node[below right, font=\\normalsize, text=black] {A};\n    \\coordinate (K) at (4.0, -11.2);\n    \\coordinate (F) at (4.0, 8.8);\n    \\draw (4.0, -11.2) node[below, font=\\small, text=yellow] {K} -- (4.0, 8.8) node[above, font=\\small, text=black] {F};\n\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "angle_images_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-14, -14) rectangle (14, 14);\n\\coordinate (F) at (-4.7, -7.2);\n\\coordinate (H) at (-2.0, -10.5);\n\\coordinate (L) at (-7.4, -8.4);\n\\draw (F) -- (H) -- (L);\n\\pic [fill=blue!25] {angle = F--H--L};\n\\node[label={[text=black,font=\\Large]above:$F$}] at (-4.7, -7.2) {};\n\\node[label={[text=black,font=\\normalsize]above:$H$}] at (-2.0, -10.5) {};\n\\node[label={[text=yellow,font=\\small]above:$L$}] at (-7.4, -8.4) {};\n\\coordinate (R) at (9.7, 2.5);\n\\coordinate (D) at (6.9, 3.4);\n\\coordinate (Q) at (11.0, 5.4);\n\\draw (R) -- (D) -- (Q);\n\\pic [draw,black,thin] {angle = R--D--Q};\n\\node[label={[text=black,font=\\Large]above:$R$}] at (9.7, 2.5) {};\n\\node[label={[text=black,font=\\small]above:$D$}] at (6.9, 3.4) {};\n\\node[label={[text=black,font=\\large]above:$Q$}] at (11.0, 5.4) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "angle_images_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-10, -10) rectangle (10, 10);\n\\coordinate (H) at (1.2, 2.9);\n\\coordinate (L) at (6.3, -1.4);\n\\coordinate (K) at (-4.1, -2.7);\n\\draw (H) -- (L) -- (K);\n\\pic [fill=red!50] {angle = H--L--K};\n\\node[label={[text=black,font=\\Large]above:$H$}] at (1.2, 2.9) {};\n\\node[label={[text=black,font=\\normalsize]above:$L$}] at (6.3, -1.4) {};\n\\node[label={[text=black,font=\\Large]above:$K$}] at (-4.1, -2.7) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "angle_images_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-10, -10) rectangle (10, 10);\n\\coordinate (D) at (7.2, 1.8);\n\\coordinate (Z) at (2.1, 4.4);\n\\coordinate (L) at (7.0, 3.6);\n\\draw (D) -- (Z) -- (L);\n\\pic [fill=violet!100] {angle = D--Z--L};\n\\node[label={[text=black,font=\\large]above:$D$}] at (7.2, 1.8) {};\n\\node[label={[text=orange,font=\\large]above:$Z$}] at (2.1, 4.4) {};\n\\node[label={[text=black,font=\\Large]above:$L$}] at (7.0, 3.6) {};\n\\coordinate (K) at (-2.5, 7.2);\n\\coordinate (H) at (-1.6, 4.9);\n\\coordinate (U) at (-4.6, 7.1);\n\\draw (K) -- (H) -- (U);\n\\pic [draw,black,thick] {angle = K--H--U};\n\\node[label={[text=black,font=\\Large]above:$K$}] at (-2.5, 7.2) {};\n\\node[label={[text=black,font=\\large]above:$H$}] at (-1.6, 4.9) {};\n\\node[label={[text=black,font=\\small]above:$U$}] at (-4.6, 7.1) {};\n\\coordinate (J) at (2.0, -0.7);\n\\coordinate (A) at (6.7, -5.7);\n\\coordinate (Y) at (4.5, -4.4);\n\\draw (J) -- (A) -- (Y);\n\\pic [fill=yellow!25] {angle = J--A--Y};\n\\node[label={[text=black,font=\\large]above:$J$}] at (2.0, -0.7) {};\n\\node[label={[text=black,font=\\large]above:$A$}] at (6.7, -5.7) {};\n\\node[label={[text=black,font=\\normalsize]above:$Y$}] at (4.5, -4.4) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "angle_images_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-14, -14) rectangle (14, 14);\n\\coordinate (D) at (-4.7, -9.4);\n\\coordinate (A) at (-8.8, -3.0);\n\\coordinate (B) at (-1.2, -2.6);\n\\draw (D) -- (A) -- (B);\n\\pic [draw,black,thin] {angle = D--A--B};\n\\node[label={[text=black,font=\\large]above:$D$}] at (-4.7, -9.4) {};\n\\node[label={[text=black,font=\\small]above:$A$}] at (-8.8, -3.0) {};\n\\node[label={[text=black,font=\\large]above:$B$}] at (-1.2, -2.6) {};\n\\coordinate (H) at (2.3, 4.0);\n\\coordinate (F) at (7.0, 9.2);\n\\coordinate (M) at (9.7, 6.1);\n\\draw (H) -- (F) -- (M);\n\\pic [draw,black,thick] {angle = H--F--M};\n\\node[label={[text=black,font=\\large]above:$H$}] at (2.3, 4.0) {};\n\\node[label={[text=black,font=\\large]above:$F$}] at (7.0, 9.2) {};\n\\node[label={[text=black,font=\\large]above:$M$}] at (9.7, 6.1) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "angle_images_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-11, -11) rectangle (11, 11);\n\\coordinate (W) at (-0.8, 6.0);\n\\coordinate (G) at (-5.6, 5.4);\n\\coordinate (R) at (-5.5, 6.9);\n\\draw (W) -- (G) -- (R);\n\\pic [fill=green!25] {angle = W--G--R};\n\\node[label={[text=black,font=\\normalsize]above:$W$}] at (-0.8, 6.0) {};\n\\node[label={[text=black,font=\\large]above:$G$}] at (-5.6, 5.4) {};\n\\node[label={[text=black,font=\\normalsize]above:$R$}] at (-5.5, 6.9) {};\n\\coordinate (T) at (-0.1, -1.4);\n\\coordinate (J) at (-1.4, -0.8);\n\\coordinate (H) at (-4.2, 1.2);\n\\draw (T) -- (J) -- (H);\n\\pic [draw,black,thick] {angle = T--J--H};\n\\node[label={[text=black,font=\\Large]above:$T$}] at (-0.1, -1.4) {};\n\\node[label={[text=black,font=\\small]above:$J$}] at (-1.4, -0.8) {};\n\\node[label={[text=black,font=\\Large]above:$H$}] at (-4.2, 1.2) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "angle_images_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-12, -12) rectangle (12, 12);\n\\coordinate (W) at (1.1, -4.0);\n\\coordinate (L) at (2.6, 0.2);\n\\coordinate (Y) at (7.0, -0.3);\n\\draw (W) -- (L) -- (Y);\n\\pic [draw,black,thick] {angle = W--L--Y};\n\\node[label={[text=blue,font=\\Large]above:$W$}] at (1.1, -4.0) {};\n\\node[label={[text=black,font=\\small]above:$L$}] at (2.6, 0.2) {};\n\\node[label={[text=black,font=\\normalsize]above:$Y$}] at (7.0, -0.3) {};\n\\coordinate (K) at (-6.3, 0.8);\n\\coordinate (U) at (-6.1, 0.4);\n\\coordinate (M) at (-10.1, 3.0);\n\\draw (K) -- (U) -- (M);\n\\pic [fill=green!100] {angle = K--U--M};\n\\node[label={[text=black,font=\\normalsize]above:$K$}] at (-6.3, 0.8) {};\n\\node[label={[text=black,font=\\Large]above:$U$}] at (-6.1, 0.4) {};\n\\node[label={[text=black,font=\\large]above:$M$}] at (-10.1, 3.0) {};\n\\coordinate (G) at (4.0, 7.4);\n\\coordinate (J) at (1.1, 9.1);\n\\coordinate (S) at (4.0, 10.2);\n\\draw (G) -- (J) -- (S);\n\\pic [fill=pink!25] {angle = G--J--S};\n\\node[label={[text=black,font=\\Large]above:$G$}] at (4.0, 7.4) {};\n\\node[label={[text=black,font=\\small]above:$J$}] at (1.1, 9.1) {};\n\\node[label={[text=black,font=\\large]above:$S$}] at (4.0, 10.2) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "angle_images_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-12, -12) rectangle (12, 12);\n\\coordinate (Z) at (-3.4, 3.3);\n\\coordinate (C) at (-1.2, 2.8);\n\\coordinate (M) at (-4.6, 1.8);\n\\draw (Z) -- (C) -- (M);\n\\pic [draw,blue,thin] {angle = Z--C--M};\n\\node[label={[text=black,font=\\normalsize]above:$Z$}] at (-3.4, 3.3) {};\n\\node[label={[text=yellow,font=\\Large]above:$C$}] at (-1.2, 2.8) {};\n\\node[label={[text=black,font=\\small]above:$M$}] at (-4.6, 1.8) {};\n\\coordinate (B) at (7.0, 7.4);\n\\coordinate (Q) at (9.0, 1.9);\n\\coordinate (P) at (2.4, 2.2);\n\\draw (B) -- (Q) -- (P);\n\\pic [draw,black,very thick] {angle = B--Q--P};\n\\node[label={[text=black,font=\\Large]above:$B$}] at (7.0, 7.4) {};\n\\node[label={[text=black,font=\\normalsize]above:$Q$}] at (9.0, 1.9) {};\n\\node[label={[text=black,font=\\Large]above:$P$}] at (2.4, 2.2) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "angle_images_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-11, -11) rectangle (11, 11);\n\\coordinate (H) at (3.4, 3.9);\n\\coordinate (O) at (7.3, 6.0);\n\\coordinate (T) at (3.4, 0.7);\n\\draw (H) -- (O) -- (T);\n\\pic [draw,black,thin] {angle = H--O--T};\n\\node[label={[text=black,font=\\large]above:$H$}] at (3.4, 3.9) {};\n\\node[label={[text=black,font=\\large]above:$O$}] at (7.3, 6.0) {};\n\\node[label={[text=black,font=\\small]above:$T$}] at (3.4, 0.7) {};\n\\coordinate (W) at (2.9, -3.3);\n\\coordinate (N) at (4.8, -4.1);\n\\coordinate (Q) at (1.4, -9.4);\n\\draw (W) -- (N) -- (Q);\n\\pic [draw,black,thin] {angle = W--N--Q};\n\\node[label={[text=black,font=\\Large]above:$W$}] at (2.9, -3.3) {};\n\\node[label={[text=black,font=\\Large]above:$N$}] at (4.8, -4.1) {};\n\\node[label={[text=black,font=\\large]above:$Q$}] at (1.4, -9.4) {};\n\\coordinate (D) at (-3.4, 5.4);\n\\coordinate (U) at (-6.5, 4.3);\n\\coordinate (V) at (-9.5, 5.7);\n\\draw (D) -- (U) -- (V);\n\\pic [fill=orange!100] {angle = D--U--V};\n\\node[label={[text=black,font=\\large]above:$D$}] at (-3.4, 5.4) {};\n\\node[label={[text=black,font=\\Large]above:$U$}] at (-6.5, 4.3) {};\n\\node[label={[text=black,font=\\large]above:$V$}] at (-9.5, 5.7) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "angle_images_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-11, -11) rectangle (11, 11);\n\\coordinate (B) at (5.2, 0.3);\n\\coordinate (W) at (5.2, 0.7);\n\\coordinate (J) at (5.4, 1.1);\n\\draw (B) -- (W) -- (J);\n\\pic [fill=green!75] {angle = B--W--J};\n\\node[label={[text=black,font=\\large]above:$B$}] at (5.2, 0.3) {};\n\\node[label={[text=black,font=\\normalsize]above:$W$}] at (5.2, 0.7) {};\n\\node[label={[text=black,font=\\Large]above:$J$}] at (5.4, 1.1) {};\n\\coordinate (A) at (-1.4, 6.4);\n\\coordinate (M) at (-0.6, 4.2);\n\\coordinate (Y) at (-1.6, 1.9);\n\\draw (A) -- (M) -- (Y);\n\\pic [draw,black,thin] {angle = A--M--Y};\n\\node[label={[text=violet,font=\\small]above:$A$}] at (-1.4, 6.4) {};\n\\node[label={[text=black,font=\\normalsize]above:$M$}] at (-0.6, 4.2) {};\n\\node[label={[text=black,font=\\Large]above:$Y$}] at (-1.6, 1.9) {};\n\\coordinate (G) at (7.3, -5.5);\n\\coordinate (T) at (5.7, -7.8);\n\\coordinate (D) at (-1.2, -6.0);\n\\draw (G) -- (T) -- (D);\n\\pic [fill=pink!25] {angle = G--T--D};\n\\node[label={[text=black,font=\\small]above:$G$}] at (7.3, -5.5) {};\n\\node[label={[text=black,font=\\small]above:$T$}] at (5.7, -7.8) {};\n\\node[label={[text=black,font=\\Large]above:$D$}] at (-1.2, -6.0) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "angle_images_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-11, -11) rectangle (11, 11);\n\\coordinate (O) at (-5.4, 3.5);\n\\coordinate (M) at (-5.7, 4.6);\n\\coordinate (R) at (1.7, 4.1);\n\\draw (O) -- (M) -- (R);\n\\pic [fill=red!100] {angle = O--M--R};\n\\node[label={[text=black,font=\\large]above:$O$}] at (-5.4, 3.5) {};\n\\node[label={[text=black,font=\\small]above:$M$}] at (-5.7, 4.6) {};\n\\node[label={[text=black,font=\\Large]above:$R$}] at (1.7, 4.1) {};\n\\coordinate (P) at (-1.3, -0.0);\n\\coordinate (X) at (2.4, -0.4);\n\\coordinate (N) at (-2.5, -2.4);\n\\draw (P) -- (X) -- (N);\n\\pic [draw,black,thick] {angle = P--X--N};\n\\node[label={[text=black,font=\\small]above:$P$}] at (-1.3, -0.0) {};\n\\node[label={[text=black,font=\\Large]above:$X$}] at (2.4, -0.4) {};\n\\node[label={[text=black,font=\\normalsize]above:$N$}] at (-2.5, -2.4) {};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "inverse_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-8.2,0) -- (8.4,0) node[right] {\\normalsize\\textcolor{black} {x}};\n\\draw[thin,->] (0,-8.6) -- (0,8.3) node[above] {\\Large\\textcolor{green} {Y}};\n\\foreach \\x in {-8,-6,-4,-2,2,4,6,8}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[very thick, domain=-8:-0.01,draw=black] plot (\\x,{-4.8/(\\x)});\n\\draw[very thick, domain=0.01:8,draw=black] plot (\\x,{-4.8/(\\x)}) node[at={(8, -0.6)},below right] {$y=-4.8/x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "inverse_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-10.5,0) -- (10.2,0) node[right] {\\large\\textcolor{black} {X}};\n\\draw[thick,->] (0,-10.8) -- (0,10.7) node[above] {\\normalsize\\textcolor{black} {Y}};\n\\foreach \\x in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thin, domain=-10:-0.01,draw=black] plot (\\x,{-5.5/(\\x)}) node[at={(-10, 0.6)},above left] {$f(x)=-5.5/x$};\n\\draw[thin, domain=0.01:10,draw=black] plot (\\x,{-5.5/(\\x)});\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "inverse_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-9.4,0) -- (9.7,0) node[right] {\\small\\textcolor{black} {x}};\n\\draw[thick,->] (0,-9.6) -- (0,9.8) node[above] {\\small\\textcolor{black} {y}};\n\\foreach \\x in {-8,-6,-4,-2,2,4,6,8}\n\\draw (\\x,0.1) -- (\\x,-0.1) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-8,-6,-4,-2,2,4,6,8}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\small\\textcolor{red} {O}};\n\\draw[very thick, domain=-9:-0.01,draw=black] plot (\\x,{0.2/(\\x)});\n\\draw[very thick, domain=0.01:9,draw=black] plot (\\x,{0.2/(\\x)}) node[at={(9, 0.0)},above right] {$y=0.2/x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "inverse_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-10.3,0) -- (10.4,0) node[right] {\\large\\textcolor{black} {x}};\n\\draw[very thick,->] (0,-10.5) -- (0,10.7) node[above] {\\normalsize\\textcolor{black} {y}};\n\\foreach \\x in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thick, domain=-10:-0.01,draw=black] plot (\\x,{-1.6/(\\x)});\n\\draw[thin, domain=0.01:10,draw=black] plot (\\x,{-1.6/(\\x)}) node[at={(10, -0.2)},below right] {$f(x)=-1.6/x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "inverse_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-9.5,0) -- (9.6,0) node[right] {\\Large\\textcolor{black} {X}};\n\\draw[thick,->] (0,-9.7) -- (0,9.6) node[above] {\\small\\textcolor{black} {Y}};\n\\foreach \\x in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}\n\\draw (\\x,0.1) -- (\\x,-0.1) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[very thick, domain=-9:-0.01,draw=black] plot (\\x,{-2.4/(\\x)}) node[at={(-9, 0.3)},above left] {$y=-2.4/x$};\n\\draw[very thick, domain=0.01:9,draw=black] plot (\\x,{-2.4/(\\x)});\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "inverse_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-9.9,0) -- (9.4,0) node[right] {\\small\\textcolor{black} {X}};\n\\draw[very thick,->] (0,-9.5) -- (0,9.3) node[above] {\\large\\textcolor{black} {Y}};\n\\foreach \\x in {-8,-6,-4,-2,2,4,6,8}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\small\\textcolor{pink} {O}};\n\\draw[thick, domain=-9:-0.1,draw=black] plot (\\x,{5.3/(\\x)}) node[at={(-9, -0.6)},below left] {$y=5.3/x$};\n\\draw[very thick, domain=0.1:9,draw=black] plot (\\x,{5.3/(\\x)});\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "inverse_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-10.1,0) -- (10.2,0) node[right] {\\normalsize\\textcolor{black} {x}};\n\\draw[thick,->] (0,-10.4) -- (0,10.4) node[above] {\\large\\textcolor{black} {Y}};\n\\foreach \\x in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[very thick, domain=-10:-0.1,draw=black] plot (\\x,{7.7/(\\x)}) node[at={(-10, -0.8)},below left] {$y=7.7/x$};\n\\draw[thin, domain=0.1:10,draw=black] plot (\\x,{7.7/(\\x)});\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "inverse_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-10.6,0) -- (10.7,0) node[right] {\\large\\textcolor{black} {x}};\n\\draw[thick,->] (0,-10.4) -- (0,10.8) node[above] {\\normalsize\\textcolor{black} {y}};\n\\foreach \\x in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[very thick, domain=-10:-0.01,draw=black] plot (\\x,{-8.3/(\\x)});\n\\draw[thick, domain=0.01:10,draw=black] plot (\\x,{-8.3/(\\x)}) node[at={(10, -0.8)},below right] {$y=-8.3/x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "inverse_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-9.5,0) -- (9.5,0) node[right] {\\large\\textcolor{black} {x}};\n\\draw[thin,->] (0,-9.9) -- (0,9.4) node[above] {\\normalsize\\textcolor{black} {y}};\n\\foreach \\x in {-8,-6,-4,-2,2,4,6,8}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thin, domain=-9:-0.01,draw=black] plot (\\x,{0.9/(\\x)});\n\\draw[thick, domain=0.01:9,draw=black] plot (\\x,{0.9/(\\x)}) node[at={(9, 0.1)},above right] {$y=0.9/x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "inverse_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-9.2,0) -- (9.1,0) node[right] {\\small\\textcolor{black} {X}};\n\\draw[very thick,->] (0,-9.5) -- (0,9.8) node[above] {\\Large\\textcolor{black} {Y}};\n\\foreach \\x in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-8,-6,-4,-2,2,4,6,8}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[very thick, domain=-9:-0.01,draw=black] plot (\\x,{-3.9/(\\x)});\n\\draw[thick, domain=0.01:9,draw=black] plot (\\x,{-3.9/(\\x)}) node[at={(9, -0.4)},below right] {$y=-3.9/x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "lines_images_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-12, -12) rectangle (12, 12);\n\\coordinate (E) at (-0.6, -5.5);\n\\coordinate (O) at (7.4, 8.1);\n\\coordinate (Q) at (1.4, 0.6);\n\\coordinate (C) at (6.4, -4.4);\n\\coordinate (A) at (2.4, -0.4);\n\\draw[thick,black] (E) -- (O) {};\n\\draw[thin,black] (Q) -- (C){};\n\\node[above,font=\\LARGE,text=black] at (-0.6, -5.5) {E};\n\\node[above,font=\\large,text=black] at (7.4, 8.1) {O};\n\\node[below,font=\\normalsize,text=black] at (1.4, 0.6) {Q};\n\\node[right,font=\\Large,text=red] at (6.4, -4.4) {C};\n\\node[below,font=\\normalsize,text=black] at (2.4, -0.4) {A};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "lines_images_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-13, -13) rectangle (13, 13);\n\\coordinate (P) at (-3, -10);\n\\coordinate (N) at (5, 6);\n\\coordinate (T) at (-5, -1.5);\n\\coordinate (B) at (8, -8.0);\n\\coordinate (Z) at (0, -4);\n\\draw[thick,black] (P) -- (N) {};\n\\draw[thin,black] (T) -- (B){};\n\\node[below,font=\\normalsize,text=black] at (-3, -10) {P};\n\\node[above,font=\\LARGE,text=black] at (5, 6) {N};\n\\node[right,font=\\LARGE,text=black] at (-5, -1.5) {T};\n\\node[below,font=\\normalsize,text=black] at (8, -8.0) {B};\n\\node[below left,font=\\Large,text=black] at (0, -4) {Z};\n\\pic[draw] {right angle = P--Z--B};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "lines_images_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-14, -14) rectangle (14, 14);\n\\coordinate (I) at (-8.1, -1.1);\n\\coordinate (Y) at (10.2, 8.7);\n\\coordinate (X) at (-9.1, -3.1);\n\\coordinate (J) at (9.2, 6.7);\n\\draw[thick,black] (I) -- (Y) {};\n\\draw[very thick,black] (X) -- (J){};\n\\node[above,font=\\normalsize,text=black] at (-8.1, -1.1) {I};\n\\node[above,font=\\large,text=black] at (10.2, 8.7) {Y};\n\\node[below,font=\\normalsize,text=black] at (-9.1, -3.1) {X};\n\\node[left,font=\\normalsize,text=black] at (9.2, 6.7) {J};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "lines_images_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-13, -13) rectangle (13, 13);\n\\coordinate (C) at (-3, -9);\n\\coordinate (Z) at (5, 7);\n\\coordinate (H) at (3, 5.5);\n\\coordinate (L) at (5, 4.5);\n\\coordinate (T) at (4, 5);\n\\draw[thick,black] (C) -- (Z) {};\n\\draw[very thick,black] (H) -- (L){};\n\\node[right,font=\\LARGE,text=black] at (-3, -9) {C};\n\\node[left,font=\\Large,text=black] at (5, 7) {Z};\n\\node[above,font=\\Large,text=black] at (3, 5.5) {H};\n\\node[below,font=\\small,text=black] at (5, 4.5) {L};\n\\node[above right,font=\\Large,text=black] at (4, 5) {T};\n\\pic[draw] {right angle = Z--T--L};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "lines_images_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-12, -12) rectangle (12, 12);\n\\coordinate (U) at (3, 2);\n\\coordinate (G) at (-1, 2);\n\\coordinate (V) at (5, 7);\n\\coordinate (R) at (-5, -3);\n\\coordinate (W) at (0, 2);\n\\draw[very thick,black] (U) -- (G) {};\n\\draw[very thick,black] (V) -- (R){};\n\\node[below,font=\\normalsize,text=black] at (3, 2) {U};\n\\node[left,font=\\LARGE,text=black] at (-1, 2) {G};\n\\node[right,font=\\normalsize,text=black] at (5, 7) {V};\n\\node[right,font=\\small,text=black] at (-5, -3) {R};\n\\node[below right,font=\\LARGE,text=black] at (0, 2) {W};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "lines_images_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-12, -12) rectangle (12, 12);\n\\coordinate (C) at (1, 3);\n\\coordinate (G) at (1, -9);\n\\coordinate (J) at (6, 7);\n\\coordinate (L) at (-4, -3);\n\\coordinate (F) at (1, 2);\n\\draw[very thick,black] (C) -- (G) {};\n\\draw[very thick,black] (J) -- (L){};\n\\node[right,font=\\Large,text=black] at (1, 3) {C};\n\\node[above,font=\\Large,text=black] at (1, -9) {G};\n\\node[above,font=\\large,text=black] at (6, 7) {J};\n\\node[left,font=\\Large,text=yellow] at (-4, -3) {L};\n\\node[above,font=\\LARGE,text=black] at (1, 2) {F};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "lines_images_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-14, -14) rectangle (14, 14);\n\\coordinate (V) at (5, -2);\n\\coordinate (R) at (-7, -2);\n\\coordinate (W) at (2, 7);\n\\coordinate (O) at (-6, -11);\n\\coordinate (P) at (-2, -2);\n\\draw[thin,black] (V) -- (R) {};\n\\draw[thin,black] (W) -- (O){};\n\\node[left,font=\\normalsize,text=black] at (5, -2) {V};\n\\node[right,font=\\LARGE,text=black] at (-7, -2) {R};\n\\node[above,font=\\large,text=black] at (2, 7) {W};\n\\node[below,font=\\Large,text=black] at (-6, -11) {O};\n\\node[above left,font=\\large,text=black] at (-2, -2) {P};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "lines_images_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-12, -12) rectangle (12, 12);\n\\coordinate (N) at (-0.9, 8.9);\n\\coordinate (V) at (7.6, -2.8);\n\\coordinate (E) at (-2.9, 6.9);\n\\coordinate (I) at (5.6, -4.8);\n\\draw[thick,black] (N) -- (V) {};\n\\draw[thick,black] (E) -- (I){};\n\\node[right,font=\\small,text=black] at (-0.9, 8.9) {N};\n\\node[below,font=\\normalsize,text=black] at (7.6, -2.8) {V};\n\\node[below,font=\\normalsize,text=black] at (-2.9, 6.9) {E};\n\\node[above,font=\\small,text=black] at (5.6, -4.8) {I};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "lines_images_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-14, -14) rectangle (14, 14);\n\\coordinate (G) at (9, 5);\n\\coordinate (M) at (2, 5);\n\\coordinate (C) at (6, 10);\n\\coordinate (D) at (2, 0);\n\\coordinate (R) at (4, 5);\n\\draw[thin,blue] (G) -- (M) {};\n\\draw[thin,black] (C) -- (D){};\n\\node[right,font=\\large,text=green] at (9, 5) {G};\n\\node[above,font=\\normalsize,text=black] at (2, 5) {M};\n\\node[above,font=\\normalsize,text=black] at (6, 10) {C};\n\\node[below,font=\\LARGE,text=black] at (2, 0) {D};\n\\node[right,font=\\large,text=black] at (4, 5) {R};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "lines_images_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-12, -12) rectangle (12, 12);\n\\coordinate (L) at (7.4, 3.2);\n\\coordinate (Z) at (-5.0, -0.7);\n\\coordinate (N) at (6.4, 5.2);\n\\coordinate (F) at (-6.0, 1.3);\n\\draw[thick,yellow] (L) -- (Z) {};\n\\draw[very thick,black] (N) -- (F){};\n\\node[left,font=\\LARGE,text=black] at (7.4, 3.2) {L};\n\\node[above,font=\\large,text=yellow] at (-5.0, -0.7) {Z};\n\\node[above,font=\\large,text=black] at (6.4, 5.2) {N};\n\\node[above,font=\\large,text=black] at (-6.0, 1.3) {F};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "exp_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[very thick,->] (-8.4,0) -- (8.6,0) node[right] {\\small\\textcolor{black} {x}};\n\\draw[thin,->] (0,-8.7) -- (0,8.5) node[above] {\\large\\textcolor{black} {Y}};\n\\foreach \\x in {-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-8,-6,-4,-2,2,4,6,8}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\Large\\textcolor{blue} {O}};\n\\draw[thin, domain=-1.7:8.3,draw=black] plot (\\x,{0.3^(\\x)})  node[at={(-1.7, 7.7)},above] {\\normalsize $f(x)=0.3^x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "exp_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thin,->] (-10.9,0) -- (10.6,0) node[right] {\\large\\textcolor{black} {x}};\n\\draw[very thick,->] (0,-10.2) -- (0,10.4) node[above] {\\normalsize\\textcolor{black} {y}};\n\\foreach \\x in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[thick, domain=-10.3:3.1,draw=black] plot (\\x,{-2.1^(\\x)})  node[at={(3.1, -10.0)},below] {\\normalsize $f(x)=-2.1^x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "exp_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[very thick,->] (-9.7,0) -- (9.4,0) node[right] {\\normalsize\\textcolor{black} {X}};\n\\draw[thick,->] (0,-9.2) -- (0,9.8) node[above] {\\Large\\textcolor{black} {Y}};\n\\foreach \\x in {-8,-6,-4,-2,2,4,6,8}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-8,-6,-4,-2,2,4,6,8}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\normalsize\\textcolor{black} {O}};\n\\draw[thin, domain=-9.2:2.1,draw=black] plot (\\x,{2.8^(\\x)})  node[at={(2.1, 8.7)},above] {\\large $y=2.8^x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "exp_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[very thick,->] (-8.8,0) -- (8.2,0) node[right] {\\Large\\textcolor{black} {X}};\n\\draw[very thick,->] (0,-8.3) -- (0,8.2) node[above] {\\large\\textcolor{black} {Y}};\n\\foreach \\x in {-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-8,-6,-4,-2,2,4,6,8}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[thin, domain=-3.0:8.5,draw=black] plot (\\x,{0.5^(\\x)})  node[at={(-3.0, 8.0)},above] {\\large $f(x)=0.5^x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "exp_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[very thick,->] (-9.7,0) -- (9.8,0) node[right] {\\normalsize\\textcolor{black} {X}};\n\\draw[thin,->] (0,-9.5) -- (0,9.8) node[above] {\\Large\\textcolor{black} {Y}};\n\\foreach \\x in {-8,-6,-4,-2,2,4,6,8}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[very thick, domain=-4.3:9.4,draw=black] plot (\\x,{-0.6^(\\x)})  node[at={(-4.3, -9.0)},below] {\\normalsize $y=-0.6^x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "exp_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[very thick,->] (-10.5,0) -- (10.3,0) node[right] {\\normalsize\\textcolor{black} {x}};\n\\draw[thick,->] (0,-10.2) -- (0,10.1) node[above] {\\Large\\textcolor{black} {y}};\n\\foreach \\x in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\normalsize\\textcolor{cyan} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\normalsize\\textcolor{black} {O}};\n\\draw[very thick, domain=-10.7:2.6,draw=black] plot (\\x,{-2.4^(\\x)})  node[at={(2.6, -9.7)},below] {\\large $y=-2.4^x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "exp_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[very thick,->] (-10.2,0) -- (10.8,0) node[right] {\\large\\textcolor{black} {X}};\n\\draw[thick,->] (0,-10.8) -- (0,10.1) node[above] {\\small\\textcolor{black} {y}};\n\\foreach \\x in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (\\x,0.1) -- (\\x,-0.1) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\Large\\textcolor{green} {O}};\n\\draw[thick, domain=-2.5:10.4,draw=black] plot (\\x,{-0.4^(\\x)})  node[at={(-2.5, -9.9)},below] {\\Large $y=-0.4^x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "exp_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick,->] (-10.8,0) -- (10.2,0) node[right] {\\Large\\textcolor{black} {X}};\n\\draw[thick,->] (0,-10.9) -- (0,10.6) node[above] {\\small\\textcolor{black} {y}};\n\\foreach \\x in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\large\\textcolor{yellow} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[very thick, domain=-10.8:2.3,draw=black] plot (\\x,{2.7^(\\x)})  node[at={(2.3, 9.8)},above] {\\large $f(x)=2.7^x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "exp_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thin,->] (-10.2,0) -- (10.7,0) node[right] {\\Large\\textcolor{black} {x}};\n\\draw[thick,->] (0,-10.6) -- (0,10.4) node[above] {\\Large\\textcolor{yellow} {Y}};\n\\foreach \\x in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thin, domain=-10.2:3.1,draw=black] plot (\\x,{2.1^(\\x)})  node[at={(3.1, 10.0)},above] {\\normalsize $y=2.1^x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "exp_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick,->] (-8.8,0) -- (8.2,0) node[right] {\\Large\\textcolor{black} {x}};\n\\draw[thick,->] (0,-8.9) -- (0,8.2) node[above] {\\normalsize\\textcolor{black} {Y}};\n\\foreach \\x in {-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n\\draw (\\x,0.1) -- (\\x,-0.1) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\normalsize\\textcolor{black} {O}};\n\\draw[very thick, domain=-0.9:8.4,draw=black] plot (\\x,{-0.1^(\\x)})  node[at={(-0.9, -7.9)},below] {\\large $y=-0.1^x$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "twod_axis_images_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[very thick,->] (-7.3, 0) -- (10.1, 0) node[anchor=north west] {\\small\\textcolor{black} {x}};\n\\draw[thick,->] (0, -5.2) -- (0, 8.3) node[anchor=south east] {\\large\\textcolor{black} {Y}};\n  \\foreach \\x in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n    \\draw (\\x,1pt) -- (\\x,-3pt) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n    \\draw (1pt,\\y) -- (-3pt,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\large\\textcolor{black} {O}};\n \\node at (3.0, -3.6) {$\\blacklozenge$};\n\\node[above,font=\\large,text=black] at (3.0, -3.6) {U};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "twod_axis_images_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick,->] (-6.3, 0) -- (10.4, 0) node[anchor=north west] {\\large\\textcolor{black} {X}};\n\\draw[very thick,->] (0, -6.4) -- (0, 8.3) node[anchor=south east] {\\large\\textcolor{black} {Y}};\n  \\foreach \\x in {-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n    \\draw (\\x,1pt) -- (\\x,-3pt) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n    \\draw (1pt,\\y) -- (-3pt,\\y) node[anchor=east] {\\Large\\textcolor{blue} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\Large\\textcolor{black} {O}};\n \\node at (-4.8, -4.0) {$\\star$};\n\\node[above,font=\\large,text=black] at (-4.8, -4.0) {E};\n \\node at (8.1, 4.3) {$\\blacktriangle$};\n\\node[above,font=\\large,text=black] at (8.1, 4.3) {B};\n \\node at (1.0, -0.4) {$\\triangle$};\n\\node[above,font=\\large,text=black] at (1.0, -0.4) {D};\n \\node at (9.6, 5.3) {$\\bullet$};\n\\node[above,font=\\small,text=black] at (9.6, 5.3) {H};\n \\node at (2.3, -5.5) {$\\bullet$};\n\\node[above,font=\\normalsize,text=black] at (2.3, -5.5) {C};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "twod_axis_images_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick,->] (-6.2, 0) -- (8.2, 0) node[anchor=north west] {\\large\\textcolor{black} {x}};\n\\draw[thick,->] (0, -9.5) -- (0, 10.4) node[anchor=south east] {\\large\\textcolor{black} {Y}};\n  \\foreach \\x in {-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n    \\draw (\\x,1pt) -- (\\x,-3pt) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n    \\draw (1pt,\\y) -- (-3pt,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\large\\textcolor{black} {O}};\n \\node at (1.0, -8.2) {$\\blacklozenge$};\n\\node[above,font=\\large,text=black] at (1.0, -8.2) {L};\n \\node at (-2.7, -2.5) {$\\triangledown$};\n\\node[above,font=\\normalsize,text=black] at (-2.7, -2.5) {K};\n \\node at (-4.1, 2.3) {$\\triangle$};\n\\node[above,font=\\large,text=black] at (-4.1, 2.3) {W};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "twod_axis_images_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[very thick,->] (-5.2, 0) -- (8.3, 0) node[anchor=north west] {\\normalsize\\textcolor{black} {x}};\n\\draw[very thick,->] (0, -5.2) -- (0, 6.2) node[anchor=south east] {\\large\\textcolor{black} {y}};\n  \\foreach \\x in {-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n    \\draw (\\x,1pt) -- (\\x,-3pt) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-5,-4,-3,-2,-1,1,2,3,4,5,6}\n    \\draw (1pt,\\y) -- (-3pt,\\y) node[anchor=east] {\\small\\textcolor{green} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\Large\\textcolor{black} {O}};\n \\node at (0.3, 5.2) {$\\square$};\n\\node[above,font=\\normalsize,text=black] at (0.3, 5.2) {D};\n \\node at (-0.8, 0.6) {$\\bullet$};\n\\node[above,font=\\Large,text=black] at (-0.8, 0.6) {E};\n \\node at (0.6, -1.5) {$\\bullet$};\n\\node[above,font=\\small,text=black] at (0.6, -1.5) {K};\n \\node at (-1.9, -1.4) {$\\triangle$};\n\\node[above,font=\\Large,text=black] at (-1.9, -1.4) {J};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "twod_axis_images_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thin,->] (-9.3, 0) -- (8.3, 0) node[anchor=north west] {\\Large\\textcolor{black} {X}};\n\\draw[thick,->] (0, -8.4) -- (0, 7.3) node[anchor=south east] {\\large\\textcolor{black} {y}};\n  \\foreach \\x in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n    \\draw (\\x,1pt) -- (\\x,-3pt) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7}\n    \\draw (1pt,\\y) -- (-3pt,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\large\\textcolor{blue} {O}};\n \\node at (7.4, 6.2) {$\\diamond$};\n\\node[above,font=\\Large,text=black] at (7.4, 6.2) {D};\n \\node at (6.2, -1.1) {$\\triangle$};\n\\node[above,font=\\small,text=black] at (6.2, -1.1) {T};\n \\node at (2.6, 2.4) {$\\times$};\n\\node[above,font=\\Large,text=black] at (2.6, 2.4) {C};\n \\node at (-6.0, -0.7) {$\\ast$};\n\\node[above,font=\\normalsize,text=black] at (-6.0, -0.7) {G};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "twod_axis_images_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thin,->] (-6.3, 0) -- (8.5, 0) node[anchor=north west] {\\normalsize\\textcolor{black} {x}};\n\\draw[thick,->] (0, -8.2) -- (0, 7.3) node[anchor=south east] {\\Large\\textcolor{black} {Y}};\n  \\foreach \\x in {-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n    \\draw (\\x,1pt) -- (\\x,-3pt) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7}\n    \\draw (1pt,\\y) -- (-3pt,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\normalsize\\textcolor{black} {O}};\n \\node at (2.7, -1.7) {$\\diamond$};\n\\node[above,font=\\small,text=black] at (2.7, -1.7) {L};\n \\node at (0.0, -7.4) {$\\times$};\n\\node[above,font=\\Large,text=black] at (0.0, -7.4) {K};\n \\node at (-5.4, -8.0) {$\\blacklozenge$};\n\\node[above,font=\\normalsize,text=black] at (-5.4, -8.0) {F};\n \\node at (0.8, 0.9) {$\\blacktriangle$};\n\\node[above,font=\\large,text=black] at (0.8, 0.9) {P};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "twod_axis_images_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[very thick,->] (-6.4, 0) -- (8.2, 0) node[anchor=north west] {\\large\\textcolor{black} {x}};\n\\draw[thin,->] (0, -6.4) -- (0, 10.3) node[anchor=south east] {\\small\\textcolor{black} {Y}};\n  \\foreach \\x in {-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n    \\draw (\\x,1pt) -- (\\x,-3pt) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n    \\draw (1pt,\\y) -- (-3pt,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\small\\textcolor{black} {O}};\n \\node at (0.3, -4.5) {$\\triangledown$};\n\\node[above,font=\\small,text=black] at (0.3, -4.5) {S};\n \\node at (3.2, -4.0) {$\\blacklozenge$};\n\\node[above,font=\\normalsize,text=black] at (3.2, -4.0) {Q};\n \\node at (-4.6, 7.4) {$\\blacktriangle$};\n\\node[above,font=\\small,text=black] at (-4.6, 7.4) {F};\n \\node at (-5.2, 0.7) {$\\square$};\n\\node[above,font=\\large,text=black] at (-5.2, 0.7) {A};\n \\node at (0.5, -3.0) {$\\ast$};\n\\node[above,font=\\large,text=black] at (0.5, -3.0) {N};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "twod_axis_images_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thin,->] (-9.4, 0) -- (6.5, 0) node[anchor=north west] {\\normalsize\\textcolor{black} {x}};\n\\draw[thin,->] (0, -9.4) -- (0, 8.4) node[anchor=south east] {\\large\\textcolor{black} {Y}};\n  \\foreach \\x in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6}\n    \\draw (\\x,1pt) -- (\\x,-3pt) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n    \\draw (1pt,\\y) -- (-3pt,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\small\\textcolor{black} {O}};\n \\node at (4.6, -5.1) {$\\diamond$};\n\\node[above,font=\\small,text=black] at (4.6, -5.1) {K};\n \\node at (0.1, 7.1) {$\\square$};\n\\node[above,font=\\small,text=black] at (0.1, 7.1) {Z};\n \\node at (-7.6, 4.1) {$\\ast$};\n\\node[above,font=\\small,text=black] at (-7.6, 4.1) {U};\n \\node at (4.9, 5.5) {$\\square$};\n\\node[above,font=\\large,text=black] at (4.9, 5.5) {L};\n \\node at (5.6, -5.8) {$\\times$};\n\\node[above,font=\\Large,text=black] at (5.6, -5.8) {P};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "twod_axis_images_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[very thick,->] (-7.2, 0) -- (8.4, 0) node[anchor=north west] {\\small\\textcolor{black} {x}};\n\\draw[thin,->] (0, -7.1) -- (0, 5.4) node[anchor=south east] {\\normalsize\\textcolor{black} {Y}};\n  \\foreach \\x in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8}\n    \\draw (\\x,1pt) -- (\\x,-3pt) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5}\n    \\draw (1pt,\\y) -- (-3pt,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\small\\textcolor{black} {O}};\n \\node at (-2.4, -0.1) {$\\blacklozenge$};\n\\node[above,font=\\large,text=black] at (-2.4, -0.1) {K};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "twod_axis_images_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\draw[thick,->] (-7.1, 0) -- (5.5, 0) node[anchor=north west] {\\large\\textcolor{black} {X}};\n\\draw[thick,->] (0, -7.4) -- (0, 9.3) node[anchor=south east] {\\normalsize\\textcolor{black} {Y}};\n  \\foreach \\x in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5}\n    \\draw (\\x,1pt) -- (\\x,-3pt) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}\n    \\draw (1pt,\\y) -- (-3pt,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\large\\textcolor{black} {O}};\n \\node at (-0.6, -1.5) {$\\square$};\n\\node[above,font=\\large,text=black] at (-0.6, -1.5) {D};\n \\node at (3.6, -5.8) {$\\triangledown$};\n\\node[above,font=\\small,text=black] at (3.6, -5.8) {F};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "square_images_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-9, 7) rectangle (22, 38);\n    \\coordinate (M) at (8.4, 22.1);\n    \\coordinate (V) at (-3.0, 15.8);\n    \\coordinate (C) at (8.1, 9.1);\n    \\coordinate (G) at (19.5, 15.4);\n    \\filldraw[fill=white, draw=black, thin] (G) -- (C) -- (V) -- (M) -- cycle;    \n    \\node at (8.3, 22.3) [font=\\small, color=black] {M};\n    \\node at (-3.1, 16.0) [font=\\large, color=black] {V};\n    \\node at (8.2, 9.0) [font=\\large, color=cyan] {C};\n    \\node at (19.6, 15.3) [font=\\Large, color=black] {G};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "square_images_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-4, 5) rectangle (43, 52);\n    \\coordinate (Q) at (15.0, 15.0);\n    \\coordinate (L) at (40.0, 15.0);\n    \\coordinate (F) at (24.3, 23.7);\n    \\coordinate (O) at (-0.7, 23.7);\n    \\filldraw[fill=white, draw=yellow, thin] (F) -- (O) -- (Q) -- (L) -- cycle;    \n    \\node at (15.0, 14.8) [font=\\Large, color=black] {Q};\n    \\node at (40.0, 14.8) [font=\\Large, color=black] {L};\n    \\node at (24.3, 23.9) [font=\\small, color=black] {F};\n    \\node at (-0.7, 23.9) [font=\\Large, color=black] {O};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "square_images_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (0, -4) rectangle (23, 19);\n    \\coordinate (E) at (16.0, 6.8);\n    \\coordinate (P) at (6.5, 12.3);\n    \\coordinate (F) at (3.0, 6.2);\n    \\coordinate (V) at (12.5, 0.7);\n    \\filldraw[fill=white, draw=black, very thick] (E) -- (P) -- (F) -- (V) -- cycle;    \n    \\node at (16.1, 7.0) [font=\\normalsize, color=black] {E};\n    \\node at (6.6, 12.5) [font=\\Large, color=black] {P};\n    \\node at (2.9, 6.0) [font=\\Large, color=black] {F};\n    \\node at (12.4, 0.5) [font=\\normalsize, color=black] {V};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "square_images_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-9, 3) rectangle (30, 42);\n    \\coordinate (R) at (15.0, 8.0);\n    \\coordinate (X) at (27.0, 8.0);\n    \\coordinate (Q) at (6.3, 15.5);\n    \\coordinate (L) at (-5.7, 15.5);\n    \\filldraw[fill=white, draw=black, very thick] (L) -- (Q) -- (X) -- (R) -- cycle;    \n    \\node at (15.0, 7.8) [font=\\small, color=black] {R};\n    \\node at (27.0, 7.8) [font=\\normalsize, color=black] {X};\n    \\node at (6.3, 15.7) [font=\\large, color=black] {Q};\n    \\node at (-5.7, 15.7) [font=\\small, color=black] {L};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "square_images_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-14, 2) rectangle (20, 36);\n    \\coordinate (Q) at (3.0, 15.0);\n    \\coordinate (J) at (16.0, 15.0);\n    \\coordinate (I) at (1.1, 28.4);\n    \\coordinate (E) at (-11.9, 28.4);\n    \\filldraw[fill=white, draw=black, very thick] (E) -- (I) -- (J) -- (Q) -- cycle;    \n    \\node at (3.0, 14.8) [font=\\Large, color=black] {Q};\n    \\node at (16.0, 14.8) [font=\\small, color=black] {J};\n    \\node at (1.1, 28.6) [font=\\large, color=black] {I};\n    \\node at (-11.9, 28.6) [font=\\normalsize, color=black] {E};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "square_images_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-3, 7) rectangle (22, 32);\n    \\coordinate (M) at (5.4, 22.7);\n    \\coordinate (C) at (1.7, 16.7);\n    \\coordinate (E) at (13.6, 9.3);\n    \\coordinate (W) at (17.3, 15.3);\n    \\filldraw[fill=white, draw=black, thin] (E) -- (W) -- (M) -- (C) -- cycle;    \n    \\node at (5.2, 22.8) [font=\\large, color=black] {M};\n    \\node at (1.5, 16.8) [font=\\small, color=black] {C};\n    \\node at (13.8, 9.2) [font=\\normalsize, color=pink] {E};\n    \\node at (17.5, 15.2) [font=\\large, color=violet] {W};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "square_images_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-5, -1) rectangle (17, 21);\n    \\coordinate (F) at (14.4, 3.0);\n    \\coordinate (U) at (10.0, 12.0);\n    \\coordinate (C) at (0.0, 12.0);\n    \\coordinate (Q) at (4.4, 3.0);\n    \\filldraw[fill=pink, draw=black, very thick] (F) -- (Q) -- (C) -- (U) -- cycle;    \n    \\node at (14.6, 3.1) [font=\\small, color=black] {F};\n    \\node at (10.2, 12.1) [font=\\Large, color=black] {U};\n    \\node at (-0.2, 11.9) [font=\\large, color=pink] {C};\n    \\node at (4.2, 2.9) [font=\\large, color=black] {Q};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "square_images_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-4, -4) rectangle (19, 19);\n    \\coordinate (U) at (0.0, 1.0);\n    \\coordinate (R) at (9.0, 1.0);\n    \\coordinate (V) at (14.5, 8.1);\n    \\coordinate (H) at (5.5, 8.1);\n    \\filldraw[fill=pink, draw=black, very thick] (R) -- (V) -- (H) -- (U) -- cycle;    \n    \\node at (0.0, 0.8) [font=\\Large, color=black] {U};\n    \\node at (9.0, 0.8) [font=\\normalsize, color=black] {R};\n    \\node at (14.5, 8.3) [font=\\Large, color=black] {V};\n    \\node at (5.5, 8.3) [font=\\normalsize, color=black] {H};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "square_images_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (-5, -1) rectangle (19, 23);\n    \\coordinate (O) at (-0.9, 10.7);\n    \\coordinate (F) at (7.5, 3.6);\n    \\coordinate (S) at (13.9, 11.3);\n    \\coordinate (I) at (5.5, 18.4);\n    \\filldraw[fill=white, draw=black, very thick] (S) -- (I) -- (O) -- (F) -- cycle;    \n    \\node at (-1.1, 10.6) [font=\\Large, color=black] {O};\n    \\node at (7.4, 3.5) [font=\\large, color=black] {F};\n    \\node at (14.1, 11.4) [font=\\large, color=black] {S};\n    \\node at (5.6, 18.5) [font=\\normalsize, color=black] {I};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "square_images_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\\path [use as bounding box] (4, 6) rectangle (50, 52);\n    \\coordinate (G) at (6.0, 10.0);\n    \\coordinate (Q) at (27.0, 10.0);\n    \\coordinate (A) at (44.6, 17.1);\n    \\coordinate (I) at (23.6, 17.1);\n    \\filldraw[fill=white, draw=black, very thick] (G) -- (Q) -- (A) -- (I) -- cycle;    \n    \\node at (6.0, 9.8) [font=\\normalsize, color=orange] {G};\n    \\node at (27.0, 9.8) [font=\\large, color=cyan] {Q};\n    \\node at (44.6, 17.3) [font=\\small, color=black] {A};\n    \\node at (23.6, 17.3) [font=\\large, color=red] {I};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "cubic_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-3.2,0) -- (2.3,0) node[right] {\\Large\\textcolor{black} {X}};\n\\draw[thick,->] (0,-15.4) -- (0,15.3) node[above] {\\small\\textcolor{black} {y}};\n\\foreach \\x in {-2,2}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-15,-14,-13,-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\normalsize\\textcolor{black} {O}};\n\\draw[very thick, domain=-2.4:2,draw=black] plot (\\x,{-1.3*(\\x)^3+-0.6*(\\x)^2+0.2*(\\x)+-0.9}) node[at={(-2.4, 13.1)},left] {$f(x)=-1.3x^3-0.6x^2+0.2x-0.9$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "cubic_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-3.6,0) -- (3.7,0) node[right] {\\large\\textcolor{black} {x}};\n\\draw[very thick,->] (0,-13.7) -- (0,13.9) node[above] {\\Large\\textcolor{black} {y}};\n\\foreach \\x in {-3,-2,-1,1,2,3}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-12,-10,-8,-6,-4,-2,2,4,6,8,10,12}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thin, domain=-2.9:2.5,draw=black] plot (\\x,{-0.6*(\\x)^3+-0.4*(\\x)^2+-0.3*(\\x)+0.1}) node[at={(-2.9, 12.2)},left] {$y=-0.6x^3-0.4x^2-0.3x+0.1$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "cubic_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-8.4,0) -- (5.3,0) node[right] {\\Large\\textcolor{black} {x}};\n\\draw[thin,->] (0,-14.8) -- (0,14.8) node[above] {\\small\\textcolor{black} {y}};\n\\foreach \\x in {-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-14,-13,-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12,13,14}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\normalsize\\textcolor{black} {O}};\n\\draw[thick, domain=-7.6:4.5,draw=black] plot (\\x,{0.1*(\\x)^3+0.4*(\\x)^2+-0.9*(\\x)+0.8}) node[at={(-7.6, -13.1)},left] {$y=0.1x^3+0.4x^2-0.9x+0.8$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "cubic_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-2.5,0) -- (3.2,0) node[right] {\\small\\textcolor{black} {x}};\n\\draw[very thick,->] (0,-12.9) -- (0,12.2) node[above] {\\large\\textcolor{black} {Y}};\n\\foreach \\x in {-2,2}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\small\\textcolor{cyan} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[very thick, domain=-2:2.3,draw=black] plot (\\x,{-1.3*(\\x)^3+0.5*(\\x)^2+0.7*(\\x)+0.2}) node[at={(-2, 11.2)},left] {$y=-1.3x^3+0.5x^2+0.7x+0.2$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "cubic_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-3.9,0) -- (4.8,0) node[right] {\\large\\textcolor{orange} {X}};\n\\draw[thin,->] (0,-12.8) -- (0,12.3) node[above] {\\large\\textcolor{black} {Y}};\n\\foreach \\x in {-3,-2,-1,1,2,3,4}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{blue} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\small\\textcolor{black} {O}};\n\\draw[very thick, domain=-2.4:3.3,draw=red] plot (\\x,{-0.5*(\\x)^3+0.7*(\\x)^2+-0.3*(\\x)+-0.1}) node[at={(-2.4, 11.5)},left] {$f(x)=-0.5x^3+0.7x^2-0.3x-0.1$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "cubic_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-3.4,0) -- (3.8,0) node[right] {\\normalsize\\textcolor{black} {X}};\n\\draw[thick,->] (0,-15.2) -- (0,15.9) node[above] {\\large\\textcolor{black} {Y}};\n\\foreach \\x in {-3,-2,-1,1,2,3}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-14,-12,-10,-8,-6,-4,-2,2,4,6,8,10,12,14}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\normalsize\\textcolor{black} {O}};\n\\draw[thick, domain=-2.2:2.6,draw=black] plot (\\x,{-1.0*(\\x)^3+0.5*(\\x)^2+-0.3*(\\x)+0.3}) node[at={(-2.2, 14.0000000000000)},left] {$f(x)=-x^3+0.5x^2-0.3x+0.3$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "cubic_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-3.4,0) -- (2.4,0) node[right] {\\Large\\textcolor{black} {x}};\n\\draw[very thick,->] (0,-12.6) -- (0,12.4) node[above] {\\Large\\textcolor{yellow} {Y}};\n\\foreach \\x in {-3,-2,-1,1,2}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=south east] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[thick, domain=-2.4:2,draw=black] plot (\\x,{1.2*(\\x)^3+0.8*(\\x)^2+-0.3*(\\x)+-0.5}) node[at={(-2.4, -11.7)},left] {$f(x)=1.2x^3+0.8x^2-0.3x-0.5$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "cubic_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-3.5,0) -- (3.2,0) node[right] {\\large\\textcolor{black} {x}};\n\\draw[very thick,->] (0,-14.6) -- (0,14.8) node[above] {\\normalsize\\textcolor{black} {y}};\n\\foreach \\x in {-2,2}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-14,-12,-10,-8,-6,-4,-2,2,4,6,8,10,12,14}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\\node[anchor=north west] at (0,0) {\\small\\textcolor{black} {O}};\n\\draw[thick, domain=-2.9:2.8,draw=black] plot (\\x,{-0.5*(\\x)^3+-0.1*(\\x)^2+-0.7*(\\x)+0.3}) node[at={(2.8, -13.4)},right] {$f(x)=-0.5x^3-0.1x^2-0.7x+0.3$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "cubic_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-3.4,0) -- (3.9,0) node[right] {\\Large\\textcolor{black} {x}};\n\\draw[thick,->] (0,-12.8) -- (0,12.6) node[above] {\\small\\textcolor{black} {Y}};\n\\foreach \\x in {-2,2}\n\\draw (\\x,0.1) -- (\\x,-0.1) node[anchor=north] {\\normalsize\\textcolor{cyan} {$\\x$}};\n\\foreach \\y in {-12,-10,-8,-6,-4,-2,2,4,6,8,10,12}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=south west] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[very thick, domain=-2.9:2.4,draw=black] plot (\\x,{-0.8*(\\x)^3+-0.6*(\\x)^2+1.0*(\\x)+0.2}) node[at={(-2.9, 11.7)},left] {$f(x)=-0.8x^3-0.6x^2+1.0x+0.2$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "cubic_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-3.8,0) -- (3.6,0) node[right] {\\normalsize\\textcolor{cyan} {X}};\n\\draw[thin,->] (0,-12.9) -- (0,12.8) node[above] {\\normalsize\\textcolor{black} {y}};\n\\foreach \\x in {-2,2}\n\\draw (\\x,0.1) -- (\\x,-0.1) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-12,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10,11,12}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\\node[anchor=north east] at (0,0) {\\Large\\textcolor{pink} {O}};\n\\draw[thick, domain=-2.3:2.3,draw=blue] plot (\\x,{1.0*(\\x)^3+-0.3*(\\x)^2+-0.4*(\\x)+0.9}) node[at={(-2.3, -11.9)},left] {$y=x^3-0.3x^2-0.4x+0.9$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 0,
+  "image": "linear_0/page_0.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-6.1,0) -- (7.0,0) node[right] {\\normalsize\\textcolor{black} {x}};\n\\draw[very thick,->] (0,-10.0) -- (0,10.0) node[above] {\\Large\\textcolor{black} {y}};\n\\foreach \\x in {-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\small\\textcolor{violet} {$\\y$}};\n\n\\node[anchor=north east] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[domain=-4.0:2.7,draw=black] plot (\\x,{3*\\x+2}) node[at={(-4.0, -10.0)},left] {$y=3x+2$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "image": "linear_0/page_1.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-8.7,0) -- (8.0,0) node[right] {\\large\\textcolor{black} {x}};\n\\draw[thick,->] (0,-10.0) -- (0,10.0) node[above] {\\small\\textcolor{black} {y}};\n\\foreach \\x in {-8,-6,-4,-2,2,4,6,8}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\n\\node[anchor=north east] at (0,0) {\\small\\textcolor{red} {O}};\n\\draw[domain=-3.7:3.0,draw=black] plot (\\x,{3*\\x+1}) node[at={(-3.7, -10.100000000000001)},left] {$y=3x+1$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "linear_0/page_2.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-10.0,0) -- (10.0,0) node[right] {\\large\\textcolor{black} {x}};\n\\draw[thick,->] (0,-7.4) -- (0,3) node[above] {\\small\\textcolor{black} {y}};\n\\foreach \\x in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\normalsize\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-6,-4,-2,2}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\n\\node[anchor=south east] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[domain=-10:10,draw=black] plot (\\x,{-0.3*\\x-3}) node[right] {$f(x)=-0.3x-3$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "linear_0/page_3.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-9.6,0) -- (5.6,0) node[right] {\\normalsize\\textcolor{orange} {X}};\n\\draw[thick,->] (0,-10.0) -- (0,10.0) node[above] {\\normalsize\\textcolor{black} {y}};\n\\foreach \\x in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\Large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\n\\node[anchor=north east] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[domain=-3.7:3.0,draw=black] plot (\\x,{-3*\\x-1}) node[right] {$f(x)=-3x-1$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "linear_0/page_4.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thin,->] (-7.5,0) -- (6.8,0) node[right] {\\large\\textcolor{black} {x}};\n\\draw[very thick,->] (0,-10.0) -- (0,10.0) node[above] {\\large\\textcolor{black} {Y}};\n\\foreach \\x in {-6,-4,-2,2,4,6}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (0.05,\\y) -- (-0.1,\\y) node[anchor=east] {\\Large\\textcolor{black} {$\\y$}};\n\n\\node[anchor=south west] at (0,0) {\\Large\\textcolor{black} {O}};\n\\draw[domain=-1.6:2.4,draw=black] plot (\\x,{-5*\\x+2}) node[at={(-1.6, 10.0)},left] {$f(x)=-5x+2$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "linear_0/page_5.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-5.8,0) -- (7.6,0) node[right] {\\large\\textcolor{black} {X}};\n\\draw[very thick,->] (0,-10.0) -- (0,10.0) node[above] {\\small\\textcolor{red} {y}};\n\\foreach \\x in {-4,-2,2,4,6}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-8,-6,-4,-2,2,4,6,8,10}\n\\draw (0.1,\\y) -- (-0.05,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\n\\node[anchor=north west] at (0,0) {\\small\\textcolor{black} {O}};\n\\draw[domain=-1.8:3.2,draw=black] plot (\\x,{4*\\x-3}) node[right] {$y=4x-3$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "linear_0/page_6.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-10.0,0) -- (9.4,0) node[right] {\\Large\\textcolor{blue} {X}};\n\\draw[very thick,->] (0,-10.0) -- (0,9.0) node[above] {\\normalsize\\textcolor{black} {y}};\n\\foreach \\x in {-10,-8,-6,-4,-2,2,4,6,8}\n\\draw (\\x,0.05) -- (\\x,-0.1) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\n\\node[anchor=north west] at (0,0) {\\large\\textcolor{blue} {O}};\n\\draw[domain=-10:9.0,draw=red] plot (\\x,{-1*\\x-1}) node[right] {$y=-x-1$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "linear_0/page_7.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-3.6,0) -- (9.3,0) node[right] {\\Large\\textcolor{black} {x}};\n\\draw[thin,->] (0,-10.0) -- (0,10.0) node[above] {\\normalsize\\textcolor{yellow} {y}};\n\\foreach \\x in {-2,2,4,6,8}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (0.1,\\y) -- (-0.1,\\y) node[anchor=east] {\\large\\textcolor{black} {$\\y$}};\n\n\\node[anchor=north east] at (0,0) {\\small\\textcolor{black} {O}};\n\\draw[domain=-2.8:2.2,draw=cyan] plot (\\x,{-4*\\x-1}) node[right] {$f(x)=-4x-1$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "linear_0/page_8.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[very thick,->] (-9.3,0) -- (10.0,0) node[right] {\\small\\textcolor{black} {X}};\n\\draw[very thick,->] (0,-10.0) -- (0,9.0) node[above] {\\small\\textcolor{black} {Y}};\n\\foreach \\x in {-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (\\x,0.05) -- (\\x,-0.05) node[anchor=north] {\\small\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\normalsize\\textcolor{black} {$\\y$}};\n\n\\node[anchor=north east] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[domain=-9.0:10,draw=black] plot (\\x,{1*\\x-1}) node[right] {$f(x)=x-1$};\n\\end{tikzpicture}"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "linear_0/page_9.png",
+  "conversations": [
+   {
+    "from": "human",
+    "value": "<image>\nOCR with format: "
+   },
+   {
+    "from": "gpt",
+    "value": "\\begin{tikzpicture}\n\n\\draw[thick,->] (-10.0,0) -- (10.0,0) node[right] {\\normalsize\\textcolor{black} {x}};\n\\draw[thick,->] (0,-8.7) -- (0,3) node[above] {\\small\\textcolor{black} {Y}};\n\\foreach \\x in {-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,1,2,3,4,5,6,7,8,9,10}\n\\draw (\\x,0.1) -- (\\x,-0.05) node[anchor=north] {\\large\\textcolor{black} {$\\x$}};\n\\foreach \\y in {-8,-7,-6,-5,-4,-3,-2,-1,1,2,3}\n\\draw (0.05,\\y) -- (-0.05,\\y) node[anchor=east] {\\small\\textcolor{black} {$\\y$}};\n\n\\node[anchor=north west] at (0,0) {\\large\\textcolor{black} {O}};\n\\draw[domain=-10:10,draw=black] plot (\\x,{0.1*\\x-1}) node[right] {$y=0.1x-1$};\n\\end{tikzpicture}"
+   }
+  ]
+ }
+]

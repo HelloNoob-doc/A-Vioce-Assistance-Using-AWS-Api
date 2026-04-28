@@ -1,0 +1,2615 @@
+[
+    {
+        "image": "1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Cross Lavida"
+            }
+        ]
+    },
+    {
+        "image": "2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "ORNIA"
+            }
+        ]
+    },
+    {
+        "image": "3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "LNSTAGRAM"
+            }
+        ]
+    },
+    {
+        "image": "4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "POWERCHINA"
+            }
+        ]
+    },
+    {
+        "image": "5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "CIFCO"
+            }
+        ]
+    },
+    {
+        "image": "6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Renwei"
+            }
+        ]
+    },
+    {
+        "image": "7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "ORiGiNAL"
+            }
+        ]
+    },
+    {
+        "image": "8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Passat GTE"
+            }
+        ]
+    },
+    {
+        "image": "9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "RIO"
+            }
+        ]
+    },
+    {
+        "image": "10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "UTUNE"
+            }
+        ]
+    },
+    {
+        "image": "11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HAIBAO"
+            }
+        ]
+    },
+    {
+        "image": "12.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "RAM"
+            }
+        ]
+    },
+    {
+        "image": "13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "YONHAPNEWS"
+            }
+        ]
+    },
+    {
+        "image": "14.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Simplicity"
+            }
+        ]
+    },
+    {
+        "image": "15.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Love"
+            }
+        ]
+    },
+    {
+        "image": "16.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "MAYA"
+            }
+        ]
+    },
+    {
+        "image": "17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "STAR SKY Designs"
+            }
+        ]
+    },
+    {
+        "image": "18.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "THREAT ID"
+            }
+        ]
+    },
+    {
+        "image": "19.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "INTERNATIONAL ARRIVALS"
+            }
+        ]
+    },
+    {
+        "image": "20.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Meitu"
+            }
+        ]
+    },
+    {
+        "image": "21.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Ubras"
+            }
+        ]
+    },
+    {
+        "image": "22.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HUAWEI"
+            }
+        ]
+    },
+    {
+        "image": "23.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "JUNLI"
+            }
+        ]
+    },
+    {
+        "image": "24.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Midea"
+            }
+        ]
+    },
+    {
+        "image": "25.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "zuoxia"
+            }
+        ]
+    },
+    {
+        "image": "26.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HOUSTON"
+            }
+        ]
+    },
+    {
+        "image": "27.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "day"
+            }
+        ]
+    },
+    {
+        "image": "28.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "BOE"
+            }
+        ]
+    },
+    {
+        "image": "29.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "SAMSUNG"
+            }
+        ]
+    },
+    {
+        "image": "30.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "PAKTECUZ"
+            }
+        ]
+    },
+    {
+        "image": "31.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Fashion Style"
+            }
+        ]
+    },
+    {
+        "image": "32.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "STOP"
+            }
+        ]
+    },
+    {
+        "image": "33.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Playback"
+            }
+        ]
+    },
+    {
+        "image": "34.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Dream Online"
+            }
+        ]
+    },
+    {
+        "image": "35.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "CIVIC"
+            }
+        ]
+    },
+    {
+        "image": "36.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "FFEE"
+            }
+        ]
+    },
+    {
+        "image": "37.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "FROZEN"
+            }
+        ]
+    },
+    {
+        "image": "38.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "BOSTON8"
+            }
+        ]
+    },
+    {
+        "image": "39.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "SIG SAUER"
+            }
+        ]
+    },
+    {
+        "image": "40.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "NO PARKING"
+            }
+        ]
+    },
+    {
+        "image": "41.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "RME"
+            }
+        ]
+    },
+    {
+        "image": "42.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HAIBAO"
+            }
+        ]
+    },
+    {
+        "image": "43.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Hurley"
+            }
+        ]
+    },
+    {
+        "image": "44.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "QiCYCLE"
+            }
+        ]
+    },
+    {
+        "image": "45.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "DO SON"
+            }
+        ]
+    },
+    {
+        "image": "46.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "IAREAST"
+            }
+        ]
+    },
+    {
+        "image": "47.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "I AM A UNICORN"
+            }
+        ]
+    },
+    {
+        "image": "48.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "C FSC"
+            }
+        ]
+    },
+    {
+        "image": "49.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "VJshi"
+            }
+        ]
+    },
+    {
+        "image": "50.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Bluetooth"
+            }
+        ]
+    },
+    {
+        "image": "51.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "THE LEMON"
+            }
+        ]
+    },
+    {
+        "image": "52.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "ROSERY"
+            }
+        ]
+    },
+    {
+        "image": "53.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "MoneyS"
+            }
+        ]
+    },
+    {
+        "image": "54.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HEGON"
+            }
+        ]
+    },
+    {
+        "image": "55.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "CHENGDUMEISHI"
+            }
+        ]
+    },
+    {
+        "image": "56.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "intel"
+            }
+        ]
+    },
+    {
+        "image": "57.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "CHANEL"
+            }
+        ]
+    },
+    {
+        "image": "58.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "FROMM"
+            }
+        ]
+    },
+    {
+        "image": "59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Rapporl"
+            }
+        ]
+    },
+    {
+        "image": "60.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Scandic 4"
+            }
+        ]
+    },
+    {
+        "image": "61.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "COSUN"
+            }
+        ]
+    },
+    {
+        "image": "62.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "yanhees"
+            }
+        ]
+    },
+    {
+        "image": "63.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "MINI"
+            }
+        ]
+    },
+    {
+        "image": "64.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "SWAG"
+            }
+        ]
+    },
+    {
+        "image": "65.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "photo"
+            }
+        ]
+    },
+    {
+        "image": "66.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "MacX"
+            }
+        ]
+    },
+    {
+        "image": "67.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "tcially"
+            }
+        ]
+    },
+    {
+        "image": "68.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "ZHU YI QING"
+            }
+        ]
+    },
+    {
+        "image": "69.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "CREATIUE"
+            }
+        ]
+    },
+    {
+        "image": "70.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Mei-Shu.com"
+            }
+        ]
+    },
+    {
+        "image": "71.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HYUNDAI"
+            }
+        ]
+    },
+    {
+        "image": "72.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "FAISC"
+            }
+        ]
+    },
+    {
+        "image": "73.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Scenes photo"
+            }
+        ]
+    },
+    {
+        "image": "74.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "EXTRAORDINARY"
+            }
+        ]
+    },
+    {
+        "image": "75.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "SAMSUNG"
+            }
+        ]
+    },
+    {
+        "image": "76.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "BeautyCam"
+            }
+        ]
+    },
+    {
+        "image": "77.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "DARKSOULS III"
+            }
+        ]
+    },
+    {
+        "image": "78.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "meitu"
+            }
+        ]
+    },
+    {
+        "image": "79.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Today On History"
+            }
+        ]
+    },
+    {
+        "image": "80.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "JAC"
+            }
+        ]
+    },
+    {
+        "image": "81.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HEALTHY"
+            }
+        ]
+    },
+    {
+        "image": "82.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Only time"
+            }
+        ]
+    },
+    {
+        "image": "83.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Beautiful love"
+            }
+        ]
+    },
+    {
+        "image": "84.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "LEDiN"
+            }
+        ]
+    },
+    {
+        "image": "85.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "broadcast"
+            }
+        ]
+    },
+    {
+        "image": "86.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Synology"
+            }
+        ]
+    },
+    {
+        "image": "87.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "deli"
+            }
+        ]
+    },
+    {
+        "image": "88.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "meitu"
+            }
+        ]
+    },
+    {
+        "image": "89.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "FORTEI"
+            }
+        ]
+    },
+    {
+        "image": "90.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "ekorea FASHION"
+            }
+        ]
+    },
+    {
+        "image": "91.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HAZZYS"
+            }
+        ]
+    },
+    {
+        "image": "92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "PCLADY"
+            }
+        ]
+    },
+    {
+        "image": "93.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "otta"
+            }
+        ]
+    },
+    {
+        "image": "94.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "SuperL"
+            }
+        ]
+    },
+    {
+        "image": "95.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "WIESENHOF"
+            }
+        ]
+    },
+    {
+        "image": "96.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "TIAN"
+            }
+        ]
+    },
+    {
+        "image": "97.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "GTGH"
+            }
+        ]
+    },
+    {
+        "image": "98.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "adidas"
+            }
+        ]
+    },
+    {
+        "image": "99.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "JIGOTT"
+            }
+        ]
+    },
+    {
+        "image": "100.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "CURREN"
+            }
+        ]
+    },
+    {
+        "image": "101.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "love"
+            }
+        ]
+    },
+    {
+        "image": "102.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "OUKESHI"
+            }
+        ]
+    },
+    {
+        "image": "103.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "miffy"
+            }
+        ]
+    },
+    {
+        "image": "104.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "tsmc"
+            }
+        ]
+    },
+    {
+        "image": "105.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "PANSHI"
+            }
+        ]
+    },
+    {
+        "image": "106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "TMTforum"
+            }
+        ]
+    },
+    {
+        "image": "107.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "shine"
+            }
+        ]
+    },
+    {
+        "image": "108.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Pearl bow"
+            }
+        ]
+    },
+    {
+        "image": "109.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Canon"
+            }
+        ]
+    },
+    {
+        "image": "110.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "TAAN"
+            }
+        ]
+    },
+    {
+        "image": "111.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "FRIDAY"
+            }
+        ]
+    },
+    {
+        "image": "112.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "AVCROWNS"
+            }
+        ]
+    },
+    {
+        "image": "113.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "FACEU"
+            }
+        ]
+    },
+    {
+        "image": "114.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Suica"
+            }
+        ]
+    },
+    {
+        "image": "115.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "NOORY"
+            }
+        ]
+    },
+    {
+        "image": "116.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "YOUKI"
+            }
+        ]
+    },
+    {
+        "image": "117.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "ELITEMECH"
+            }
+        ]
+    },
+    {
+        "image": "118.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "YONEX"
+            }
+        ]
+    },
+    {
+        "image": "119.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "WyattEarp"
+            }
+        ]
+    },
+    {
+        "image": "120.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "REC"
+            }
+        ]
+    },
+    {
+        "image": "121.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "VPIL"
+            }
+        ]
+    },
+    {
+        "image": "122.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "goodlove"
+            }
+        ]
+    },
+    {
+        "image": "123.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "neal"
+            }
+        ]
+    },
+    {
+        "image": "124.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "adidas"
+            }
+        ]
+    },
+    {
+        "image": "125.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "ADC"
+            }
+        ]
+    },
+    {
+        "image": "126.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "COTTON"
+            }
+        ]
+    },
+    {
+        "image": "127.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Marriot"
+            }
+        ]
+    },
+    {
+        "image": "128.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "minu"
+            }
+        ]
+    },
+    {
+        "image": "129.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "SNOW"
+            }
+        ]
+    },
+    {
+        "image": "130.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "SUPER"
+            }
+        ]
+    },
+    {
+        "image": "131.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "SelfieCity"
+            }
+        ]
+    },
+    {
+        "image": "132.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Emirates"
+            }
+        ]
+    },
+    {
+        "image": "133.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Dreamer"
+            }
+        ]
+    },
+    {
+        "image": "134.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "BeautyCam"
+            }
+        ]
+    },
+    {
+        "image": "135.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "luckin"
+            }
+        ]
+    },
+    {
+        "image": "136.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "AKL"
+            }
+        ]
+    },
+    {
+        "image": "137.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "TMAROY"
+            }
+        ]
+    },
+    {
+        "image": "138.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "TREE"
+            }
+        ]
+    },
+    {
+        "image": "139.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "SUN"
+            }
+        ]
+    },
+    {
+        "image": "140.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "BENTLEY"
+            }
+        ]
+    },
+    {
+        "image": "141.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Kazinform"
+            }
+        ]
+    },
+    {
+        "image": "142.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HGDATA"
+            }
+        ]
+    },
+    {
+        "image": "143.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Ariels"
+            }
+        ]
+    },
+    {
+        "image": "144.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "AOMPC"
+            }
+        ]
+    },
+    {
+        "image": "145.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "WHAT"
+            }
+        ]
+    },
+    {
+        "image": "146.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Hpoi"
+            }
+        ]
+    },
+    {
+        "image": "147.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "OPEN"
+            }
+        ]
+    },
+    {
+        "image": "148.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "All"
+            }
+        ]
+    },
+    {
+        "image": "149.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "IDERCAR"
+            }
+        ]
+    },
+    {
+        "image": "150.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "strict"
+            }
+        ]
+    },
+    {
+        "image": "151.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "OREGON"
+            }
+        ]
+    },
+    {
+        "image": "152.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Hug"
+            }
+        ]
+    },
+    {
+        "image": "153.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "cang"
+            }
+        ]
+    },
+    {
+        "image": "154.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "YOUKUS"
+            }
+        ]
+    },
+    {
+        "image": "155.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "MOTO"
+            }
+        ]
+    },
+    {
+        "image": "156.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "MetroBay"
+            }
+        ]
+    },
+    {
+        "image": "157.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "AMERICA"
+            }
+        ]
+    },
+    {
+        "image": "158.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "GUCCI"
+            }
+        ]
+    },
+    {
+        "image": "159.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "love"
+            }
+        ]
+    },
+    {
+        "image": "160.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "CENANXGEN"
+            }
+        ]
+    },
+    {
+        "image": "161.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "ZBRCOPPERART"
+            }
+        ]
+    },
+    {
+        "image": "162.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "MAN"
+            }
+        ]
+    },
+    {
+        "image": "163.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "SUZHOU"
+            }
+        ]
+    },
+    {
+        "image": "164.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Heineken"
+            }
+        ]
+    },
+    {
+        "image": "165.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HEAT"
+            }
+        ]
+    },
+    {
+        "image": "166.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "BeautyCam"
+            }
+        ]
+    },
+    {
+        "image": "167.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "TOMJERRY"
+            }
+        ]
+    },
+    {
+        "image": "168.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Jeep"
+            }
+        ]
+    },
+    {
+        "image": "169.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HAIBAO"
+            }
+        ]
+    },
+    {
+        "image": "170.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "THEMACHINIST"
+            }
+        ]
+    },
+    {
+        "image": "171.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "ian"
+            }
+        ]
+    },
+    {
+        "image": "172.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "ife"
+            }
+        ]
+    },
+    {
+        "image": "173.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Sinkey"
+            }
+        ]
+    },
+    {
+        "image": "174.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "TRAUM"
+            }
+        ]
+    },
+    {
+        "image": "175.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "WINTERWARMDOWNJACKET"
+            }
+        ]
+    },
+    {
+        "image": "176.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "LIVE"
+            }
+        ]
+    },
+    {
+        "image": "177.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "BEAUJOLAIS"
+            }
+        ]
+    },
+    {
+        "image": "178.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HBO"
+            }
+        ]
+    },
+    {
+        "image": "179.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HAA"
+            }
+        ]
+    },
+    {
+        "image": "180.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "MuaMuaOriginalhandmade"
+            }
+        ]
+    },
+    {
+        "image": "181.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "RafflesChildrenClinic"
+            }
+        ]
+    },
+    {
+        "image": "182.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "LIFEPASSER"
+            }
+        ]
+    },
+    {
+        "image": "183.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "AMRSIEIN"
+            }
+        ]
+    },
+    {
+        "image": "184.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Sunshine"
+            }
+        ]
+    },
+    {
+        "image": "185.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Exnertinclea"
+            }
+        ]
+    },
+    {
+        "image": "186.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "agu"
+            }
+        ]
+    },
+    {
+        "image": "187.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "CHINA"
+            }
+        ]
+    },
+    {
+        "image": "188.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "DALYMAL"
+            }
+        ]
+    },
+    {
+        "image": "189.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Cine"
+            }
+        ]
+    },
+    {
+        "image": "190.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "FELAND"
+            }
+        ]
+    },
+    {
+        "image": "191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "bash"
+            }
+        ]
+    },
+    {
+        "image": "192.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "THURSD"
+            }
+        ]
+    },
+    {
+        "image": "193.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "ZEZUS"
+            }
+        ]
+    },
+    {
+        "image": "194.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "HAIBAO"
+            }
+        ]
+    },
+    {
+        "image": "195.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "AIXSAG"
+            }
+        ]
+    },
+    {
+        "image": "196.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "QUIT"
+            }
+        ]
+    },
+    {
+        "image": "197.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "Smotan"
+            }
+        ]
+    },
+    {
+        "image": "198.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "OCT"
+            }
+        ]
+    },
+    {
+        "image": "199.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "CNSphoto"
+            }
+        ]
+    },
+    {
+        "image": "200.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "colin"
+            }
+        ]
+    },
+    {
+        "image": "201.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n OCR: "
+            },
+            {
+                "from": "gpt",
+                "value": "FACEU"
+            }
+        ]
+    }
+]
